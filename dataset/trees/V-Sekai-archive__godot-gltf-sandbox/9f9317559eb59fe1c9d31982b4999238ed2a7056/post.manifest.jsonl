@@ -1,0 +1,42 @@
+{"path": ".gitignore", "blob": "479f02a25cc5ca0ca56a4e57faf8c75b55462aa1", "size": 114, "mode": "100644"}
+{"path": "LICENSE", "blob": "13bb11cb4f854a7a1e0eb17353813715f2f19b82", "size": 1064, "mode": "100644"}
+{"path": "README.md", "blob": "d7ef63cab0c779c7e0e7f041cacd3208d68a304a", "size": 128, "mode": "100644"}
+{"path": "addons/3d_platform_controller/art/animations/Fall.tres", "blob": "afe86a3c0ad3f70f7bdd61079fc0aad4a26063e0", "size": 36571, "mode": "100644"}
+{"path": "addons/3d_platform_controller/art/animations/Idle.tres", "blob": "aeb0b81970ea5743fff4d92e66bd83f722c72a3e", "size": 107792, "mode": "100644"}
+{"path": "addons/3d_platform_controller/art/animations/Jump.tres", "blob": "e48a41cd7840d06f9c40a808b3e6b394052f04d0", "size": 32417, "mode": "100644"}
+{"path": "addons/3d_platform_controller/art/animations/Run.tres", "blob": "2d7055170c9578cdab87fa4ac4c873b23542219b", "size": 37680, "mode": "100644"}
+{"path": "addons/3d_platform_controller/art/animations/Walk.tres", "blob": "406184de7221a3a64de0cb70cd98cbc210092918", "size": 50659, "mode": "100644"}
+{"path": "addons/3d_platform_controller/art/model/Skeleton.tscn", "blob": "f8ffaae17b8d0316e07f0ca24a24d5aa0c741210", "size": 449526, "mode": "100644"}
+{"path": "addons/3d_platform_controller/core/player.gd", "blob": "09ebdcadc10399427a3427e37375cdc579ae7540", "size": 10091, "mode": "100644"}
+{"path": "addons/3d_platform_controller/scenes/player.tscn", "blob": "a7a969907d9ae4b8296d5f956d8c851f72ced573", "size": 12301, "mode": "100644"}
+{"path": "addons/interpolated_camera_3d/LICENSE.md", "blob": "149ba76ac72bf8e95ce8d2e0e9cbb08548673acc", "size": 1088, "mode": "100644"}
+{"path": "addons/interpolated_camera_3d/interpolated_camera_3d.gd", "blob": "b6e8b33763e05f5e8271363378e2e9df091ae4f2", "size": 3211, "mode": "100644"}
+{"path": "addons/interpolated_camera_3d/interpolated_camera_3d.svg", "blob": "6cbd879326e9cb50fe6b7087959e8d86f46609ca", "size": 612, "mode": "100644"}
+{"path": "addons/interpolated_camera_3d/interpolated_camera_3d.svg.import", "blob": "1046fda8720d9d3f8f6001d0d005f4b04eaaa6f9", "size": 823, "mode": "100644"}
+{"path": "addons/interpolated_camera_3d/plugin.cfg", "blob": "7bfabd5e2054e904546c271f219a3b189f9bc664", "size": 194, "mode": "100644"}
+{"path": "addons/interpolated_camera_3d/plugin.gd", "blob": "b6261d892ac9edf073cbbb0aaea07ac30517b6db", "size": 286, "mode": "100644"}
+{"path": "addons/mozilla_hubs/import_mozilla_hubs.gd", "blob": "df32c9c7460e2672f46d0a6a83e8fc18b8fbf543", "size": 4861, "mode": "100644"}
+{"path": "addons/mozilla_hubs/node_resource.gd", "blob": "75db610e0cd07fe76a2bc89994ee98560397e8d8", "size": 57, "mode": "100644"}
+{"path": "addons/mozilla_hubs/plugin.cfg", "blob": "92d9f477e051d17c4896be2cb1ef3c0abf1283c8", "size": 109, "mode": "100644"}
+{"path": "addons/mozilla_hubs/plugin.gd", "blob": "882080dd6aa948dd74a60ff34a12ceae4857269f", "size": 295, "mode": "100644"}
+{"path": "export_presets.cfg", "blob": "60d8c3fb6d28900a57527745157569b29bf79962", "size": 1643, "mode": "100644"}
+{"path": "icon.png", "blob": "c98fbb601c83c81ec8c22b1dba7d1d57c62b323c", "size": 3305, "mode": "100644"}
+{"path": "icon.png.import", "blob": "bae768cd2b00db9d6fc313be49693a2c1d406d1b", "size": 939, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/catacombs/catacombBaked.glb", "blob": "ae464ce3c9c43f2af5d2d8e7592e8eacc8c2cc31", "size": 23591240, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/catacombs/catacombBaked.glb.import", "blob": "377a97b7abe1d66ce75e80ac70c943a0afc7ce21", "size": 681, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/catacombs/catacombBaked.mozhubs", "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391", "size": 0, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/catacombs/catacombBaked.mozhubs.import", "blob": "140c571e582cee3605c683651b281aec819a9263", "size": 1176, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/73d3d8d6-778e-4e71-bb30-061f43fb1ef9.mp3", "blob": "cd01879d4670a32cc548a93c286962ac6ed643ce", "size": 968011, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/73d3d8d6-778e-4e71-bb30-061f43fb1ef9.mp3.import", "blob": "e9fa37037f39474ac7aeb74e85c4d4f04c80fecb", "size": 440, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/8b24dcc0-8091-401a-96d7-5e221ac29acc.mp3", "blob": "9a17cbd49169e703b2a92b12f9c98fecb9b579a8", "size": 414661, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/8b24dcc0-8091-401a-96d7-5e221ac29acc.mp3.import", "blob": "808c73b2377592b58c76188e49a5a21cf626bd32", "size": 439, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/CC-BY Mozilla Hubs Outdoor Festival.glb", "blob": "5304df30926dbd4207d1574e633b021b1e6d3e75", "size": 17846900, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/CC-BY Mozilla Hubs Outdoor Festival.glb.import", "blob": "a10ebdb8a64ec294e98def7e6f9f980677339cc9", "size": 746, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/CC-BY Mozilla Hubs Outdoor Festival.mozhubs", "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391", "size": 0, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/CC-BY Mozilla Hubs Outdoor Festival.mozhubs.import", "blob": "15ebc3a66e11f58d9aaf46c5f53d66311bb65728", "size": 896, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/a3670163-1e78-485c-b70d-9af51f6afaff.mp3", "blob": "f73e91cff24f589726075447bc66e8564140ad99", "size": 105939, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/a3670163-1e78-485c-b70d-9af51f6afaff.mp3.import", "blob": "eb98bc7205ea939288a4d91f45f66c3d634808ca", "size": 440, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/cfe9b7ed-e603-44c5-95e3-c06ffc1d014f.mp3", "blob": "90ab16c852532f22c8eec43260562182e9a210ff", "size": 146013, "mode": "100644"}
+{"path": "mozilla_hubs_importer/art/festival/cfe9b7ed-e603-44c5-95e3-c06ffc1d014f.mp3.import", "blob": "f1af0cf47d2412d492519f41c8c43f1d92df4f30", "size": 440, "mode": "100644"}
+{"path": "mozilla_hubs_importer/scenes/start.tscn", "blob": "961aea650b275c697302a2258c3647b1fd1aebc8", "size": 642, "mode": "100644"}
+{"path": "project.godot", "blob": "585ee20ed758ac939779473d84ad0c2b99211c9b", "size": 6134, "mode": "100644"}

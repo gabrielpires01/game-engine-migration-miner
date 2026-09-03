@@ -1,0 +1,35 @@
+{
+  "title": "GEM: A Dataset of Engine Version Migrations in Open-Source Game Projects (v0.1)",
+  "upload_type": "dataset",
+  "version": "0.1.0",
+  "publication_date": "2026-08-26",
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "description": "<p>GEM records engine version state and migration events in open-source game projects. Godot is the instrument; the phenomenon is API evolution and breaking-change migration, and the version-extraction rule sits behind an adapter interface that admits Unity and Unreal without a schema change.</p><p>v0.1 covers a frame of 39,553 non-fork GitHub repositories created before Godot 4.0-stable, of which 5,988 were probed for their declared engine version and 300 were cloned and mined commit by commit. It contains 16 JSONL tables mirrored as CSV, plus captured pre- and post-migration trees for 103 repositories: 1,134 version events (131 major migrations), 135 migration windows with churn separated by file extension, 405 survival records reported under two reference versions rather than one, 327 demand and counter-demand signals, and a 200-repository instrument-agreement study.</p><p>Every row carries an <code>ev_id</code> naming the content-addressed artifact it was computed from, so each figure is re-derivable from a stored response rather than from a re-run of the collection. See <code>SCHEMA.md</code> for the 16 tables and the join graph, <code>METRICS.md</code> for every reported quantity and its definition, and <code>DATASHEET.md</code> for the Gebru-style datasheet including known limitations.</p>",
+  "keywords": [
+    "mining software repositories",
+    "dataset",
+    "game engines",
+    "breaking changes",
+    "software migration",
+    "technical lag",
+    "Godot",
+    "survival analysis"
+  ],
+  "creators": [
+    {
+      "name": "Pires, Gabriel",
+      "affiliation": "COPPE/UFRJ"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "[TODO: miner release DOI]",
+      "relation": "isSupplementedBy",
+      "resource_type": "software",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Built with the GEM miner, archived separately under Apache-2.0. GitHub search result counts used during collection are approximate, include forks, and drift between runs; see DATASHEET.md for the standing caveat registry."
+}

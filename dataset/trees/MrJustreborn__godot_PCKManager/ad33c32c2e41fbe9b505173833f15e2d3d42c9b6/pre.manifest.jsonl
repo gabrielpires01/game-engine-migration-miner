@@ -1,0 +1,17 @@
+{"path": ".gitignore", "blob": "37f05f2b7170be05822c65c5ee27a8e21fdbc100", "size": 8, "mode": "100644"}
+{"path": "LICENSE", "blob": "b96cd9f244784ead250a115d3e055b399d760d6e", "size": 1069, "mode": "100644"}
+{"path": "addons/PCKManager/PCKDirectory.gd", "blob": "56aa501ec3e78ecb1c45f9addb9744b3be929a5e", "size": 7807, "mode": "100644"}
+{"path": "addons/PCKManager/PCKManager.gd", "blob": "7305d31326cab5be476baf982de9cfeb28596106", "size": 801, "mode": "100644"}
+{"path": "addons/PCKManager/assets/PCKInspectorDock.gd", "blob": "e634abfe0d44229a1c567b5e4716c4ed867635ce", "size": 3353, "mode": "100644"}
+{"path": "addons/PCKManager/assets/PCKInspectorDock.tscn", "blob": "df7014d1350584a3881c5cfe6b02ded541a4327f", "size": 13914, "mode": "100644"}
+{"path": "addons/PCKManager/assets/PCKManagerDock.tscn", "blob": "eab4ab421c3e50ae6e70787fb9bf911c24972f10", "size": 310, "mode": "100644"}
+{"path": "addons/PCKManager/plugin.cfg", "blob": "8c16789139f47cbef42f7d9aba46826d1a23e0ea", "size": 207, "mode": "100644"}
+{"path": "addons/PCKManager/test/PCKDir_test.gd", "blob": "17dc333dfd4c0439f37d4a5f88c9518a4a7658e2", "size": 797, "mode": "100644"}
+{"path": "addons/PCKManager/test/PCKDir_test.tscn", "blob": "3babb4c6148a3b0a3f5f7da00326fb5ab36f3d2e", "size": 180, "mode": "100644"}
+{"path": "addons/PCKManager/test/PCKDirectory.gd", "blob": "f60f9397c0f523978333383f4d92ea4f3fc987c3", "size": 5949, "mode": "100644"}
+{"path": "addons/PCKManager/test/pck.gd", "blob": "0306480c077b3599a3c17015ff6bd68e35c6cf99", "size": 1623, "mode": "100644"}
+{"path": "addons/PCKManager/test/test.pck", "blob": "e601337c87bdab2c01656e7719a34cce69bd7a50", "size": 431789, "mode": "100644"}
+{"path": "default_env.tres", "blob": "ad86b722a9c11eef001658234179c0589f74b714", "size": 2580, "mode": "100644"}
+{"path": "icon.png", "blob": "050cdb67d867affe4e28ced43a632cfc2bb383e0", "size": 71896, "mode": "100644"}
+{"path": "icon.png.import", "blob": "42e94a354373e4b0cbc1515133f6c5e813b870ab", "size": 442, "mode": "100644"}
+{"path": "project.godot", "blob": "86cd17735594af436b508480d6dfbb7b1176d14e", "size": 553, "mode": "100644"}

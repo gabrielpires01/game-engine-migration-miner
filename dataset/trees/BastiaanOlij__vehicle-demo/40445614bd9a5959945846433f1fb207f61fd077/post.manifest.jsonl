@@ -1,0 +1,63 @@
+{"path": ".gitattributes", "blob": "589c17c1ec5b55c337c117d091b648ae7b6e3275", "size": 117, "mode": "100644"}
+{"path": ".gitignore", "blob": "56659cd6e7dd9646693319665437ccaf390428e5", "size": 60, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/#.material", "blob": "19b5ee517cf790a321224ab8f3a961ca3a73308c", "size": 851, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/#_001.material", "blob": "c3757930e3e74ec1fd8f883152d580161f04cf35", "size": 853, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Car Paint.material", "blob": "8a43653db2ec11e8ec9bd5c165da4b309431d1a7", "size": 854, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Car.tscn", "blob": "505542bd230046acd89ee49e7a5523dcbbc5f578", "size": 3360, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Carbon.material", "blob": "601fd6dcd1a826f60a761efdc718ff688c6faeb9", "size": 905, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Disk.material", "blob": "4db69ecdc7d48fbf460820d45a4cea5f1286d85e", "size": 867, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Finishes.Laminate.CarbonFiber.jpg", "blob": "5127ec7182fbb5a25e89d8169e7a89282a01d095", "size": 45326, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Finishes.Laminate.CarbonFiber.jpg.import", "blob": "840cdbccfe75fa0695dde0b2ef38eb0f0bbeff91", "size": 926, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Headlights glass.material", "blob": "61472c139fbb6a1eac4929d12d69e844963f2b2d", "size": 869, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Lamps.material", "blob": "e26dcda74389ada3d9aa46e8e8e2b02a586f09dc", "size": 845, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Logo.material", "blob": "391f4b4fefa61c7a6247a165ed5fa10dcd4224e4", "size": 846, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Material #12.material", "blob": "5f9523f540ca0606c3558c3a6973eebf222867b7", "size": 864, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Material #499.material", "blob": "bc227d54b8e28d1f20a4fd4592a30c7714497eed", "size": 843, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Material #500.material", "blob": "f5b1e505e5b71583e645d17ee6726a363fbd76cf", "size": 862, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Rear headlights reflect.material", "blob": "9a38ecda1694e76560ce6728bbcbf2b7770037b1", "size": 866, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Rear hlights red.material", "blob": "d3a18868c7592b6d6024caf7b463d5567fe63e02", "size": 881, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Rear hlights white.material", "blob": "ad20c274ac115d5e42ee8524dd3a4f268027aeec", "size": 842, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/Turning point orange.material", "blob": "181abe7cdf5e7b9d8fe6fc97559e0bc24c55fb3c", "size": 885, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/black.material", "blob": "788d5f86bd3a799184be6e63f7f75a5bbadbf0b8", "size": 858, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/caterham.bin", "blob": "560be7737cccbe39f4ec3c68ccc58b0de3f1a269", "size": 1673996, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/caterham.gltf", "blob": "7586b0350876f47d54ecb5d5dee43115415c320e", "size": 120722, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/caterham.gltf.import", "blob": "e31938a1e08607000d18d376f731d3e95de3b22f", "size": 31762, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/gas tank.jpg", "blob": "293fcf1d1e38ba8f25fe10e3933cd21ad829329a", "size": 19084, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/gas tank.jpg.import", "blob": "862e603648a220a5aace140988ff86e0869becd0", "size": 821, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/gas tunk.material", "blob": "a64ec3c2717d9be8c8df5ee7b710f3accb41ff9a", "size": 875, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/glass.material", "blob": "0aac80184ea0a5722da8f4d771866c21fda02822", "size": 858, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/glossy metall.material", "blob": "95f200852850e471a0dfd97ec56a09feac1d9dc8", "size": 874, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/license plate.jpg", "blob": "34bfb41c849f4842111ace4335813f75a8177363", "size": 17507, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/license plate.jpg.import", "blob": "637406ec346230ebce1ba46405a6c50e3afc1dcf", "size": 846, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/license plate.material", "blob": "77ce17714f8a2306757aa19c00181ed2f8960139", "size": 885, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/red button.material", "blob": "0904a055e9c54bdfbd29fe961cab1880fe2e01c1", "size": 918, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/speed.jpg", "blob": "383b11ac0f38e0e15a656aabfbcac664ddfe129c", "size": 16307, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/speed.jpg.import", "blob": "f0c91a247870287238d4a09a9254cccf87cd8a67", "size": 639, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/speed.material", "blob": "5da3695215a8edb40687abb98590caa3a2b0e608", "size": 872, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/speed.png", "blob": "79966b848f31eb0e08ff5ecbe9a7e9e5de6dd5d3", "size": 53590, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/speed.png.import", "blob": "4b7fa0825cb72af7c48ecf6710273b099328ec77", "size": 806, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/tire.jpg", "blob": "81466fdfce5984fa4e3620ade1a5d4f070afe073", "size": 156833, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/tire.jpg.import", "blob": "39f9cb65bada52ed379f0039759c45b25052a204", "size": 801, "mode": "100644"}
+{"path": "Assets/Cars/Caterham/tire.material", "blob": "e128cc508e517ee019c263cc0929c18564e0f82e", "size": 883, "mode": "100644"}
+{"path": "Assets/Materials/guardrail.tres", "blob": "1c47035810564fc4038e41f294b441c9c517d323", "size": 1463, "mode": "100644"}
+{"path": "Assets/Materials/terrain_texture.tres", "blob": "e0034c8f339fc339294f609494677df29edc1711", "size": 684, "mode": "100644"}
+{"path": "Assets/Scenes/track-base.gd", "blob": "fc3dd0c3ee3238e94f6633276d1fa07f2b16c18f", "size": 5061, "mode": "100644"}
+{"path": "Assets/Scenes/track-base.tscn", "blob": "9a5745a39a718d8661e1b246492110e68df18b93", "size": 85444, "mode": "100644"}
+{"path": "Assets/Textures/TexturesCom_MetalFloorsBare0063_2_seamless_S.jpg", "blob": "34d7ba2bf0232f97e8c8429f9912691d1a283679", "size": 1203925, "mode": "100644"}
+{"path": "Assets/Textures/TexturesCom_MetalFloorsBare0063_2_seamless_S.jpg.import", "blob": "ab08b8c0e7ef94015190e0d7b27995af840dd004", "size": 751, "mode": "100644"}
+{"path": "Assets/Textures/TexturesCom_Roads0069_1_seamless_S.jpg", "blob": "07366d160243cf811b8afa8288b60799e0a4023e", "size": 386080, "mode": "100644"}
+{"path": "Assets/Textures/TexturesCom_Roads0069_1_seamless_S.jpg.import", "blob": "78d4fdac4ec22fc6580d2de1e06a7ed1bb73fac0", "size": 946, "mode": "100644"}
+{"path": "Assets/Textures/TexturesCom_RockGrassy0142_2_seamless_S.jpg", "blob": "127418b3c6415c86d11cae75682356d5fe74542d", "size": 1485380, "mode": "100644"}
+{"path": "Assets/Textures/TexturesCom_RockGrassy0142_2_seamless_S.jpg.import", "blob": "473f61776f150318b7133807aa47cce4878845a8", "size": 739, "mode": "100644"}
+{"path": "Assets/Textures/hdrihaven_com_kiara_3_morning.jpg", "blob": "c95a847d337d50cd0be632ed082247e255fc5bc1", "size": 222180, "mode": "100644"}
+{"path": "Assets/Textures/hdrihaven_com_kiara_3_morning.jpg.import", "blob": "772c3c07acee430b75e57e045a387d0bd5bf45b3", "size": 706, "mode": "100644"}
+{"path": "LICENSE", "blob": "726d7064106eaa3beb44fc57827451fedca350eb", "size": 1070, "mode": "100644"}
+{"path": "Main.gd", "blob": "fa119437f1308399c79f32bc8f5a728676e3fb82", "size": 237, "mode": "100644"}
+{"path": "Main.tscn", "blob": "5772dd10c26b1d0bd3be8e479175ba40f35a4b37", "size": 6252, "mode": "100644"}
+{"path": "README.md", "blob": "08b790bdd250573dbb15baabf30e9859f68c388f", "size": 1488, "mode": "100644"}
+{"path": "Script/Camera.gd", "blob": "b4a32dbfeb6da152029b0143fad37dc33c21b485", "size": 962, "mode": "100644"}
+{"path": "Script/Car.gd", "blob": "b6c4a05c18ffea9c18fd64e42ac683296c09b6e5", "size": 2772, "mode": "100644"}
+{"path": "default_env.tres", "blob": "9552811dcea66d7ac34eb2ad2d1706568dc15e10", "size": 2342, "mode": "100644"}
+{"path": "icon.png", "blob": "a0b64eee944cb4cfb2aa8dc0d8d78faf6ca44dc1", "size": 3498, "mode": "100644"}
+{"path": "icon.png.import", "blob": "3c19fc03f96377216d62b98cd14de87d5f5c6b01", "size": 615, "mode": "100644"}
+{"path": "project.godot", "blob": "ea7e39b194ee396d5b0a53e00fc75dacd9294624", "size": 496, "mode": "100644"}

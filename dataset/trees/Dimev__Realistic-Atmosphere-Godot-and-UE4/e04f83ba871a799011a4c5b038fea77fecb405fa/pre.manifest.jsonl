@@ -1,0 +1,22 @@
+{"path": "LICENSE", "blob": "340ed80f42c7fae2aa6fff77e5abb92bfb4cf1b3", "size": 1094, "mode": "100644"}
+{"path": "README.md", "blob": "b3776ebca7bb002f3874baff83b36d8745eaecf3", "size": 2068, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/Atmosphere/atmosphere_v2.shader", "blob": "f8f2c6d38475118c10c169c2ffc365270f264cf9", "size": 7585, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/Atmosphere/legacy_atmosphere.shader", "blob": "95a44937a367c615c1678fc1b18fd3e182a4d91e", "size": 7556, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/Demo.tscn", "blob": "5833a9466d1f671f0f2486b993aa7d5589be6fa0", "size": 1941, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/Terrain/terrain.shader", "blob": "b3a66b8fa90057fcfe71db18e836f2b3cc59eb73", "size": 1966, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/camera.gd", "blob": "4afac2d298c690a7cba27590053666395079a592", "size": 745, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/default_env.tres", "blob": "a2126bd23f3ff28f0eff1157f1cd5b14faf64d7d", "size": 319, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/icon.png", "blob": "2b658158b6a2211b656d83fee35e3941e5ad376a", "size": 3433, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/icon.png.import", "blob": "96cbf4629a557eb7339eef87ad61b7e7d8c8f0e7", "size": 640, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/project.godot", "blob": "34312f3df8d8d8088f7d4f23b528d97d553fdbf5", "size": 596, "mode": "100644"}
+{"path": "godot/Atmosphere Showcase/settings_changer.gd", "blob": "038fd26ae317dabbf02922a9c18734396dcca7b8", "size": 1349, "mode": "100644"}
+{"path": "godot/shader/atmosphere.shader", "blob": "a500f866668cc0918539759a0ac57f4f191cf3f3", "size": 7586, "mode": "100644"}
+{"path": "images/planet_1.png", "blob": "0b63a0d9df044d28e344a590a6e3e0c380037028", "size": 712126, "mode": "100644"}
+{"path": "images/planet_2.png", "blob": "755f25e4d756653fc71517b91631e8d1f7228be4", "size": 164318, "mode": "100644"}
+{"path": "images/planet_3.png", "blob": "3b7458ed8a412b22c2ea863fa37fa89135dd17a6", "size": 141163, "mode": "100644"}
+{"path": "ue4/RealisticAtmospherePluginUE4.26-24.7z", "blob": "15ed237666b7532bc75a6e61572158c9853e13d9", "size": 504172, "mode": "100644"}
+{"path": "ue4/atmo_demo_2 4.25.zip", "blob": "945935851ff327ed20d236f80b449b61033ad871", "size": 2773391, "mode": "100644"}
+{"path": "ue4/atmosphere_demo_2_4_22_3.zip", "blob": "be8132fddc174b3cab07f64b3546857813f0da4b", "size": 12929927, "mode": "100644"}
+{"path": "ue4/atmosphere_demo_4_22_3.zip", "blob": "08bae7efb700973b09e9f20075829b3ecf800316", "size": 1575041, "mode": "100644"}
+{"path": "usage/godot.md", "blob": "b2b8c514d6234ed46ec6f49d657c9201f405a275", "size": 2740, "mode": "100644"}
+{"path": "usage/ue4.md", "blob": "095ec66ee8bbf02e29455de5c649a28c205d7b77", "size": 6360, "mode": "100644"}

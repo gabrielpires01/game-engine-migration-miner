@@ -1,0 +1,13 @@
+{"path": ".github/FUNDING.yml", "blob": "325f65e7e3f4249084fb925e0335f7855b31dd0c", "size": 63, "mode": "100644"}
+{"path": ".gitignore", "blob": "3e3aeb841939dda788837d7fca601215400649ba", "size": 109, "mode": "100644"}
+{"path": "LICENSE", "blob": "2072eae3aa9ba1331c949a8f8d41ba270d61334f", "size": 1063, "mode": "100644"}
+{"path": "README.md", "blob": "7db31800f6c6a81c06f22caa0fc2317529512542", "size": 1143, "mode": "100644"}
+{"path": "default_env.tres", "blob": "20207a4aa2cfbae0c95636531b00d91502940d12", "size": 163, "mode": "100644"}
+{"path": "icon.png", "blob": "2b658158b6a2211b656d83fee35e3941e5ad376a", "size": 3433, "mode": "100644"}
+{"path": "icon.png.import", "blob": "96cbf4629a557eb7339eef87ad61b7e7d8c8f0e7", "size": 640, "mode": "100644"}
+{"path": "main.gd", "blob": "27e6a0e472173142998ee7833ed887f2c9d307a3", "size": 2023, "mode": "100644"}
+{"path": "main.tscn", "blob": "e224b275b741d69f7ec778a25a200732674e4225", "size": 290, "mode": "100644"}
+{"path": "perceptron.gd", "blob": "7d284df941dd4e778363653f83803c0670bf93c9", "size": 652, "mode": "100644"}
+{"path": "point.gd", "blob": "4d711f79f2fc5a64b51797f36926ff904bba23d2", "size": 406, "mode": "100644"}
+{"path": "point.tscn", "blob": "c200075e8e73c3a4a41a8bcb51aa2f0f927c5c3f", "size": 151, "mode": "100644"}
+{"path": "project.godot", "blob": "b454563839c93a2a80dae9c4ca0285254b739b1b", "size": 611, "mode": "100644"}

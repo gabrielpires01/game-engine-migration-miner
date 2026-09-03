@@ -1,0 +1,153 @@
+{"path": ".github/workflows/continuous_build_check.yaml", "blob": "6094b3725795b007fd7a2c4926b1b895e066a9b2", "size": 1519, "mode": "100644"}
+{"path": ".gitignore", "blob": "3130746c062165e66dc8ae8004193c7591ae6470", "size": 1003, "mode": "100644"}
+{"path": "Godot_icon.png", "blob": "451284a284c201727f39d7aea0369cefe108d855", "size": 25040, "mode": "100644"}
+{"path": "Godot_icon.png.import", "blob": "c89e8ee3fc1f95e25ebef91f1209603ff90690d1", "size": 764, "mode": "100644"}
+{"path": "LICENSE", "blob": "7eef8e792261e997fd2580872ed67546b3ef2ce2", "size": 1104, "mode": "100644"}
+{"path": "README.md", "blob": "a17041c8dfdf64f33a786d15f4c49ca1f89edcfe", "size": 1298, "mode": "100644"}
+{"path": "Samples/NotoSerifJP-Regular.otf", "blob": "541a86b62d88b07b0f0581e576b02d167bf1fe86", "size": 6169440, "mode": "100644"}
+{"path": "Samples/NotoSerifJP-Regular.otf.import", "blob": "4599a62619864d12760d3b744bae1a821912d6b1", "size": 702, "mode": "100644"}
+{"path": "Samples/NotoSerifJP-Regular.tres", "blob": "adb462ebcced04dc233f984b237bd476eb1285f7", "size": 272, "mode": "100644"}
+{"path": "Samples/SampleEntryPoint.cs", "blob": "f49aa70bafa49f68f71c46acbc31a7054a900cb0", "size": 1046, "mode": "100644"}
+{"path": "Samples/SampleEntryPoint.tscn", "blob": "1e2dc0081cd1f7f7c6b47cf523bb5792678f18c3", "size": 1770, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Sally.yarn", "blob": "d19ffcceb1b05c16fd4010a229df793dd4f11486", "size": 1190, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Sally.yarn.import", "blob": "362a7774c57a31e6a732b6b37613470011ea85f3", "size": 311, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Ship.yarn", "blob": "02c57940558016f473a9a6ae66a2438a4a98d01c", "size": 1031, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Ship.yarn.import", "blob": "f026e2e6bf47b5d5653fa9bd3bd775d17d9db0f5", "size": 307, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/SpaceYarnProject.tres", "blob": "d9f67c05dd80398040759d14553f4c2a92b71524", "size": 20012, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Variables.yarn", "blob": "8bc9eb2355bde311702a36a17476a88605cebff9", "size": 210, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Variables.yarn.import", "blob": "7f649a36cda1b500fea7f8eedd73c94f37efae38", "size": 323, "mode": "100644"}
+{"path": "Samples/Space/DialogueTarget.cs", "blob": "ec63e3f09b5c4aed95038674d827ce00d3b5d083", "size": 253, "mode": "100644"}
+{"path": "Samples/Space/Player.cs", "blob": "2426c955d4d8f3cb64128c5eeed58c79fdddcede", "size": 2711, "mode": "100644"}
+{"path": "Samples/Space/Scripts/SpaceSample.cs", "blob": "5fee2c5f3151655f03c562e190dfe9f8033eada4", "size": 971, "mode": "100644"}
+{"path": "Samples/Space/SpaceCamera.cs", "blob": "3639811171b1726a70a84d2e2d9e000db5bd8c5b", "size": 857, "mode": "100644"}
+{"path": "Samples/Space/SpaceSample.tscn", "blob": "8da5048e45594bb8797cb4b7fa83675a8374d019", "size": 5389, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Background.jpg", "blob": "0dba3e1a94f955e77e312d0bec916e1bfcdaee02", "size": 902854, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Background.jpg.import", "blob": "840f00fc0f15dfc01cf8a1ee5771e941537bf8e8", "size": 785, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Player.png", "blob": "1647f830365386ffbcf6ce5782e8c963b324aade", "size": 8116, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Player.png.import", "blob": "1609491149f0bbb2c5a89ad77296fe5dcdf999b8", "size": 774, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Sally.png", "blob": "64544c583f61b7a69b18bd847098bfdaeb024e93", "size": 9870, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Sally.png.import", "blob": "71aa38f984c008b5c9ef3e623dbe8ed40f230785", "size": 771, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship-Face-Happy.png", "blob": "48146c329eef0225aa9e27a4490e2763a3a2f57d", "size": 939, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship-Face-Happy.png.import", "blob": "20d5a17c0cd654483d4db3cf4e7c0add17e1f7f0", "size": 801, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship-Face-Neutral.png", "blob": "0700c5b406df5a7810d31dfaabf145d933c13f02", "size": 1058, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship-Face-Neutral.png.import", "blob": "5a89d78c93debaa60120ed2a227a82b7c83a9be3", "size": 807, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship.png", "blob": "e7166e4851ae6c47b09d9c3425ce17ae784c03e4", "size": 2855, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship.png.import", "blob": "d488f22b7361b99005bde0343a51329f7e3da507", "size": 768, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Source/Characters.psd", "blob": "621d36b025d0454dd562c42f0269e79fc74d6f7c", "size": 570557, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Source/Wall.psd", "blob": "0099ae0028bed35846ac710a444af3f154e5930b", "size": 14981763, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Wall.png", "blob": "257d217e9e0465a439b428916f18acba68642bc0", "size": 190198, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Wall.png.import", "blob": "515b7b02f91bd63a9046618a62b573d2e7dd3bd8", "size": 768, "mode": "100644"}
+{"path": "Samples/VisualNovel/Dialogue/VNExampleDialogue.yarn", "blob": "61ee115d6aa6a14d7065e261d0cfaeb4b10cc914", "size": 2357, "mode": "100644"}
+{"path": "Samples/VisualNovel/Dialogue/VNExampleDialogue.yarn.import", "blob": "1fc1d3dc115e20997793b27295f03e11a8aec6e4", "size": 353, "mode": "100644"}
+{"path": "Samples/VisualNovel/Dialogue/VN_YarnProject.tres", "blob": "f3f7e5d09205e3e32262f131bf957baec203fdfa", "size": 12585, "mode": "100644"}
+{"path": "Samples/VisualNovel/Localization/VisualNovel_es.csv", "blob": "8752e4dd66006d0418e4394d02e99603b9bbb679", "size": 3208, "mode": "100644"}
+{"path": "Samples/VisualNovel/Localization/VisualNovel_es.csv.import", "blob": "d9b0e47faa59325242255b6e82a64f488037ef78", "size": 24, "mode": "100644"}
+{"path": "Samples/VisualNovel/Localization/VisualNovel_es.translation", "blob": "d5859b50acc44a6efaa1cec4cced7bdfafb2f3cf", "size": 1582, "mode": "100644"}
+{"path": "Samples/VisualNovel/Localization/VisualNovel_ja.csv", "blob": "f1519e9e7bb6933f924e25456964330cd780a34d", "size": 3532, "mode": "100644"}
+{"path": "Samples/VisualNovel/Localization/VisualNovel_ja.csv.import", "blob": "d9b0e47faa59325242255b6e82a64f488037ef78", "size": 24, "mode": "100644"}
+{"path": "Samples/VisualNovel/Localization/VisualNovel_ja.translation", "blob": "2d24c525509a032f5292daf47e837c1c3d7e94e5", "size": 1907, "mode": "100644"}
+{"path": "Samples/VisualNovel/Scripts/VisualNovelManager.cs", "blob": "2eb8c31dfbc22bef2c37c2146fbe629c09816b16", "size": 12163, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/ambient_birds.ogg", "blob": "f1a9c70253d97c474d5bd18f193829030636c8fb", "size": 265538, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/ambient_birds.ogg.import", "blob": "1b79eb819da5a17ad034b8653ae85ddf72142be0", "size": 421, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/music_funny.mp3", "blob": "4eb587e24de41c1bc94e35d928786a012b961d23", "size": 1713549, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/music_funny.mp3.import", "blob": "dae4e6516ee2e955d71155cb54156f696c4d1e7f", "size": 388, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/music_romantic.mp3", "blob": "9173c0a8db750bfd5ad21b62fc9cb33966e27c2a", "size": 3831480, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/music_romantic.mp3.import", "blob": "80cac50ea1b95ad1d55f844d8368f4656348aab8", "size": 397, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/bg_office.png", "blob": "b92ee9728d7000332783dfe05d321cbbef2b77eb", "size": 839909, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/bg_office.png.import", "blob": "27f0afdd2368a453d26367a5ad92768549788016", "size": 789, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/biz-guy.png", "blob": "f47d839766312d277bde9413b46e6d6ee2dff05b", "size": 325992, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/biz-guy.png.import", "blob": "ceea35e66da346b258fcbe2c05b7ee065ef2d873", "size": 783, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/cool-girl.png", "blob": "5bfb68cdd752adde788c978915a83fae563c7967", "size": 276707, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/cool-girl.png.import", "blob": "3e5915f87419268c8d708962d99d1cea832a5bb9", "size": 789, "mode": "100644"}
+{"path": "Samples/VisualNovel/VisualNovelSample.tscn", "blob": "bfd36c71151ff802409ea06623630cc9ec162d75", "size": 3438, "mode": "100644"}
+{"path": "Samples/sample_default_theme.tres", "blob": "a1b6914c551eab2812c8dde68997d284842867e3", "size": 510, "mode": "100644"}
+{"path": "YarnDonut.DotSettings", "blob": "526a7ec3714d14fda24b86077bff80067faf08d9", "size": 405, "mode": "100644"}
+{"path": "YarnDonut.csproj", "blob": "aa08022817786d28f2c0ca05cf019d4155f7a119", "size": 2269, "mode": "100644"}
+{"path": "YarnDonut.csproj.old", "blob": "aa08022817786d28f2c0ca05cf019d4155f7a119", "size": 2269, "mode": "100644"}
+{"path": "YarnDonut.sln", "blob": "7f2844d206e3134661a482be389a33dee4c96728", "size": 1053, "mode": "100644"}
+{"path": "YarnDonut.sln.DotSettings", "blob": "526a7ec3714d14fda24b86077bff80067faf08d9", "size": 405, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/LineMetadata Icon.png", "blob": "2e83b761f558b695e82f2ce7456e589ffab0b53f", "size": 8246, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/LineMetadata Icon.png.import", "blob": "ce4ff785f5f82f3878017e80f823daef9e1ca823", "size": 826, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/Localization Icon.png", "blob": "5eed6d2ef3d8d87da505c2507052e931e280248f", "size": 7884, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/Localization Icon.png.import", "blob": "bb7f61780812e0aa75f5ba1385098154e3b92ad8", "size": 827, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/LocalizationDatabase Icon.png", "blob": "38a0e754461d7068f0e4b9e38664c85de8321b83", "size": 5306, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/LocalizationDatabase Icon.png.import", "blob": "06b5e6fbaba3debbf626eccd25d4398947fb8da3", "size": 851, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/YarnProject Icon.png", "blob": "2e83b761f558b695e82f2ce7456e589ffab0b53f", "size": 8246, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/YarnProject Icon.png.import", "blob": "3b29c7036ba60651fb3172227b98aa5afd350534", "size": 824, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/YarnScript Icon.png", "blob": "0d9545dacdc2d9937726405636286d4f9b978afe", "size": 9877, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/YarnScript Icon.png.import", "blob": "e9d387b997ed2ef09eacf6081a4345eb74bbf67f", "size": 821, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/mini_Localization Icon.png", "blob": "fc9a6ea43e1531ec834a1d9769b75495b9f15934", "size": 518, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/mini_Localization Icon.png.import", "blob": "9f81463be5a756fa9930cea10ba37244b33e619b", "size": 842, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/mini_YarnProject Icon.png", "blob": "82df4cc17d0f71d569437f67fd65a288086e30d5", "size": 581, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/mini_YarnProject Icon.png.import", "blob": "1bc7cb5447b47768653d0d479d39e8c19bc30c67", "size": 839, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/mini_YarnScript Icon.png", "blob": "b703515296c8c79951af4a2f987e584fe334cd0f", "size": 636, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/Asset Icons/mini_YarnScript Icon.png.import", "blob": "0228c5c2c94dc9dd7c04a1bea9e3ed8c212da640", "size": 835, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerEditorWindow.psd", "blob": "67d21b90c10a5678f0ac391959c32e9c05c8ae3f", "size": 43627, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerFailed.png", "blob": "7c0aba4c39aadc1b13bce95c85bbd61e2a0aadda", "size": 1041, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerFailed.png.import", "blob": "b0f4ffad8a4dcae9ed1bf04ac2c9397b46881844", "size": 815, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerLogo.png", "blob": "0f5be270d786ab89261e8dfce6b120afe3667828", "size": 35940, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerLogo.png.import", "blob": "80d1645eaa9f85dccf1942a914dac00e1556d557", "size": 808, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerNotTested.png", "blob": "0190e59bcdd312ac3cf88c06eb4272c4664553d3", "size": 1041, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerNotTested.png.import", "blob": "a0db20b997083ac5bd83f1cfd3535028766a9053", "size": 824, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerSuccess.png", "blob": "1edd286044323a2188adfa110ac8269ee73376d8", "size": 1041, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/YarnSpinnerSuccess.png.import", "blob": "5d3caf101b9b1921e28f3668a69535a34db96de7", "size": 817, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/mini_YarnSpinnerLogo.png", "blob": "1efecfed3d12fd5ba654259b4e614e62e590daaf", "size": 721, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/Icons/mini_YarnSpinnerLogo.png.import", "blob": "f399969645e0aeb7a8311b1d83bec06b2cfe0a96", "size": 824, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/OrderedContractResolver.cs", "blob": "964e200bbd6757ec7ad1febdb92b1a0ecd0c0c33", "size": 629, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/UI/ContextLabel.tscn", "blob": "6aafb3e46ef6313f3c0ef0e825c6c55277006392", "size": 274, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/UI/ErrorTextLabel.tscn", "blob": "4f95182cb38f4475b4e1888a9c0e08da0685771b", "size": 261, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/UI/FilenameLabel.tscn", "blob": "f7d52adf2fa5cb12c56a07c3209730009f5f654d", "size": 225, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/YarnCompileErrorsPropertyEditor.cs", "blob": "2f137b846554d1126d9e8f2378e00891d48289fd", "size": 2042, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/YarnEditorUtility.cs", "blob": "200481f7de4510012c4b1b1c983618d3d8a2b787", "size": 4997, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/YarnImporter.cs", "blob": "0e4804aa979bc842ba4b6b7af8a10f6fa42fc1db", "size": 4841, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/YarnProjectEditorUtility.cs", "blob": "d1638d079550381c8769e2a1d239c8a9a9ae114a", "size": 40747, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/YarnProjectInspectorPlugin.cs", "blob": "879205efcb4365c65b91be8b6e7ae37fa32abcc0", "size": 16041, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/YarnScriptTemplate.txt", "blob": "092da369257ef3182ecfeec416e0567110b541cb", "size": 34, "mode": "100644"}
+{"path": "addons/YarnDonut/Editor/YarnSourceScriptsPropertyEditor.cs", "blob": "14057d425b0455b7f244aa69dd1a75b6b5406305", "size": 1885, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/AssemblyExtensions.cs", "blob": "af5748565cddfd5090ec20b36b89b7b9a47900c1", "size": 1856, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Commands/ActionManager.cs", "blob": "8b34811efb7c70c8427e471708211ac7255ad5e1", "size": 19595, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Commands/DefaultActions.cs", "blob": "d03a87202bc2dcc2607993f154fae1fd84c726f0", "size": 3746, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Commands/DispatchCommand.cs", "blob": "791031f3d091d6c9565cde69cda09b342004b763", "size": 1426, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Commands/YarnActionAttribute.cs", "blob": "0ed43fcf311f03f293be533fb46f9d34de68192f", "size": 683, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Commands/YarnCommandAttribute.cs", "blob": "d2b38ae30e2923265e23f5c06484243f707e9da5", "size": 5704, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Commands/YarnFunctionAttribute.cs", "blob": "a3c90bde3d4c013b8bcb99c252205401c971d742", "size": 879, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Commands/YarnParameterAttribute.cs", "blob": "ac2e3199a529e62f6e644198c0f53628458e8067", "size": 947, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Commands/YarnStateInjectorAttribute.cs", "blob": "89b23d20015f3378e5c7402bbcdf88cde835f6e9", "size": 2570, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/Yarn.Antlr4.Runtime.Standard.dll", "blob": "9101643bd7ce9cbb1d3347a9240c9ee7b0f1ca4e", "size": 191488, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/Yarn.CsvHelper.dll", "blob": "3c5adb3a2cb9dc587b492669a52aecdc4f040c05", "size": 146432, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/Yarn.Google.Protobuf.dll", "blob": "4572c4312a24be131dbb20cf358177be8405d085", "size": 380416, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/Yarn.System.Buffers.dll", "blob": "928774abcdedcc935f16385f791b0b96f6032c89", "size": 11264, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/Yarn.System.Memory.dll", "blob": "7160c444644ccb372a05962b468e2aee1a67f916", "size": 131584, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/Yarn.System.Numerics.Vectors.dll", "blob": "bd0e5f68b1d490659f1ce7af2cef886685d791ec", "size": 146944, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/Yarn.System.Reflection.TypeExtensions.dll", "blob": "0885f496d197a0ace708e8e4c343171ce2c97a60", "size": 13312, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/Yarn.System.Runtime.CompilerServices.Unsafe.dll", "blob": "c7d13dccc7c5177977cbf4414cf142d889b64192", "size": 7168, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/YarnSpinner.Compiler.dll", "blob": "bb14ddc18caee3c88c95d6d77e5067649860749b", "size": 246272, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DLLs/YarnSpinner.dll", "blob": "752c2cb8620525ee427171edd8486e373b93c92e", "size": 86528, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DialogueOption.cs", "blob": "ea31a07a224b79ace57a389c125c6c3f608d9fb4", "size": 1758, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/DialogueRunner.cs", "blob": "3bfd3e5815b7011034b4a2b597936af94026c3fa", "size": 67341, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/FunctionInfo.cs", "blob": "f04b78f5f1581e80566b67dfad6cc5ccfcfa4cb5", "size": 275, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/InMemoryVariableStorage.cs", "blob": "a4c7a6e362f0ab1485da1aec60be905e5782dd61", "size": 9940, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/LanguageAttribute.cs", "blob": "7639371cb568ce15785cdc961300a828be9b4030", "size": 171, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/LineMetadata.cs", "blob": "6e10cacc82b18ba409dc09c944c52375fdc92b99", "size": 2902, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/LineMetadataTableEntry.cs", "blob": "b703ea3e72a1b99da3a4f375953693983b0ffa1e", "size": 8028, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/LineProviders/LineProviderBase.cs", "blob": "7b767cef3759e43f030360ccb853e088650b18a0", "size": 6556, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/LineProviders/TextLineProvider.cs", "blob": "cbef2fed71a3c2026b6672654a19e1e8be242457", "size": 1338, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Localization.cs", "blob": "4f7facfb58dd74a3203da04d6163707b2179f08a", "size": 6899, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/MarkupAttribute.cs", "blob": "300ab973cdb490084b30135680e3c8eb3ae4d0c0", "size": 1901, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Option.cs", "blob": "063faafab342e70236b9705f59367f9a24a31056", "size": 700, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/SerializedDeclaration.cs", "blob": "78c367ce5e029274d9db118fa5794a70d3e219d8", "size": 2103, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/StringInfo.cs", "blob": "5d903a687c4e26cd2fbdff875f8e4db607f4a163", "size": 1153, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/StringTableEntry.cs", "blob": "bdbbac90291398887404845693e91cd419b0c8ae", "size": 10249, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/VariableStorageBehaviour.cs", "blob": "c16a9e76f23ce9220b537dd7745651e610f56b52", "size": 3435, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Views/DialogueViewBase.cs", "blob": "5980b4969c2a95bd4292c72740667bf9e6776e63", "size": 18517, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Views/LineView.cs", "blob": "89bf3aeeee4e0e577500f24a0b0df5a711d26195", "size": 31146, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Views/OptionView.cs", "blob": "2dcc7f21bcae34b6b2a026eba790fec66cc6500d", "size": 1306, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/Views/OptionsListView.cs", "blob": "ad7edf9e4eb0b4e96327c35403c065b528b3f6f7", "size": 6020, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/YarnProject.cs", "blob": "40fe4605f92108bce968d7f1951a2b09fcf0d17f", "size": 9464, "mode": "100644"}
+{"path": "addons/YarnDonut/Runtime/YarnProjectError.cs", "blob": "527f0d5ce69ddf36c4f43ffc14dab92dc5d552e0", "size": 485, "mode": "100644"}
+{"path": "addons/YarnDonut/Scenes/DefaultDialogueSystem.tscn", "blob": "5f3e78e17dc905810502f184fee8e9b4b25375df", "size": 4491, "mode": "100644"}
+{"path": "addons/YarnDonut/Scenes/DialogueRunner.tscn", "blob": "0df2a22f70bf8eaba3c7e06436350b0fdf21546d", "size": 3374, "mode": "100644"}
+{"path": "addons/YarnDonut/Scenes/OptionView.tscn", "blob": "a3618c712a99c5f9a09f8b64804ecd9c2db7a666", "size": 371, "mode": "100644"}
+{"path": "addons/YarnDonut/YarnDonutPlugin.cs", "blob": "919d711a756923236c5903ddce776f7742ab9257", "size": 5751, "mode": "100644"}
+{"path": "addons/YarnDonut/plugin.cfg", "blob": "e666c932dfcb2ad80662ffb34526ed2c24bbf4f4", "size": 156, "mode": "100644"}
+{"path": "project.godot", "blob": "9e0e1ddae64fb84477f26b71fdbf57f34f863e56", "size": 3190, "mode": "100644"}

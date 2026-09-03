@@ -1,0 +1,9 @@
+{"path": ".editorconfig", "blob": "fc2fa867125cc4d919c5db361507deef73f9c620", "size": 254, "mode": "100644"}
+{"path": ".gdlintrc", "blob": "a490a1fbc33bb5ef8c73e43053f8235c8ce3e3ce", "size": 118, "mode": "100644"}
+{"path": ".gitattributes", "blob": "6313b56c57848efce05faa7aa7e901ccfc2886ea", "size": 19, "mode": "100644"}
+{"path": ".gitignore", "blob": "c030e2d119f3eceea7257c35f5881cac9a456ca8", "size": 277, "mode": "100644"}
+{"path": "LICENSE.md", "blob": "f3ede1fc3318f8d794e2cb51924186c62f02f71a", "size": 6962, "mode": "100644"}
+{"path": "README.md", "blob": "e1fe93f107ced21a8535c1c1b73ef70fe7169e63", "size": 1699, "mode": "100644"}
+{"path": "project.godot", "blob": "06872d1c9d239fb8a8723581913f7e807961fbc9", "size": 1348, "mode": "100644"}
+{"path": "src/main.gd", "blob": "61510e14cd75b8840807846a94b864f5acc1f39e", "size": 13, "mode": "100644"}
+{"path": "src/main.tscn", "blob": "53f2e22841b20a1c9b505dae3bec40f59cf1605a", "size": 151, "mode": "100644"}

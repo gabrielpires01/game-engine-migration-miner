@@ -1,0 +1,12 @@
+{"path": ".gitignore", "blob": "6151fd950f707e418bcbdcd3f4f58af12e5c76f9", "size": 140, "mode": "100644"}
+{"path": "LICENSE", "blob": "32b52e707916746aae07bba3b4a5efc7e498c110", "size": 1069, "mode": "100644"}
+{"path": "Main.gd", "blob": "b2234e8236d18dfc16cf4c1fba1c884c136cc4e5", "size": 4868, "mode": "100644"}
+{"path": "Main.tscn", "blob": "58f4fccc8bae66e83f686d12538f0ae9736001a0", "size": 1175, "mode": "100644"}
+{"path": "README.md", "blob": "175ec313a3dedd9df8194d8264b56bede1396ab6", "size": 592, "mode": "100644"}
+{"path": "default_env.tres", "blob": "3e2dad5cb1fd9acc99dd1314013ff16178ba726c", "size": 169, "mode": "100644"}
+{"path": "icon.png", "blob": "c98fbb601c83c81ec8c22b1dba7d1d57c62b323c", "size": 3305, "mode": "100644"}
+{"path": "icon.png.import", "blob": "0840d7088dcd3d3e13816858be3699fbbdde080a", "size": 746, "mode": "100644"}
+{"path": "icon.svg", "blob": "adc26df6c2cd666478b85216d4a6d93f61680cb7", "size": 4174, "mode": "100644"}
+{"path": "icon.svg.import", "blob": "fbb82c6dfa21517ad0127c367f8a19c719613ec7", "size": 843, "mode": "100644"}
+{"path": "openxr_action_map.tres", "blob": "97264cf7b25d924903a8c421afb182fe41a0fa1c", "size": 49965, "mode": "100644"}
+{"path": "project.godot", "blob": "7c5d7337717d5eb3ef921035dd2cd63170b291e1", "size": 572, "mode": "100644"}

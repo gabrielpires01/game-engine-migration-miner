@@ -1,0 +1,17 @@
+{"path": ".gitattributes", "blob": "0f8f1492de4eb716a9d3d0656244b63196a6a16a", "size": 438, "mode": "100644"}
+{"path": ".gitignore", "blob": "4f48ad79f8fb7f9fe96e8a06d530d7b33e5f40d7", "size": 184, "mode": "100644"}
+{"path": "README.md", "blob": "770ec3549c0a57510cb2dc2399bb675c53e0c3fa", "size": 75, "mode": "100644"}
+{"path": "addons/godot-git-plugin/LICENSE", "blob": "b559e802bf0d2d8093cb39bfcbd0be7ab558d3e5", "size": 1088, "mode": "100644"}
+{"path": "addons/godot-git-plugin/THIRDPARTY.md", "blob": "2ffcb6ab17bf239536e8a67ee935ded0d86e3d45", "size": 67597, "mode": "100644"}
+{"path": "addons/godot-git-plugin/git_api.gdnlib", "blob": "42c575bee0263c94d8ab0b0e9f4e301df62352eb", "size": 329, "mode": "100644"}
+{"path": "addons/godot-git-plugin/git_api.gdns", "blob": "eac0d865f4fb18f6048b8e19efb70343171a0643", "size": 267, "mode": "100644"}
+{"path": "addons/godot-git-plugin/linux/libgitapi.so", "blob": "7bd1c13c2e8f220c09d45ba627e9d5fed0f94ce3", "size": 7782176, "mode": "100644"}
+{"path": "addons/godot-git-plugin/osx/libgitapi.dylib", "blob": "0926510681aa54ab0dc9148c0ecf3a7dc98581ba", "size": 15519361, "mode": "100644"}
+{"path": "addons/godot-git-plugin/plugin.cfg", "blob": "c93b93bd5c003b21f53a72d6d91afb72ee5f5b45", "size": 274, "mode": "100644"}
+{"path": "addons/godot-git-plugin/win64/libgitapi.dll", "blob": "fa388dfdc7cd7aa33678e2611069e26b19a580fb", "size": 2562560, "mode": "100644"}
+{"path": "addons/godot-git-plugin/win64/libgitapi.exp", "blob": "55052172ca042ddb75bfc76118bdf4d9cee54b9f", "size": 121097, "mode": "100644"}
+{"path": "addons/godot-git-plugin/win64/libgitapi.lib", "blob": "becb4032010582c96b5c8af07de1af9c28e796dd", "size": 201630, "mode": "100644"}
+{"path": "default_env.tres", "blob": "20207a4aa2cfbae0c95636531b00d91502940d12", "size": 163, "mode": "100644"}
+{"path": "icon.png", "blob": "c98fbb601c83c81ec8c22b1dba7d1d57c62b323c", "size": 3305, "mode": "100644"}
+{"path": "icon.png.import", "blob": "a4c02e6e27173699ab89f60c32661726fadfdbcd", "size": 674, "mode": "100644"}
+{"path": "project.godot", "blob": "5e839cb79515547bad2655aad26cfb030ac1c328", "size": 1148, "mode": "100644"}
