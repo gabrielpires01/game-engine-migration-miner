@@ -1,0 +1,33 @@
+{
+  "title": "GEM miner: a pipeline for mining engine version state and migration events in game repositories",
+  "upload_type": "software",
+  "version": "0.1.1",
+  "language": "eng",
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "description": "<p>The pipeline that builds GEM (Game Engine Migration). It reads the engine version out of a tracked project file at every commit that touched it, rather than inferring migrations from commit messages: of the 97 Godot 3-to-4 boundary commits in the history tier, 19 name neither the engine nor a version in the subject line.</p><p>Stages, each a separate <code>make</code> target: the engine release timeline, the corpus frame, version snapshots, tier selection, instrument validation, per-commit history mining, issue-tracker demand collection, and the derivations. The version-extraction rule sits behind an adapter interface (<code>miner/engines.py</code>), so a second engine costs an adapter and a release timeline rather than a schema change; Unity and Unreal are declared alongside Godot, and only Godot is instantiated here.</p><p><code>make selftest</code> runs offline with no credentials: adapter fixtures, the version-ordering trap, and a reproduction check confirming that the derived tables re-derive bit-for-bit at the release's own observation date.</p><p><strong>Licensing.</strong> This record is the source code, under Apache-2.0. The repository archived here also carries the GEM v0.1 dataset under CC-BY-4.0 (see <code>dataset/LICENSE</code>), which is deposited separately as a dataset record; the related identifier below points to it.</p>",
+  "keywords": [
+    "mining software repositories",
+    "software migration",
+    "breaking changes",
+    "game engines",
+    "technical lag",
+    "Godot",
+    "research software"
+  ],
+  "creators": [
+    {
+      "name": "Pires, Gabriel",
+      "affiliation": "COPPE/UFRJ"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22264308",
+      "relation": "isNewVersionOf",
+      "resource_type": "software",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Git LFS is deliberately not used: Zenodo's GitHub integration archives the source zip without resolving LFS objects, which in the v0.1 release deposited the 39,553-row corpus frame as a 133-byte pointer. v0.1.1 corrects that; every table is a plain git object."
+}

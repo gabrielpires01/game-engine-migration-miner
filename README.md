@@ -118,4 +118,19 @@ The miner is Apache-2.0 (`miner/LICENSE`). The dataset is CC-BY-4.0
 repository's licence permits; rows with `license: null` are excluded from
 any content redistribution.
 
-See `CITATION.cff`. A DOI-based citation will replace it at release.
+Two DOIs, because a Zenodo record carries one type and one licence:
+
+- **Miner** (software, Apache-2.0): concept DOI
+  [10.5281/zenodo.22264307](https://doi.org/10.5281/zenodo.22264307),
+  which always resolves to the newest release. Cite the version DOI of
+  the release you used.
+- **Dataset** (CC-BY-4.0): deposited separately.
+  <!-- [TODO] dataset record DOI once published -->
+
+See `CITATION.cff` for structured metadata.
+
+> **Note on v0.1.** The `v0.1` release archive on Zenodo is incomplete:
+> the two largest tables were tracked in Git LFS at the time, and the
+> GitHub source zip Zenodo archives does not resolve LFS objects, so the
+> corpus frame was deposited as a 133-byte pointer. Use v0.1.1 or later,
+> where every table is a plain git object.
