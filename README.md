@@ -118,19 +118,25 @@ The miner is Apache-2.0 (`miner/LICENSE`). The dataset is CC-BY-4.0
 repository's licence permits; rows with `license: null` are excluded from
 any content redistribution.
 
-Two DOIs, because a Zenodo record carries one type and one licence:
+Two DOIs, because a Zenodo record carries one type and one licence.
+Cite the **version** DOIs below rather than the concept DOI: they are
+stable, and each resolves to an artifact with the right type and licence.
 
-- **Miner** (software, Apache-2.0): concept DOI
-  [10.5281/zenodo.22264307](https://doi.org/10.5281/zenodo.22264307),
-  which always resolves to the newest release. Cite the version DOI of
-  the release you used.
-- **Dataset** (CC-BY-4.0): deposited separately.
-  <!-- [TODO] dataset record DOI once published -->
+- **Dataset** (Dataset, CC-BY-4.0):
+  [10.5281/zenodo.22264777](https://doi.org/10.5281/zenodo.22264777)
+- **Miner** (Software, Apache-2.0), release `v0.1.1`:
+  [10.5281/zenodo.22264638](https://doi.org/10.5281/zenodo.22264638)
+
+Both records share the concept DOI `10.5281/zenodo.22264307`, which
+therefore resolves to whichever was deposited most recently rather than
+to one of the two consistently. Do not cite it.
 
 See `CITATION.cff` for structured metadata.
 
-> **Note on v0.1.** The `v0.1` release archive on Zenodo is incomplete:
-> the two largest tables were tracked in Git LFS at the time, and the
-> GitHub source zip Zenodo archives does not resolve LFS objects, so the
-> corpus frame was deposited as a 133-byte pointer. Use v0.1.1 or later,
-> where every table is a plain git object.
+> **Note on the `v0.1` release.** Its Zenodo archive
+> (`10.5281/zenodo.22264308`) is incomplete: the two largest tables were
+> tracked in Git LFS at the time, and the GitHub source zip Zenodo
+> archives does not resolve LFS objects, so the 39,553-row corpus frame
+> was deposited as a 133-byte pointer. Use `v0.1.1` or later, where every
+> table is a plain git object. The dataset itself is unchanged between
+> the two: same 16 tables, same `generated_on` of 2026-08-26.

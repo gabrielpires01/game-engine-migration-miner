@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: >-
   If you use GEM or its miner, please cite the MSR Data and Tool
   Showcase paper once it is published, and the archived release you
-  actually used.
+  actually used: the dataset is 10.5281/zenodo.22264777 and the miner
+  10.5281/zenodo.22264638.
 title: "GEM: A Dataset of Engine Version Migrations in Open-Source Game Projects"
 abstract: >-
   Engine version state and migration events mined from open-source game
@@ -16,6 +17,7 @@ abstract: >-
 type: dataset
 version: 0.1.0
 date-released: "2026-08-26"
+doi: 10.5281/zenodo.22264777
 
 # Taken from the repository's git identity. Add an ORCID, and add the
 # co-author once authorship is agreed -- the paper carries two author
@@ -46,7 +48,8 @@ references:
       version snapshots, instrument validation, per-commit history
       mining, demand collection, and derivations.
     license: Apache-2.0
-    version: 0.1.0
+    version: 0.1.1
+    doi: 10.5281/zenodo.22264638
     authors:
       - family-names: "Pires"
         given-names: "Gabriel"
