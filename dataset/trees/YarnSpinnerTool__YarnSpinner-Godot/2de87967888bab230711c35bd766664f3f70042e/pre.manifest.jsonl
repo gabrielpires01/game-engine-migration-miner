@@ -1,0 +1,150 @@
+{"path": ".github/workflows/continuous_build_check.yaml", "blob": "6094b3725795b007fd7a2c4926b1b895e066a9b2", "size": 1519, "mode": "100644"}
+{"path": ".gitignore", "blob": "3130746c062165e66dc8ae8004193c7591ae6470", "size": 1003, "mode": "100644"}
+{"path": "Godot_icon.png", "blob": "451284a284c201727f39d7aea0369cefe108d855", "size": 25040, "mode": "100644"}
+{"path": "Godot_icon.png.import", "blob": "8abb09a11afe06785876e85d1177b9ae7f889060", "size": 692, "mode": "100644"}
+{"path": "LICENSE", "blob": "7eef8e792261e997fd2580872ed67546b3ef2ce2", "size": 1104, "mode": "100644"}
+{"path": "README.md", "blob": "c6cb70095eb181d9f1ecf814a04517a95fa2116a", "size": 970, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Sally.yarn", "blob": "6284aface71d1eeeda10bbace03e795ea4a31aad", "size": 1413, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Sally.yarn.import", "blob": "64df82f7a923732cefa8de63fd34e8c8ad7b0792", "size": 271, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Ship.yarn", "blob": "02c57940558016f473a9a6ae66a2438a4a98d01c", "size": 1031, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Ship.yarn.import", "blob": "39020dc21cebdaacafda125a4be06914f30f6b38", "size": 268, "mode": "100644"}
+{"path": "Samples/Space/Dialogue/Space_YarnProject.tres", "blob": "a6afb6f0e9975177078d0dbc9d8e273981646346", "size": 10365, "mode": "100644"}
+{"path": "Samples/Space/HasErrors.yarn", "blob": "20ba75b571771d9c097d2894a9bc0ce6e705841c", "size": 101, "mode": "100644"}
+{"path": "Samples/Space/HasErrors.yarn.import", "blob": "02382af10898231f6dd4f97f5287bf5648d6123c", "size": 274, "mode": "100644"}
+{"path": "Samples/Space/Scripts/SpaceSample.cs", "blob": "06a757346e59ffb8a3724f9c90c1e0e26fa2a77e", "size": 798, "mode": "100644"}
+{"path": "Samples/Space/SpaceSample.tscn", "blob": "622780c9f1bec89d788c02405cf42b0fa0f014e6", "size": 659, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Background.jpg", "blob": "0dba3e1a94f955e77e312d0bec916e1bfcdaee02", "size": 902854, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Background.jpg.import", "blob": "0ae342225db5ba641ecfbc718b9fb0cf456258bd", "size": 714, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Player.png", "blob": "1647f830365386ffbcf6ce5782e8c963b324aade", "size": 8116, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Player.png.import", "blob": "e16e648af1db9f93c4a20eab29b2716424a01d8b", "size": 702, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Sally.png", "blob": "64544c583f61b7a69b18bd847098bfdaeb024e93", "size": 9870, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Sally.png.import", "blob": "d1e9425cf6767619f6b5fe10908eb1c89470b03c", "size": 699, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship-Face-Happy.png", "blob": "48146c329eef0225aa9e27a4490e2763a3a2f57d", "size": 939, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship-Face-Happy.png.import", "blob": "4578a08d3df2a8dfe1be15f441fc43315bc0dfa9", "size": 729, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship-Face-Neutral.png", "blob": "0700c5b406df5a7810d31dfaabf145d933c13f02", "size": 1058, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship-Face-Neutral.png.import", "blob": "2a03c53f5824e9638703eb3b36494ec7b8d910e8", "size": 735, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship.png", "blob": "e7166e4851ae6c47b09d9c3425ce17ae784c03e4", "size": 2855, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Ship.png.import", "blob": "97b9a4fec492ba8152e721b4aeb52ba744b23c9d", "size": 696, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Source/Characters.psd", "blob": "621d36b025d0454dd562c42f0269e79fc74d6f7c", "size": 570557, "mode": "100644"}
+{"path": "Samples/Space/Sprites/Source/Wall.psd", "blob": "0099ae0028bed35846ac710a444af3f154e5930b", "size": 14981763, "mode": "100644"}
+{"path": "Samples/VisualNovel/Dialogue/VNExampleDialogue.yarn", "blob": "599d61aeefdd4be180e75de518d927d97e9010e7", "size": 2162, "mode": "100644"}
+{"path": "Samples/VisualNovel/Dialogue/VNExampleDialogue.yarn.import", "blob": "5e1cc53350f25135a3bafddac4abf87d443b5e1b", "size": 313, "mode": "100644"}
+{"path": "Samples/VisualNovel/Dialogue/VisualNovel_YarnProject.tres", "blob": "74758d4e7c0e2333c60edc6e97b158c8a1370609", "size": 6213, "mode": "100644"}
+{"path": "Samples/VisualNovel/Scripts/VisualNovelManager.cs", "blob": "6c1bee00a6cc702d6ae08623aec2459c30452703", "size": 8221, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/ambient_birds.ogg", "blob": "f1a9c70253d97c474d5bd18f193829030636c8fb", "size": 265538, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/ambient_birds.ogg.import", "blob": "a9c1cafda70aca26d1604fdd22090cd0b294b1f6", "size": 336, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/music_funny.mp3", "blob": "4eb587e24de41c1bc94e35d928786a012b961d23", "size": 1713549, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/music_funny.mp3.import", "blob": "22b7265ac90059cf66eb7d24061670ccce1d58a1", "size": 317, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/music_romantic.mp3", "blob": "9173c0a8db750bfd5ad21b62fc9cb33966e27c2a", "size": 3831480, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sounds/music_romantic.mp3.import", "blob": "ce426da3fafa89f0483bae3a06c1ad73d0134706", "size": 326, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/bg_office.png", "blob": "b92ee9728d7000332783dfe05d321cbbef2b77eb", "size": 839909, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/bg_office.png.import", "blob": "a87bc68a23c9a012cb484e3712d5efa9ff133749", "size": 717, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/biz-guy.png", "blob": "f47d839766312d277bde9413b46e6d6ee2dff05b", "size": 325992, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/biz-guy.png.import", "blob": "9fc85d5cf176f2cd1d51ed2e849ce99316f2e358", "size": 711, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/cool-girl.png", "blob": "5bfb68cdd752adde788c978915a83fae563c7967", "size": 276707, "mode": "100644"}
+{"path": "Samples/VisualNovel/Sprites/cool-girl.png.import", "blob": "af68f48be98c156453063875807e6c5bcefcdaa6", "size": 717, "mode": "100644"}
+{"path": "Samples/VisualNovel/VisualNovelSample.tscn", "blob": "bcc5ff06566d6590f2139d23926df7b902da911d", "size": 1272, "mode": "100644"}
+{"path": "YarnSpinner-Godot.csproj", "blob": "d34f243fe789225a3a686aa1e3ed2c724d7734ad", "size": 1913, "mode": "100644"}
+{"path": "YarnSpinner-Godot.csproj.old", "blob": "ef7b6a29d822dedd418525342c549c24c397717c", "size": 1940, "mode": "100644"}
+{"path": "YarnSpinner-Godot.csproj.old.1", "blob": "0952cf260ccc37b67ee5dee1a4719b7ad67cb492", "size": 1940, "mode": "100644"}
+{"path": "YarnSpinner-Godot.sln", "blob": "243c496f8087955cad2bd1010324326b221b3faf", "size": 1069, "mode": "100644"}
+{"path": "YarnSpinner-Godot.sln.DotSettings", "blob": "526a7ec3714d14fda24b86077bff80067faf08d9", "size": 405, "mode": "100644"}
+{"path": "YarnSpinner-Godot.sln.DotSettings.user", "blob": "df8ca0cd47caadf5237cda7861182549e137687e", "size": 5133, "mode": "100644"}
+{"path": "YarnSpinnerLogo.png", "blob": "0f5be270d786ab89261e8dfce6b120afe3667828", "size": 35940, "mode": "100644"}
+{"path": "YarnSpinnerLogo.png.import", "blob": "c711ff043e431ad52c1e43b213ab5c670ceeb172", "size": 707, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/LineMetadata Icon.png", "blob": "2e83b761f558b695e82f2ce7456e589ffab0b53f", "size": 8246, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/LineMetadata Icon.png.import", "blob": "885526d14e0cb6dcf529fe09bd660b006c9abb77", "size": 762, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/LineMetadata Icon.png.meta", "blob": "d3701cce5c99167ac7dfe00010112376dc08dec8", "size": 2773, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/Localization Icon.png", "blob": "5eed6d2ef3d8d87da505c2507052e931e280248f", "size": 7884, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/Localization Icon.png.import", "blob": "4f7f49bd208b36204f1358ec2d8620311f6e0839", "size": 762, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/Localization Icon.png.meta", "blob": "e14266fef0602e7c213c74a9e1980b63191efef4", "size": 2452, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/LocalizationDatabase Icon.png", "blob": "38a0e754461d7068f0e4b9e38664c85de8321b83", "size": 5306, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/LocalizationDatabase Icon.png.import", "blob": "d3da5e4a27c2253d43dbed5fa542e7bf1ebe492b", "size": 786, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/LocalizationDatabase Icon.png.meta", "blob": "9c9d22c5208a5bf6d9801caf6ef88301074f63f0", "size": 2452, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/YarnProject Icon.png", "blob": "2e83b761f558b695e82f2ce7456e589ffab0b53f", "size": 8246, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/YarnProject Icon.png.import", "blob": "8c923529441fa2bc9593433f32a1b259b2054785", "size": 759, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/YarnProject Icon.png.meta", "blob": "f0565adf64dcc7492b205e107f2f8e843722baac", "size": 2452, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/YarnScript Icon.png", "blob": "0d9545dacdc2d9937726405636286d4f9b978afe", "size": 9877, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/YarnScript Icon.png.import", "blob": "c857bd999b6db3850a23d081d34b873bcba4be23", "size": 756, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/YarnScript Icon.png.meta", "blob": "e52010045bd9990ea3bfb592985f9eb74e7e0a56", "size": 2452, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/mini_Localization Icon.png", "blob": "fc9a6ea43e1531ec834a1d9769b75495b9f15934", "size": 518, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/mini_Localization Icon.png.import", "blob": "a252a16be98ae9a80fefa50e74483352aa6c9bfd", "size": 777, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/mini_YarnProject Icon.png", "blob": "82df4cc17d0f71d569437f67fd65a288086e30d5", "size": 581, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/mini_YarnProject Icon.png.import", "blob": "33ff0b4824b268436768303499d466d91f45c215", "size": 774, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/mini_YarnScript Icon.png", "blob": "b703515296c8c79951af4a2f987e584fe334cd0f", "size": 636, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/Asset Icons/mini_YarnScript Icon.png.import", "blob": "b639fe5fec0b80ab45b5c9d09bb1d587f7125f33", "size": 771, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerEditorWindow.psd", "blob": "67d21b90c10a5678f0ac391959c32e9c05c8ae3f", "size": 43627, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerFailed.png", "blob": "7c0aba4c39aadc1b13bce95c85bbd61e2a0aadda", "size": 1041, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerFailed.png.import", "blob": "2d62a23502402c4bf0303a1ed92663a6fc26c97f", "size": 750, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerLogo.png", "blob": "0f5be270d786ab89261e8dfce6b120afe3667828", "size": 35940, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerLogo.png.import", "blob": "e005658b120bad82450472bc87f23c39d943a4cc", "size": 744, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerNotTested.png", "blob": "0190e59bcdd312ac3cf88c06eb4272c4664553d3", "size": 1041, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerNotTested.png.import", "blob": "aa53af866178574b6bdf8ee3608dba539d77a561", "size": 759, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerSuccess.png", "blob": "1edd286044323a2188adfa110ac8269ee73376d8", "size": 1041, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/YarnSpinnerSuccess.png.import", "blob": "0f4757ab66467aaf3b33d9918695360fd7781ef5", "size": 753, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/mini_YarnSpinnerLogo.png", "blob": "1efecfed3d12fd5ba654259b4e614e62e590daaf", "size": 721, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Icons/mini_YarnSpinnerLogo.png.import", "blob": "0d8276649f836352d7e9272313f82251fd443e29", "size": 759, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/UI/ContextLabel.tscn", "blob": "6aafb3e46ef6313f3c0ef0e825c6c55277006392", "size": 274, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/UI/ErrorTextLabel.tscn", "blob": "4f95182cb38f4475b4e1888a9c0e08da0685771b", "size": 261, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/UI/FilenameLabel.tscn", "blob": "4da8957db8b334bf61f86e1b58ac7eccc9021568", "size": 252, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/Utility/YarnPreventPlayMode.cs", "blob": "6a55fe8274791b3761c4cb0637506936d66b9522", "size": 3665, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/YarnCompileErrorsPropertyEditor.cs", "blob": "690cd72d9779559626af0f6e1829d1d65c689d68", "size": 2138, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/YarnEditorUtility.cs", "blob": "46eff76c1508221ce0b7f1c5f1b8773ff20303c7", "size": 5993, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/YarnImporter.cs", "blob": "f460f07040ec35ca8790abad8180620a033218e3", "size": 5869, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/YarnProjectInspectorPlugin.cs", "blob": "af0f4418a437a52406d1657c98b8fd33f27d0fa6", "size": 6879, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/YarnProjectUtility.cs", "blob": "7b6ad4828a85297bef81cad027a90620ff135e60", "size": 36032, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/YarnScriptTemplate.txt", "blob": "092da369257ef3182ecfeec416e0567110b541cb", "size": 34, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Editor/YarnSpinnerEditorContainer.cs", "blob": "ef93157c74c201fb6459570297d5de95f8d8c033", "size": 272, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/AssemblyExtensions.cs", "blob": "adcf999417c6c27fb9d7e1cb750b96ae3b184b85", "size": 1868, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Commands/ActionManager.cs", "blob": "946c85f914f0804be6e557df2336ec4fc24abc3d", "size": 21352, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Commands/DefaultActions.cs", "blob": "75afbef84777cfa6b7d702402cc20c224c73341d", "size": 3762, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Commands/DispatchCommand.cs", "blob": "b35661c7e4667933ec3f321e28d59c5736dc0041", "size": 1438, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Commands/YarnActionAttribute.cs", "blob": "4bf319549d92736b3b031ed6816b83cecbc9c852", "size": 695, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Commands/YarnCommandAttribute.cs", "blob": "3253d3746f819af262954688eea185b611482940", "size": 5703, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Commands/YarnFunctionAttribute.cs", "blob": "dc537b51d0b9838495b58ed78afa999d03919d5c", "size": 879, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Commands/YarnParameterAttribute.cs", "blob": "960fe2c8a175e8b415363934a10f38e47661f87d", "size": 959, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Commands/YarnStateInjectorAttribute.cs", "blob": "d8c1e254e1130c6b7bef6dcd3eda759663720593", "size": 2575, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/.gitkeep", "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391", "size": 0, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/Antlr4.Runtime.Standard.dll", "blob": "f98e7813d3fdc653b1e0cd3382763174a1b0c2c9", "size": 192512, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/CsvHelper.dll", "blob": "8b98a963694d59da3fce603a57505353fe735400", "size": 147968, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/Google.Protobuf.dll", "blob": "aa43d60bc4b15546c385cbaed84cb4f2bdf0aa46", "size": 390248, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/Newtonsoft.Json.dll", "blob": "7af125a246d180e71b9c4a20cca73cc44bfa8902", "size": 701992, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/System.Buffers.dll", "blob": "b6d9c7782d275b83f4d0883f9bfb2d65fc5c9e9f", "size": 27992, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/System.Memory.dll", "blob": "bdfc501e9647719549793297acb072d33067d4e5", "size": 148760, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/System.Numerics.Vectors.dll", "blob": "a808165accf4b28833d22169931d4c879defd96d", "size": 163712, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/System.Reflection.TypeExtensions.dll", "blob": "49ed9ccbc87485097e2d2efa3f72c43c27b682a0", "size": 30112, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/System.Runtime.CompilerServices.Unsafe.dll", "blob": "3156239266db9cceede249731f00c3822e479a1f", "size": 23600, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/YarnSpinner.Compiler.dll", "blob": "968479542cff2aa03902757c82d6d2810ddc1595", "size": 233984, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DLLs/YarnSpinner.dll", "blob": "60f6f87823afc22b16667bfc25f1e57dbe0aa1ff", "size": 82432, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DialogueOption.cs", "blob": "2d7a3c581c99961af5fc9ebbca3c08bcffb4b2cf", "size": 1770, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/DialogueRunner.cs", "blob": "e426fc8ee071005b90f17bf8de7914390d1156f3", "size": 67105, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/FunctionInfo.cs", "blob": "7718713b3be2de9378d4c1fe93132d8a4a49eeda", "size": 306, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/InMemoryVariableStorage.cs", "blob": "5d1fb76f02c6f76c14227373c99a1485f4e878aa", "size": 12096, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/LanguageAttribute.cs", "blob": "41801f9308731b2110ddf8119b0aefc20d2d0109", "size": 183, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/LanguageToSourceAsset.cs", "blob": "812cd63eed82730c9ffe2028bed91e2e1dc1b29c", "size": 984, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/LineMetadata.cs", "blob": "8652091606772d6f3877d89b76a6617bd6d1644c", "size": 2308, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/LineMetadataTableEntry.cs", "blob": "b6acf0a211dace11e654376efe5c65b2966ffe51", "size": 7712, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/LineProviders/LineProviderBase.cs", "blob": "8b5c7cdd20d4ff8c8085c811ade00a5dc7fe493c", "size": 7241, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/LineProviders/TextLineProvider.cs", "blob": "f098a66e659ba671a54e58a61db0211d9f604f40", "size": 1233, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Localization.cs", "blob": "2f3253c9f11d87ead8607c812451b7c1beb10249", "size": 7030, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/MarkupAttribute.cs", "blob": "96db3437229a857377274edb7ed5e48a99e0d684", "size": 1924, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Option.cs", "blob": "1885ababb35c8ba74bce76d15b4c14762f6c7a37", "size": 710, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/SerializedDeclaration.cs", "blob": "c468b7254ecd3baa27ea8739e8b029abf4f53c52", "size": 2103, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/StringInfo.cs", "blob": "5d903a687c4e26cd2fbdff875f8e4db607f4a163", "size": 1153, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/StringTableEntry.cs", "blob": "82b57c91992039e0a9908e1200c6c9104ca17074", "size": 9674, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/TempDialogueRunner.cs", "blob": "4200291637d150f32dd4b87566467f2338f9dd4f", "size": 3962, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/VariableStorageBehaviour.cs", "blob": "99d34c8267ec23a8edb9f8fb1c550d481c83b617", "size": 3644, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Views/DialogueViewBase.cs", "blob": "88e9ae6d567fd1356a3ea996252fde8af0f2e3c5", "size": 18522, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Views/LineView.cs", "blob": "93014c076b9df65a5042e001c33af93854e63298", "size": 28844, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Views/OptionView.cs", "blob": "e1154e9d891af09b01f15e93bfdab8410d04ba6f", "size": 1679, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/Views/OptionsListView.cs", "blob": "db8195a4af601dc920cc5a674a024101a134f9c4", "size": 5556, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/YarnProject.cs", "blob": "489da2f3ce2b1f7c92e1725ee7bf5c772e61b9c9", "size": 10329, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Runtime/YarnProjectError.cs", "blob": "d7f06c8732b67ccbeb2b43fc5ca0f99fba1e5413", "size": 520, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Scenes/DialogueRunner.tscn", "blob": "edb696d990348718b17963a56f909894ed3d165c", "size": 3373, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/Scenes/OptionView.tscn", "blob": "a138e0276998d57ef41ff40b209ece5556cb34c7", "size": 378, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/YarnSpinnerGodotMainPlugin.cs", "blob": "ddd3e9302f68588a5785a5ddebaa163c129811d6", "size": 6580, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/plugin.cfg", "blob": "daf178956cb75bb49e24d39b92ad1d4cd410de46", "size": 182, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/yarnproject/CompiledYarnProject.cs", "blob": "9430b70610a8998ff9c0e67f0c5ae626d34e2601", "size": 525, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/yarnproject/YarnProjectIcon.png", "blob": "d8430ee9ef7229a2a215bd09be261ebfeb0043db", "size": 2605, "mode": "100644"}
+{"path": "addons/YarnSpinnerGodot/yarnproject/YarnProjectIcon.png.import", "blob": "6e59f67130cc28be2f5ca30b75fafd824ec6faaf", "size": 743, "mode": "100644"}
+{"path": "project.godot", "blob": "4f8601e7969b07e858da4f0a308ce384600494f7", "size": 1186, "mode": "100644"}

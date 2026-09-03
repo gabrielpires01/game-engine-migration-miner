@@ -1,0 +1,531 @@
+{"path": ".gitattributes", "blob": "dfe0770424b2a19faf507a501ebfc23be8f54e7b", "size": 66, "mode": "100755"}
+{"path": ".gitignore", "blob": "cf8b0a0643b893b092fbfd5f1dcf5278c22ff63d", "size": 320, "mode": "100755"}
+{"path": ".mono/assemblies/Debug/GodotSharp.dll", "blob": "4501b1168f74a73dbcb6dd7c28f13bfdfffa9bd4", "size": 2391552, "mode": "100755"}
+{"path": ".mono/assemblies/Debug/GodotSharp.pdb", "blob": "88972dcb252f398e61c38e197fcc3f9f7cc86a81", "size": 839480, "mode": "100755"}
+{"path": ".mono/assemblies/Debug/GodotSharp.xml", "blob": "1a820e7ee4a7fc52551cb32226826192731593ca", "size": 2716347, "mode": "100755"}
+{"path": ".mono/assemblies/Debug/GodotSharpEditor.dll", "blob": "033fa41870f7346e4a03be59cef9e845abb3956c", "size": 68608, "mode": "100755"}
+{"path": ".mono/assemblies/Debug/GodotSharpEditor.pdb", "blob": "fff4d6ea6550d21a06dbd25d13c7b63d347aaa1a", "size": 21596, "mode": "100755"}
+{"path": ".mono/assemblies/Debug/GodotSharpEditor.xml", "blob": "bcc9532eac9cc78f90bdd7d5cc7572f0f34d243a", "size": 102084, "mode": "100755"}
+{"path": ".mono/assemblies/Debug/api_hash_cache.cfg", "blob": "9b764f69a219ce438c7ac2097265084b6683e7d1", "size": 222, "mode": "100755"}
+{"path": ".mono/metadata/ide_messaging_meta.txt", "blob": "0b2772c534cd279a89ed23bee4cf6c3871b1086a", "size": 135, "mode": "100755"}
+{"path": "CONTRIBUTORS.md", "blob": "83bf3e0d4beb3223e5694e9aae922305612f7c30", "size": 905, "mode": "100755"}
+{"path": "Dialogue/Battle.pot", "blob": "72275cb0f9e2415e36c70e48e114b4de8e88a21a", "size": 194, "mode": "100755"}
+{"path": "Dialogue/Cutscenes.pot", "blob": "3b8cd4f59f3132537f1dd5033cc8269df0f2d0b3", "size": 7425, "mode": "100755"}
+{"path": "Dialogue/Events.pot", "blob": "ca1ec89f15940024e0f71dbb1f0db31f62f85ba4", "size": 25824, "mode": "100755"}
+{"path": "Dialogue/Generated/en/Battle.po", "blob": "0b01d759b3cbccaa281b8ebc7e2aec99bb160f38", "size": 414, "mode": "100755"}
+{"path": "Dialogue/Generated/en/Cutscenes.po", "blob": "091fc98c313ef97b4ce06b93074aa75c15607a64", "size": 8004, "mode": "100755"}
+{"path": "Dialogue/Generated/en/Events.po", "blob": "815e430d32173a9fcc918c5747a7a9f708c46da8", "size": 27000, "mode": "100755"}
+{"path": "Dialogue/Generated/en/Maps.po", "blob": "8c76a247c5f70c1ef3f8c301a7584fe7e0d69666", "size": 447, "mode": "100755"}
+{"path": "Dialogue/Generated/en/NPC.po", "blob": "04bac1e5d202506d10894411994272d3ea1e3cdd", "size": 11007, "mode": "100755"}
+{"path": "Dialogue/Generated/en/Objects.po", "blob": "b81f32a7b4286c951b50e64ce78b00fa1fc4ce6f", "size": 1284, "mode": "100755"}
+{"path": "Dialogue/Generated/en/UI.po", "blob": "5a25b4628df05b486839cad403d725b1e38caaf6", "size": 1775, "mode": "100755"}
+{"path": "Dialogue/Maps.pot", "blob": "a405efd273ec91221d8cb334de80882bed527955", "size": 217, "mode": "100755"}
+{"path": "Dialogue/NPC.pot", "blob": "c79ae7a097b08e440463329e0ecd7aab4272920f", "size": 10426, "mode": "100755"}
+{"path": "Dialogue/Objects.pot", "blob": "141ba3d93fb2b0c96164ce763cd580e4f9149cc0", "size": 1033, "mode": "100755"}
+{"path": "Dialogue/UI.pot", "blob": "0a63cfe71cd4b758d1d63c3b3c5e2525fa88d9c0", "size": 1555, "mode": "100755"}
+{"path": "Dialogue/Update.sh", "blob": "70522871ecd583ef9880fa0268c131c74456a815", "size": 599, "mode": "100755"}
+{"path": "Dialogue/messages.mo", "blob": "c639aed34bb0ff40a4684a927f7420761a133d10", "size": 1458, "mode": "100755"}
+{"path": "Game.gd", "blob": "92b5eddd33c7b866972479479b337855602650ea", "size": 18005, "mode": "100755"}
+{"path": "Game.tscn", "blob": "e089f0fc193f9be3cb7b1e133a82ae9238ecc251", "size": 3727, "mode": "100755"}
+{"path": "Global.gd", "blob": "67da021e67559c17b45d97358b60a19874e36396", "size": 3240, "mode": "100755"}
+{"path": "IntroScenes/FirstStoryCutScene.gd", "blob": "9f05c1091a7e53b54677c47c6fdb5685468f599b", "size": 6146, "mode": "100755"}
+{"path": "IntroScenes/FirstStoryCutScene.tscn", "blob": "8a831f96f2a6bf53040571f87eb7fff4c7beed95", "size": 34655, "mode": "100755"}
+{"path": "IntroScenes/GenderSelect.gd", "blob": "13c87fa6b4ca5f1cd062791cb5a4dca482950d48", "size": 4304, "mode": "100755"}
+{"path": "IntroScenes/Intro.gd", "blob": "a6803ebbe7a0d437af8c859e02629abb0bb57eaa", "size": 2608, "mode": "100755"}
+{"path": "IntroScenes/Intro.tscn", "blob": "cc3580b899b35b50b5e829f7e9d9149e42ca89c1", "size": 59911, "mode": "100755"}
+{"path": "IntroScenes/Menu.gd", "blob": "34d43406007952765a1fac7cfd0f0c2299e993fd", "size": 1107, "mode": "100755"}
+{"path": "IntroScenes/Menu.tscn", "blob": "5495e0bc16f17b449bbcd97f744425bd622afac3", "size": 31471, "mode": "100755"}
+{"path": "IntroScenes/PlayerCreation.gd", "blob": "36d6bab1a5df52312a66138b4e119096f1197616", "size": 2709, "mode": "100755"}
+{"path": "IntroScenes/PlayerCreation.tscn", "blob": "0dd2bd3d168dabdd83dfff7f0d859ce5e4be9806", "size": 17586, "mode": "100755"}
+{"path": "IntroScenes/SaveMenu.gd", "blob": "f07b6e1536f20c0a3950b3696bf1b43aa8d0f26f", "size": 6808, "mode": "100755"}
+{"path": "IntroScenes/SaveMenu.tscn", "blob": "771052938cdc2528234d6eeaebfd6c3403262410", "size": 9035, "mode": "100755"}
+{"path": "LICENSE", "blob": "f2256c042f6b74879c60e0bb0eb523569ab5af83", "size": 1068, "mode": "100755"}
+{"path": "Maps/BuroleTown/Burole Town.tmx", "blob": "e84e4695ac6a851d43e23f677d473b15c93c0365", "size": 55747, "mode": "100755"}
+{"path": "Maps/BuroleTown/Burole Town.tmx.import", "blob": "8d75220d64767b845421200e32649e1161a94d38", "size": 470, "mode": "100755"}
+{"path": "Maps/BuroleTown/Burole Town.tscn", "blob": "19f8832c350e92e7a57331e56dab39d1d656d845", "size": 86858, "mode": "100755"}
+{"path": "Maps/Caves/Passage Cave Bikers.tmx", "blob": "426b222b4f8c14bd5e487e4b8407cd6a6e57069b", "size": 8783, "mode": "100755"}
+{"path": "Maps/Caves/Passage Cave Bikers.tmx.import", "blob": "29e72b8c9a73d681832ad1ad1263c145178b5277", "size": 494, "mode": "100755"}
+{"path": "Maps/Caves/Passage Cave Bikers.tscn", "blob": "43e7d81e324796550b9bf0a538bbbf25f4421d5a", "size": 21897, "mode": "100755"}
+{"path": "Maps/Caves/Passage Cave.gd", "blob": "4690e3b1352c790be7c3fc9e16383f99e7775004", "size": 7850, "mode": "100755"}
+{"path": "Maps/Caves/Passage Cave.tmx", "blob": "d1162027cbf180af7372d7c0e481dcf9dbec608b", "size": 39198, "mode": "100755"}
+{"path": "Maps/Caves/Passage Cave.tmx.import", "blob": "2594e60f09e463b3fd70cab89cc6507826cf778b", "size": 473, "mode": "100755"}
+{"path": "Maps/Caves/Passage Cave.tscn", "blob": "bd735886cfd417ba20be98ef88ca18dff061d6c8", "size": 78777, "mode": "100755"}
+{"path": "Maps/KevlarTown/Kevlar NPC Houses.tmx", "blob": "511f5dc16e53476a8eaf1c5abb12c1b09cb4f3e7", "size": 7605, "mode": "100755"}
+{"path": "Maps/KevlarTown/Kevlar NPC Houses.tmx.import", "blob": "d9ccc6aca0a39c071e1aca6f687e6a928320d16d", "size": 500, "mode": "100755"}
+{"path": "Maps/KevlarTown/Kevlar NPC Houses.tscn", "blob": "ecd429eb1a2fe7d536de4bbed454e46b966ea48a", "size": 19475, "mode": "100755"}
+{"path": "Maps/KevlarTown/Kevlar Town.gd", "blob": "3f8c5a9224093daa264953b8a3b6854911f28402", "size": 376, "mode": "100755"}
+{"path": "Maps/KevlarTown/Kevlar Town.tmx", "blob": "3171f24010fcc0cde06c98403f4baf2726c0e2f5", "size": 30612, "mode": "100755"}
+{"path": "Maps/KevlarTown/Kevlar Town.tmx.import", "blob": "b4b1b5c4bc03a1861c55107a65b9630bf7346dc3", "size": 470, "mode": "100755"}
+{"path": "Maps/KevlarTown/Kevlar Town.tscn", "blob": "0b39715bdc187053cef63972879fc9a6c7fb1ee4", "size": 69159, "mode": "100755"}
+{"path": "Maps/KevlarTown/PokeCenter.gd", "blob": "9dee7115a497d3c8990fda0b4ababbbb9790c80e", "size": 447, "mode": "100755"}
+{"path": "Maps/KevlarTown/PokeCenter.tscn", "blob": "beecfd1bb25f13b2a502d185c8749edd71568266", "size": 950, "mode": "100755"}
+{"path": "Maps/Map images/Kevlar Town.png", "blob": "dd5728f10bcc132e8ee9a6871eb98a60b9702633", "size": 320528, "mode": "100755"}
+{"path": "Maps/Map images/Kevlar Town.png.import", "blob": "1b0cf290060defabb57db04ed0edf921c90ae424", "size": 713, "mode": "100755"}
+{"path": "Maps/Map images/Moki Town.png", "blob": "2aee80f1188319d4371b8c52703d5de167611724", "size": 620484, "mode": "100755"}
+{"path": "Maps/Map images/Moki Town.png.import", "blob": "0bb4bcf893d447d674a08940461cb37246b3ceb3", "size": 707, "mode": "100755"}
+{"path": "Maps/Map images/Nowtoch City.png", "blob": "f8af87950c5768df6b779826c9eb0da609c12c5a", "size": 552752, "mode": "100755"}
+{"path": "Maps/Map images/Nowtoch City.png.import", "blob": "8187f990edd21fcf41b81636f86a390c5b106a2b", "size": 716, "mode": "100755"}
+{"path": "Maps/Map images/Passage Cave Bikers.png", "blob": "af164f121e9db9b1b19de40453c8f0816ca516be", "size": 33365, "mode": "100755"}
+{"path": "Maps/Map images/Passage Cave Bikers.png.import", "blob": "ea03655c77013ce37ef96f033062278e43a39ea1", "size": 737, "mode": "100755"}
+{"path": "Maps/Map images/Passage Cave.png", "blob": "5eb0fc2ec3d6bc070fe635c78dddc57d97f4b2b9", "size": 166211, "mode": "100755"}
+{"path": "Maps/Map images/Passage Cave.png.import", "blob": "93c4fae9a9b9348b37752c0193539c9efd3f8069", "size": 716, "mode": "100755"}
+{"path": "Maps/Map images/Route 2.png", "blob": "f5f7505c9b7f68f2c91bfeecdc8c73a5c51b2dc9", "size": 205232, "mode": "100755"}
+{"path": "Maps/Map images/Route 2.png.import", "blob": "aaee03ca82d3dcf10377710f4b4a900a5507f77d", "size": 701, "mode": "100755"}
+{"path": "Maps/Map images/Route 3.png", "blob": "c421e264e5ca1fcae56879fe7e24f5b314144c47", "size": 913872, "mode": "100755"}
+{"path": "Maps/Map images/Route 3.png.import", "blob": "292af24e6850c00fc55c5ef90cf5343e79426485", "size": 701, "mode": "100755"}
+{"path": "Maps/Map images/Route1.png", "blob": "566594678932d771b2c43ebb7f313472135f940c", "size": 569125, "mode": "100755"}
+{"path": "Maps/Map images/Route1.png.import", "blob": "8ba22351f3c70dbf42e280b63e9c40a599081f96", "size": 698, "mode": "100755"}
+{"path": "Maps/MokiTown/BamboLab.gd", "blob": "9f186289c063fdd43bf8908dfd0623a23d808710", "size": 31642, "mode": "100755"}
+{"path": "Maps/MokiTown/BamboLab.tscn", "blob": "6c671122085c2a6e600d72b9113848aae6c9ba58", "size": 976025, "mode": "100755"}
+{"path": "Maps/MokiTown/FadeIn.tres", "blob": "ba582902c43618592c00b6e17aa4d299150bc502", "size": 423, "mode": "100755"}
+{"path": "Maps/MokiTown/FirstPokeLayer.gd", "blob": "4c2cf8993cfa97fc9d63ddd7c1813201fb715b4f", "size": 5578, "mode": "100755"}
+{"path": "Maps/MokiTown/FirstPokeLayer.tscn", "blob": "66f8023c87b773f340a70b11959e7ceb53d6128b", "size": 10388, "mode": "100755"}
+{"path": "Maps/MokiTown/HeroHome.gd", "blob": "d60bc2f499194b3233bf73256d941aff83284c38", "size": 6799, "mode": "100755"}
+{"path": "Maps/MokiTown/HeroHome.tscn", "blob": "20e6443584bfb5f2c40fd60596ba8d21c231a4f7", "size": 11500, "mode": "100755"}
+{"path": "Maps/MokiTown/Moki NPC Houses.gd", "blob": "e2fae6b5c3f821e2fbb4f3d94720d1504295214e", "size": 186, "mode": "100755"}
+{"path": "Maps/MokiTown/Moki NPC Houses.tmx", "blob": "d48041303b9bc4604a3be7f709d3a9ea6c1edd65", "size": 4105, "mode": "100755"}
+{"path": "Maps/MokiTown/Moki NPC Houses.tmx.import", "blob": "3658754e7efd42a17ae4bebf64a59b55c472fe96", "size": 494, "mode": "100755"}
+{"path": "Maps/MokiTown/Moki NPC Houses.tscn", "blob": "e7cdf5b0ffda6de99a48cdd4585947aae136fd79", "size": 10434, "mode": "100755"}
+{"path": "Maps/MokiTown/Moki Town.gd", "blob": "bab36ba538bc8dd1714e4227fe931a1569f8eda5", "size": 18325, "mode": "100755"}
+{"path": "Maps/MokiTown/Moki Town.tmx", "blob": "a1f687ec0a8bebaa7a6a9b38efdbd20391fa7336", "size": 45165, "mode": "100755"}
+{"path": "Maps/MokiTown/Moki Town.tmx.import", "blob": "b26d0905bc596c3d0cac307a7413c9918b5cad08", "size": 464, "mode": "100755"}
+{"path": "Maps/MokiTown/Moki Town.tscn", "blob": "e80256d47db9fbc96f14ad96598a35e9e0cf3851", "size": 130058, "mode": "100755"}
+{"path": "Maps/MokiTown/Player House.tmx", "blob": "c3ff804cc6211e9a395fdb13e08b864b5e9cddd4", "size": 4735, "mode": "100755"}
+{"path": "Maps/MokiTown/Player House.tmx.import", "blob": "5ce2f6ed6fdebd7f21edd1547d209c0947c5293e", "size": 485, "mode": "100755"}
+{"path": "Maps/MokiTown/Professor Lab.tmx", "blob": "461376f0a9bccbfcc9cee08c923229476c7091e3", "size": 3440, "mode": "100755"}
+{"path": "Maps/MokiTown/Professor Lab.tmx.import", "blob": "dc41f55c7117301c4d2cac292d047a24cc73f1bd", "size": 488, "mode": "100755"}
+{"path": "Maps/MokiTown/Rival House.gd", "blob": "e4604b2f0a4c63444b4fe0467ea1dcf495ba9847", "size": 13595, "mode": "100755"}
+{"path": "Maps/MokiTown/Rival House.tmx", "blob": "f29b4e1b699338b2b291140c427705d2dccb747d", "size": 3641, "mode": "100755"}
+{"path": "Maps/MokiTown/Rival House.tmx.import", "blob": "e17d5179c9017f9813bf0517fc69f399d8670051", "size": 482, "mode": "100755"}
+{"path": "Maps/MokiTown/Rival House.tscn", "blob": "a3421250fb5f38159749f233925c44229efebb63", "size": 11462, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch City.gd", "blob": "daf7fa0d8aa6682eaeb69c168004b451dc0dfa40", "size": 4855, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch City.tmx", "blob": "9e8bbe1b64f482286ad1c35f308e01d5b5f5e4f9", "size": 71504, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch City.tmx.import", "blob": "f9f97e7d8d8ba29ebc88efd00bea672a871c8d14", "size": 473, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch City.tscn", "blob": "96aa014238366d06428e169e9e746557ab5f7584", "size": 161232, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch Gym.gd", "blob": "b9167fade11128751d0f6f6a6307c7dd8eaf3ce1", "size": 8590, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch Gym.tmx", "blob": "1ad66ed134022fc8bf76ac06ab08f6f2687e7e91", "size": 17251, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch Gym.tmx.import", "blob": "04eddb108c0aad03e8fe07e38fd313cc0ae01a2c", "size": 482, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch Gym.tscn", "blob": "3ae2ce2a0285afba835c2d812a734dd00fe4304a", "size": 50977, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch NPC Houses.gd", "blob": "6bb54e44ad49d94dbb4c86c8438ed2500da18123", "size": 3353, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch NPC Houses.tmx", "blob": "d1db7fe68e74addb3b38077048f1487cb156a6e7", "size": 25268, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch NPC Houses.tmx.import", "blob": "56bf031414dfb030bb8a58150439e42539320681", "size": 503, "mode": "100755"}
+{"path": "Maps/NowtochCity/Nowtoch NPC Houses.tscn", "blob": "77d01b4c78b2d1d5f4c348d92ad51ef4fff915ba", "size": 66705, "mode": "100755"}
+{"path": "Maps/NowtochCity/PokeCenter.gd", "blob": "29d0b7a81a272a7c78adf5a4bc5fbf7acabcaabf", "size": 449, "mode": "100755"}
+{"path": "Maps/NowtochCity/PokeCenter.tscn", "blob": "f6ec0234938f10ecd40c0e24fce1de0cf50a7d03", "size": 885, "mode": "100755"}
+{"path": "Maps/Routes/Route1/Route 1 NPC Fisher House.tmx", "blob": "60294632a1e7cc9bcc7850bcfacfde979c8de95f", "size": 2143, "mode": "100755"}
+{"path": "Maps/Routes/Route1/Route 1 NPC Fisher House.tmx.import", "blob": "bd0cc3cc91d3acb058c4a99921e8ea366324144d", "size": 521, "mode": "100755"}
+{"path": "Maps/Routes/Route1/Route 1 NPC Fisher House.tscn", "blob": "6203c6bffbee59fc338b93371046f376449b82ce", "size": 4986, "mode": "100755"}
+{"path": "Maps/Routes/Route1/Route1.gd", "blob": "79fc0c3f503657a43fde4238c93fcc5f76ed7f8e", "size": 10406, "mode": "100755"}
+{"path": "Maps/Routes/Route1/Route1.tmx", "blob": "c75f01845aca5aae5aea3a5d8cb72cf85cb685eb", "size": 50728, "mode": "100755"}
+{"path": "Maps/Routes/Route1/Route1.tmx.import", "blob": "c95270d9af943788945f5307a840245acfff2c9a", "size": 456, "mode": "100755"}
+{"path": "Maps/Routes/Route1/Route1.tscn", "blob": "e9b31cbd9c1307f4915973943ddacc53cc501131", "size": 125679, "mode": "100755"}
+{"path": "Maps/Routes/Route2/Route 2.gd", "blob": "25e4508c416c0cde25da2cf5db7c573ab5ce5c12", "size": 7184, "mode": "100755"}
+{"path": "Maps/Routes/Route2/Route 2.tmx", "blob": "715dd6967aa29fcf2f6eb45d1abb55cd2a1bd113", "size": 29779, "mode": "100755"}
+{"path": "Maps/Routes/Route2/Route 2.tmx.import", "blob": "9a18ba75d0f93b815f351fe4e424fcf34e082170", "size": 459, "mode": "100755"}
+{"path": "Maps/Routes/Route2/Route 2.tscn", "blob": "cebc941a31578905e3ca6c5b80e1055bd5749f8f", "size": 58018, "mode": "100755"}
+{"path": "Maps/Routes/Route3/Route 3.gd", "blob": "7a6888244468cecee8e30617b255d8ab20af285c", "size": 351, "mode": "100755"}
+{"path": "Maps/Routes/Route3/Route 3.tmx", "blob": "6a8418386592ba13095ce17b5e6f81d814c01ec3", "size": 107167, "mode": "100755"}
+{"path": "Maps/Routes/Route3/Route 3.tmx.import", "blob": "1a4a85b8a43477daf97a7660588273b7909a2956", "size": 459, "mode": "100755"}
+{"path": "Maps/Routes/Route3/Route 3.tscn", "blob": "0b8f94d6103de46d5542f3d97ab4c5f87a2ccd14", "size": 205301, "mode": "100755"}
+{"path": "Maps/Testing Levels/TestingLevel.tscn", "blob": "63c4ff6d9d250f0d7b8940cb6ced0ecab2921fa3", "size": 3750, "mode": "100755"}
+{"path": "Maps/Tilesets data/PU_buildings+.tsx", "blob": "9ccd3b8c3944431c802ad3f7fb0b3d8a977b5a91", "size": 255, "mode": "100755"}
+{"path": "Maps/Tilesets data/PU_buildings+.tsx.import", "blob": "333fe59ef364e9a31adee194b093f2c49d75523f", "size": 305, "mode": "100755"}
+{"path": "Maps/Tilesets data/PU_groundtiles+.tsx", "blob": "77d5f12414d24fa852339de608fbf2492b68169c", "size": 5479, "mode": "100755"}
+{"path": "Maps/Tilesets data/PU_groundtiles+.tsx.import", "blob": "858de43593f5e4880cf55e6c0f3f7ca802e5f74a", "size": 307, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Gate House.tmx", "blob": "c411c0f4f211a5cdf587b8881ac9a502ed894df9", "size": 2832, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Gate House.tmx.import", "blob": "9b98f706d926890965b9d3238ea7b9dceaf4994c", "size": 479, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Gate House.tscn", "blob": "f5562bdb49d67ec56b44406b5eee67ad85160ce6", "size": 5533, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/PokeCenterReference.gd", "blob": "8db12760cb60042929f3022c6c4fa5c7d2fd0f7b", "size": 4464, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Pokecenter.tmx", "blob": "8aa6adf583a0d1a933a511439d47f7b3fd786894", "size": 4226, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Pokecenter.tmx.import", "blob": "07480dfb0a8e1fc220e91ef28b650ec0445e10cc", "size": 479, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/PokecenterReference.tscn", "blob": "d7aa65ad30bcbc7b67835a74ff2e588599cae7d9", "size": 14233, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Pokemart.tmx", "blob": "80043374f691e873f3a7e2af991ebfb90bb96370", "size": 1989, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Pokemart.tmx.import", "blob": "513bb682ea64993f1e9e9ab176d0a28c780e37fc", "size": 473, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Pokemart.tscn", "blob": "8b9533be9229a4e475705e6eb6c3a17caa447416", "size": 4433, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Subway.tmx", "blob": "cef7d5b074237d7d006b9f03b78e97dddf14c636", "size": 7269, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Subway.tmx.import", "blob": "af49480aeb79f3d7c1c4d4a01adc6b6332044b1a", "size": 467, "mode": "100755"}
+{"path": "Maps/Towns/Town Houses/Subway.tscn", "blob": "f39bd7637f4837509cf22462cd2fcbe8449c0bf5", "size": 17570, "mode": "100755"}
+{"path": "Maps/tilesets/PU_anim_tiles.png", "blob": "397fe94b275ee1a41b6657da512da7b54714fa72", "size": 3671, "mode": "100755"}
+{"path": "Maps/tilesets/PU_anim_tiles.png.import", "blob": "671106b5490b710e13d0f4266366d2a48faa330e", "size": 717, "mode": "100755"}
+{"path": "Maps/tilesets/PU_anim_tiles.tres", "blob": "26989cbad188467a9285fe984cee2b5cac505b53", "size": 50, "mode": "100755"}
+{"path": "Maps/tilesets/PU_anim_tiles.tsx", "blob": "febc8b41c050a6b507db67cf64b5240008f0d322", "size": 3738, "mode": "100755"}
+{"path": "Maps/tilesets/PU_anim_tiles.tsx.import", "blob": "a4b656d27a1dfc2083065da2dec1971454957e45", "size": 451, "mode": "100755"}
+{"path": "Maps/tilesets/PU_autotiles.png", "blob": "bec40ffd100e416892d9e6a4f899a3a7cec0a567", "size": 29733, "mode": "100755"}
+{"path": "Maps/tilesets/PU_autotiles.png.import", "blob": "73512c57a3f6c007d42c40afc9501c455d615515", "size": 714, "mode": "100755"}
+{"path": "Maps/tilesets/PU_autotiles.tres", "blob": "3f12fb23fc50e49363bcce46b4528aba9d108fcb", "size": 849, "mode": "100755"}
+{"path": "Maps/tilesets/PU_autotiles.tsx", "blob": "84eb73dff6b325ff7943cea119d825de4b64e184", "size": 6063, "mode": "100755"}
+{"path": "Maps/tilesets/PU_autotiles.tsx.import", "blob": "adba2e61d0982044a61f2c656219e1d8a74627c0", "size": 448, "mode": "100755"}
+{"path": "Maps/tilesets/PU_buildings+.png", "blob": "07b918e26d0c04d1103527c8d2cbced2a385da28", "size": 246090, "mode": "100755"}
+{"path": "Maps/tilesets/PU_buildings+.png.import", "blob": "9637524d840ab136560a8bf9991918cd00db8b03", "size": 717, "mode": "100755"}
+{"path": "Maps/tilesets/PU_buildings+.tres", "blob": "7f406089074c497632747a5e2d9637b51adf2acd", "size": 32350, "mode": "100755"}
+{"path": "Maps/tilesets/PU_buildings+.tsx", "blob": "4aa467144d2b23618bceac8275b7959094418ca4", "size": 240, "mode": "100755"}
+{"path": "Maps/tilesets/PU_buildings+.tsx.import", "blob": "df1d9ab2ddf82470c1d3a7c8d7f7394b34c43bc5", "size": 451, "mode": "100755"}
+{"path": "Maps/tilesets/PU_caves.png", "blob": "2f3718fe85a8831e1a6e91dbfaa2c32550f130cc", "size": 97357, "mode": "100755"}
+{"path": "Maps/tilesets/PU_caves.png.import", "blob": "f7c97fa0406a2f5d0c4e444bff25ed2ca4afc0c5", "size": 702, "mode": "100755"}
+{"path": "Maps/tilesets/PU_caves.tres", "blob": "66f5fc568f255b9cd42926cbb708e2e515b81fea", "size": 791, "mode": "100755"}
+{"path": "Maps/tilesets/PU_caves.tsx", "blob": "c4c3b1699114d410063b5bf3d66d401c0fbb698e", "size": 228, "mode": "100755"}
+{"path": "Maps/tilesets/PU_caves.tsx.import", "blob": "c7d0f31f82298660d1d75fcaff94ed60556444ed", "size": 436, "mode": "100755"}
+{"path": "Maps/tilesets/PU_groundtiles+.png", "blob": "eccdfa22c9b3b355ebfc11d4de5dff8e4648ff3a", "size": 188786, "mode": "100755"}
+{"path": "Maps/tilesets/PU_groundtiles+.png.import", "blob": "aa17ff7b8d2c00d1351927db12a9e84b8582d2c8", "size": 723, "mode": "100755"}
+{"path": "Maps/tilesets/PU_groundtiles+.tres", "blob": "5f87603cacc465d6d9db57a37e7d7bd8579bf4b9", "size": 54019, "mode": "100755"}
+{"path": "Maps/tilesets/PU_groundtiles+.tsx", "blob": "d5fc1a615fabc0b7b2ded3832ae1d058bf958e96", "size": 5464, "mode": "100755"}
+{"path": "Maps/tilesets/PU_groundtiles+.tsx.import", "blob": "63fa4f6561a6fd5993e63a82eb5435a1dd13c19c", "size": 457, "mode": "100755"}
+{"path": "Maps/tilesets/PU_indoors+.png", "blob": "1b471fbd5096061a819b096d6a5e7a801f2f8531", "size": 165757, "mode": "100755"}
+{"path": "Maps/tilesets/PU_indoors+.png.import", "blob": "e26136c5fd2d24d669f9da98b722a85133efa6d6", "size": 711, "mode": "100755"}
+{"path": "Maps/tilesets/PU_indoors+.tres", "blob": "40521595d93d7087b2ab5c5f6964e1f8cf624392", "size": 784, "mode": "100755"}
+{"path": "Maps/tilesets/PU_indoors+.tsx", "blob": "5371f78121e6cc5991ecba23d5c2f7c6a552e7ce", "size": 1297, "mode": "100755"}
+{"path": "Maps/tilesets/PU_watertiles+.png", "blob": "31b433becccadf4a3ed495d3923237145e95381d", "size": 124483, "mode": "100755"}
+{"path": "Maps/tilesets/PU_watertiles+.png.import", "blob": "d1918d62a6d330149d50fbee814a05fcaf40136e", "size": 720, "mode": "100755"}
+{"path": "Maps/tilesets/PU_watertiles+.tres", "blob": "2e8954fc98346e76697c8bececc09654ce708100", "size": 62161, "mode": "100755"}
+{"path": "Maps/tilesets/PU_watertiles+.tsx", "blob": "7862a439029c06bfd02732865f70d36b5538ad7b", "size": 18637, "mode": "100755"}
+{"path": "Maps/tilesets/PU_watertiles+.tsx.import", "blob": "d817e71f02cb5210fbada3274b2f766d228fe258", "size": 454, "mode": "100755"}
+{"path": "Maps/tilesets/TerrainTags.tres", "blob": "f3ece37dbd2d02932dbe91e54ca85af80ad3b36b", "size": 1387, "mode": "100755"}
+{"path": "Maps/tilesets/terrain_tags.png", "blob": "9fa9f65b5d790f0f45fa333b89930ef372406838", "size": 913, "mode": "100755"}
+{"path": "Maps/tilesets/terrain_tags.png.import", "blob": "117278c6158f3fd7920b1b272f54bac46604a84f", "size": 714, "mode": "100644"}
+{"path": "Outside.gd", "blob": "215ea5e2ffdd8b1139f0ab2627c966d42c052d0b", "size": 1032, "mode": "100755"}
+{"path": "PermittedAssets/Beach1.png", "blob": "87a92c47bcd5100552a2e856939bd6bd78d75265", "size": 2998, "mode": "100755"}
+{"path": "PermittedAssets/Beach1.png.import", "blob": "abcff284dcaea2eba17eb09754945795b0047483", "size": 698, "mode": "100755"}
+{"path": "PermittedAssets/CircleC.png", "blob": "8da87acbec31713796173695331722d630a699e1", "size": 17351, "mode": "100755"}
+{"path": "PermittedAssets/CircleC.png.import", "blob": "bcb1fad2377ee24b9f3a4d3adcd8610812452f5a", "size": 701, "mode": "100755"}
+{"path": "PermittedAssets/CircleS.png", "blob": "f963d54d434992b0006d0cd7319e2d612071721c", "size": 18444, "mode": "100755"}
+{"path": "PermittedAssets/CircleS.png.import", "blob": "64a6ed8b3d5fd9e1eaf11c371b487855a64da88a", "size": 701, "mode": "100755"}
+{"path": "PermittedAssets/CircleX.png", "blob": "06a86c74d67232fb25af7b7e509af561cb0eec00", "size": 17844, "mode": "100755"}
+{"path": "PermittedAssets/CircleX.png.import", "blob": "40ae0b9d4874abd6fadee3422a77a77f0929db06", "size": 701, "mode": "100755"}
+{"path": "PermittedAssets/CircleZ.png", "blob": "0a04bf5d3bf5c8ac53b2f065f4b27480cea2f9ac", "size": 16806, "mode": "100755"}
+{"path": "PermittedAssets/CircleZ.png.import", "blob": "e8fef7d16da1a372904e159e02d99cc99888ce64", "size": 701, "mode": "100755"}
+{"path": "PermittedAssets/Credit3-acedogblast.png", "blob": "de7c487e614712191ede8b7ae4cef43f9fa6b2c4", "size": 22269, "mode": "100755"}
+{"path": "PermittedAssets/Credit3-acedogblast.png.import", "blob": "e1f6452e0489cb770717d61fe862d440ba5a9723", "size": 737, "mode": "100755"}
+{"path": "PermittedAssets/Dpad.svg", "blob": "ba2562012114f31c443efe7d6544daeecdf2fc38", "size": 1901, "mode": "100755"}
+{"path": "PermittedAssets/Dpad.svg.import", "blob": "04a006b87a55b207300261ea0a77f6caaa92f591", "size": 692, "mode": "100755"}
+{"path": "PermittedAssets/PU-Beach1.png", "blob": "7031de37acf363e321b50fa15f19cb0335f6ccff", "size": 5920, "mode": "100755"}
+{"path": "PermittedAssets/PU-Beach1.png.import", "blob": "dbe04874d13b20fcbb01069cdb9e0ede1bba0b26", "size": 707, "mode": "100755"}
+{"path": "PermittedAssets/White.png", "blob": "8723e716e5308fdbfff0a9a2f3fc2bba72941630", "size": 1027, "mode": "100755"}
+{"path": "PermittedAssets/White.png.import", "blob": "e9945a0d5c32712285b76ebe6524b6b77c72fac1", "size": 695, "mode": "100755"}
+{"path": "PermittedAssets/bush.png", "blob": "53cc8bccddb510a50fc490ed07e431a9aa47666a", "size": 2431, "mode": "100755"}
+{"path": "PermittedAssets/bush.png.import", "blob": "8be8c6b599a59dc5fcca970e80281ba62367d5e2", "size": 692, "mode": "100755"}
+{"path": "PermittedAssets/icon.png", "blob": "a0b64eee944cb4cfb2aa8dc0d8d78faf6ca44dc1", "size": 3498, "mode": "100755"}
+{"path": "PermittedAssets/icon.png.import", "blob": "71acce23f2860d6000b9f8b47b908e2e55abd34c", "size": 692, "mode": "100755"}
+{"path": "PermittedAssets/path.png", "blob": "b9597c1c48358999403b9440af6ab05bacce7fa2", "size": 4076, "mode": "100755"}
+{"path": "PermittedAssets/path.png.import", "blob": "8ac4a7da5038ef9e7c11a71556252edff24aea12", "size": 692, "mode": "100755"}
+{"path": "PermittedAssets/water_1.png", "blob": "6cbd2018dfdba788d3b69af0d487654d2f4e842f", "size": 3834, "mode": "100755"}
+{"path": "PermittedAssets/water_1.png.import", "blob": "72e6198b4dd91ffe7f36182c9cf48f42d3c0c8cd", "size": 701, "mode": "100755"}
+{"path": "README.md", "blob": "54e4fa78851ee9ba58f74aff853481ed9e3f29cd", "size": 1423, "mode": "100755"}
+{"path": "TileMapsSource/Bed.tscn", "blob": "94d0ddf81002021fa77e8f57a5d8aea7202350e7", "size": 512, "mode": "100755"}
+{"path": "TileMapsSource/Indoor(1).tres", "blob": "86262e0f06286eb664b09969132f507d49fd7d7b", "size": 29429, "mode": "100644"}
+{"path": "TileMapsSource/Indoor(1).tscn", "blob": "e0fbf1a1a49cddf210edcc6e3988036a094acf02", "size": 12473, "mode": "100755"}
+{"path": "TileMapsSource/MokiTown_Outside.tres", "blob": "91c1001c12e7c31d8d39218c28932e671d5f3098", "size": 75750, "mode": "100755"}
+{"path": "TileMapsSource/NuclearPlantInside.tres", "blob": "5578264167b6708d6eee4d3b60828662e8580632", "size": 7055, "mode": "100755"}
+{"path": "TileMapsSource/NuclearPlantInside.tscn", "blob": "4fee6e8019bf17cfa111c1ebe4e3b565fcfbd48e", "size": 5350, "mode": "100755"}
+{"path": "TileMapsSource/PU-Beach1.tres", "blob": "dd0ddb55a83be86fada279142483b9a21b970f7c", "size": 4321, "mode": "100755"}
+{"path": "TileMapsSource/PU-Pond.tres", "blob": "50790cd892a3d8f8690020a847e2f63ba8a0dcb7", "size": 4323, "mode": "100755"}
+{"path": "TileMapsSource/PU-Route3.tres", "blob": "85664c0d164f2d85125a09ac427162a143fdfc7d", "size": 1143, "mode": "100755"}
+{"path": "TileMapsSource/Sand_path.tres", "blob": "f68224dd475586a844a41ba2c618a7dbcf2bfcdd", "size": 1065, "mode": "100755"}
+{"path": "TileMapsSource/Sandy_dirt.tres", "blob": "bdd6730d02fdb02b38ff039b82e4cc535e936513", "size": 1575, "mode": "100755"}
+{"path": "TileMapsSource/Sandy_path2.tres", "blob": "d8cb13d9c20eb2f14b4c72d8b3cbd2453c5a34fb", "size": 1667, "mode": "100755"}
+{"path": "TileMapsSource/bush.tres", "blob": "0ad07ef1b12c6359e5711740e5fee54bcab7c0da", "size": 1117, "mode": "100755"}
+{"path": "Utilities/AutoZSorter.gd", "blob": "44057ae65bc36601b26586511498aa79ab3f74a3", "size": 486, "mode": "100755"}
+{"path": "Utilities/Bag.gd", "blob": "eb683a04df637ead9678bf9bb597738561e31f44", "size": 13352, "mode": "100755"}
+{"path": "Utilities/Bag.tscn", "blob": "2ac455e6e09c4382f92e79ffc649b6c948e5ef27", "size": 7674, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/FaintFoe.tres", "blob": "e3e6c3c8fb1a5357ef8f205cbe2f44f4b2743f75", "size": 728, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/FaintPlayer.tres", "blob": "409b6620d80bd70cfa5624430c9a7b6a1374b424", "size": 732, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/LowDamage.tres", "blob": "bd007c34ac6e9f8780d6521f06bf44a747cb5403", "size": 396, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/NormalDamage.tres", "blob": "a95cb2a10cb6d96e1d24f8f26611f99d7778c710", "size": 428, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/PlayerBallToss.tres", "blob": "091fa3e77cef4dc7dcefacc23e05c791b95916c2", "size": 1602, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/PokemonPartyIconIdle.tres", "blob": "84d38fd7e2cd484df69e17007d73bbb22ea4cc9d", "size": 386, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/PokemonPartyIconSelectedJumping.tres", "blob": "e9d7d14249378e4b5c4eee4bf76a190112417030", "size": 700, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/Stat_Up.shader", "blob": "d6e1a65c22a443ef2aa00608c1f4d0529d086951", "size": 511, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/SuperDamage.tres", "blob": "b151b334a8148ed42ea2b3241e0c3e5eac1922f0", "size": 456, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/UnveilDrop.tres", "blob": "58eb57c6660777bdb1973018e97a35927a89abe4", "size": 1650, "mode": "100755"}
+{"path": "Utilities/Battle/Animations/UnveilDropPlayer.tres", "blob": "22a50deb09c7f08162166daf86a4ece82db82eb2", "size": 1365, "mode": "100755"}
+{"path": "Utilities/Battle/BallFlash.gd", "blob": "c9c9309f01209cc819a0cbb61982543cff03054a", "size": 1330, "mode": "100755"}
+{"path": "Utilities/Battle/BallFlash.tscn", "blob": "80d2c0ea6604925af5810bada81c4f4f4f74d2ca", "size": 890, "mode": "100755"}
+{"path": "Utilities/Battle/Battle.gd", "blob": "97785f0e1fbbcfd9af716a315be48f8174a35343", "size": 48278, "mode": "100755"}
+{"path": "Utilities/Battle/Battle.tscn", "blob": "ea88ef1040fca173ef9c9399da8eb2495866bacd", "size": 89777, "mode": "100755"}
+{"path": "Utilities/Battle/BattleAttackSelect.gd", "blob": "74320e86029b9a344d25cd3dd6cdfeb4a8143859", "size": 6752, "mode": "100755"}
+{"path": "Utilities/Battle/BattleBag.gd", "blob": "a3d859cb301e3c5778319992f8f71c3934e5a07e", "size": 13411, "mode": "100755"}
+{"path": "Utilities/Battle/BattleBars.gd", "blob": "2f22d349920b1679c8bf66e9e4ffaae5ae728ee7", "size": 5277, "mode": "100755"}
+{"path": "Utilities/Battle/BattleComandSelect.gd", "blob": "fc151778007975ff32d2d8c8da23eb4b8da5e17c", "size": 5265, "mode": "100755"}
+{"path": "Utilities/Battle/BattleGrounds.gd", "blob": "5c21c59b122dfeb4e9068a470e70130159343a98", "size": 2418, "mode": "100755"}
+{"path": "Utilities/Battle/BattleLogic.gd", "blob": "9ab21ac400919e9e476754669b40628cf3cba8b4", "size": 45237, "mode": "100755"}
+{"path": "Utilities/Battle/BattleQueue.gd", "blob": "809557dae4c55b4b59b749756df90a60be9e1655", "size": 380, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/AI.gd", "blob": "574ce3c9b58cb461bf293cd5cb7a07a5146ec19f", "size": 756, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/BattleCommand.gd", "blob": "dab56c07dc0bb34fc4477fa9b267b7ffce884eed", "size": 285, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/BattleEffect.gd", "blob": "66f16ab1cacecec7ff967691f25cb6dcc52af39c", "size": 229, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/BattleInstanceData.gd", "blob": "adb2be39135aa5b0879334acd10ad4f48b2eec68", "size": 761, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/BattleQueueAction.gd", "blob": "6ad9a4cfd96c11fe204c3151f87b20fd21373758", "size": 1869, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/BattleSnapshot.gd", "blob": "ce0a3b2089622e143a135aefc0b9ac480c832cd4", "size": 646, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/BattleStatStage.gd", "blob": "7259e815e1d03eb47f5016c5357fbf30662cf01e", "size": 3361, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/LevelUpChanges.gd", "blob": "de000aa210be66e61156e1d4b37a96a3f082a18f", "size": 203, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/MajorAilment.gd", "blob": "f9b67a01fa78989f9467806c26e3a392ffa5759a", "size": 85, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/Move.gd", "blob": "de5aa940014bff767a38f6ef3c42695dab3f72b1", "size": 938, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/MoveSet.gd", "blob": "bb5652257241eccaff593ad40b06671860a3fcaa", "size": 99, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/MoveStyle.gd", "blob": "0dc4805f9bd6c64d621e661a9665a3c627c6170b", "size": 73, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/MoveTarget.gd", "blob": "50cb30a963f087a8bd4020df0338d9fd7c61a266", "size": 74, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/Nature.gd", "blob": "6187f40743ce00f112662fbb0d1a6a43d55de49e", "size": 1278, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/Opponent.gd", "blob": "0cd9c54f78f9d899729ae0f57f41284e510f823f", "size": 370, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/Pokemon.gd", "blob": "6284682aecf5a1b76c43692427e0302bbf864ff1", "size": 11492, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/StatChange.gd", "blob": "426a02faa36e51ff342c248c3007b1bfc0c20b37", "size": 116, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/StatStageEffect.gd", "blob": "f63da3ea010f8c7dbc14cf173448b4292fc0d518", "size": 450, "mode": "100755"}
+{"path": "Utilities/Battle/Classes/Type.gd", "blob": "49253d044d458d0be523c2bb08cc86d497f5f949", "size": 4586, "mode": "100755"}
+{"path": "Utilities/Battle/Database/MoveDataBase.gd", "blob": "4fba7dd3232e1ed4ae4875ac3fc7b615fae45b0a", "size": 983, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Aerial_Ace.gd", "blob": "1dbd60c594f17ad978255012723c365a86d81ee7", "size": 867, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Agility.gd", "blob": "a53e35a291179ea39dc9433eb116e3829cb5b6c7", "size": 858, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Air_Cutter.gd", "blob": "2178b601827725c19c1143382c482aeff6593f3e", "size": 848, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Air_Slash.gd", "blob": "a55c9c26662d7dcd7df7bb6def6e06857479846c", "size": 881, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Aqua_Jet.gd", "blob": "af533a0f5afbb694d628fe75e763784f9caa3006", "size": 849, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Blizzard.gd", "blob": "a2c7910098ad1039c4b69737275b5f27d73a03de", "size": 869, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Body_Slam.gd", "blob": "4b23ea2ed20a38c059ca5a56024367b6c885c116", "size": 880, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Bulk_Up.gd", "blob": "f69859331015d5e5ee9f6433812e9357ab7dcd70", "size": 859, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Bulldoze.gd", "blob": "d287f6f2b90219e600bd44190ca581a5d9503d7d", "size": 891, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Charge.gd", "blob": "8a90d126667db98a081b1f154e4910d9fce4d225", "size": 824, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Charm.gd", "blob": "b247a7fbeb80d05b91c282a430ca711d0e691287", "size": 824, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Coil.gd", "blob": "cc2d677db8933e5399ab5456fdc9790f9816c9f8", "size": 819, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Covet.gd", "blob": "26373c32f9fc717facff169e9ef9a1c5aa8a189c", "size": 719, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Defense_Curl.gd", "blob": "e0c2824d7e3c88a19d7dcd5a7ec9f003421aa479", "size": 863, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Defog.gd", "blob": "2e1a3ba0bab0b9925cc2afb3fe5539639abfd215", "size": 858, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Double_Team.gd", "blob": "2dabf139570c9ba4ba791ffb41c084252cc5a0f8", "size": 797, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Dragon_Breath.gd", "blob": "7f2793375761635569adb488a035e2d2b792431b", "size": 883, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Dragon_Claw.gd", "blob": "dcc81fef8d15a1217b7adad4c06a95196ebfe24b", "size": 852, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Dragon_Pulse.gd", "blob": "acfd04efeb29b1bd3dd5bc0291ef06c0c091646a", "size": 852, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Dragon_Rush.gd", "blob": "5c3487e93acac8161d5487fae1a096a6ea561c04", "size": 884, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Drill_Run.gd", "blob": "f50e84346ca4d8c12a2b7c0292a71a5e2cbacb9f", "size": 850, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Earthquake.gd", "blob": "1d95bdfedee2db05386e03386680f81f382ecf52", "size": 851, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Ember.gd", "blob": "8ac2b39d77474184356936b2e7698388f397dfde", "size": 804, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Encore.gd", "blob": "79bbbaabfb2e8e851aa3f70e919ac74b177184ae", "size": 822, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Extreme_Speed.gd", "blob": "346bad0e9ff36a8ec27ef25b8468058a8cad94e8", "size": 894, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Fairy_Wind.gd", "blob": "ccef68a6fbac3dc6b3648d190e33580fe778a162", "size": 850, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Feather_Dance.gd", "blob": "9830356859f6b5cbf933c474ad9ef2c547ab0f7f", "size": 871, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Flame_Impact.gd", "blob": "f5522d726e78d3d2e89d65a0ee7a74176aaad0e4", "size": 892, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Flame_Wheel.gd", "blob": "0a86063a9697c200eddbe25d0db2eb55cbac5fa4", "size": 915, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Flamethrower.gd", "blob": "78d46ead0b52bd7edb46bc4c2b86c22753db6661", "size": 913, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Flash.gd", "blob": "899a555d0512b0bde30bc872d29495f73e42b1df", "size": 825, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Focus_Energy.gd", "blob": "aa36ad74add52076940e0ca23499327daba91f16", "size": 835, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Foresight.gd", "blob": "0a21ab18ebd3edc903f6d1658cb17c1cadd75040", "size": 776, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Glare.gd", "blob": "e8baba6a71986b908f558d7c94e9b835068684fe", "size": 809, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Growl.gd", "blob": "bb49fd01131faaa67ccf97fd96848907639e0bfb", "size": 757, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Gunk_Shot.gd", "blob": "8a606830b9964e625a2d90e1f1ec569de41a74c1", "size": 877, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Gust.gd", "blob": "a8ccc852a35d6d3e58aec99b188d110c3877e618", "size": 779, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Harden.gd", "blob": "35e8332c5ea85c2bb3d1e904535e921c6db328c1", "size": 857, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Head_Smash.gd", "blob": "ed20f9df3fa2bd4f17016ccca2027ce44152c63e", "size": 849, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Headbutt.gd", "blob": "f9d343ee327df525033cc536adedabfd4b81046f", "size": 882, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Hone_Claws.gd", "blob": "2b33b0cdb1c53d6d7a71e5cbaef04bd46fb0d62a", "size": 859, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Hydro_Pump.gd", "blob": "6a4d84dd8b61dd7be2d040eb5eee5fb4ed1c39d7", "size": 849, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Hyper_Voice.gd", "blob": "7baffa406899a78cd42ac117454288a1d85b7f6a", "size": 850, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Ice_Beam.gd", "blob": "fed905568c52aceb1418e2a2e556e9ac0206dec1", "size": 873, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Iron_Defense.gd", "blob": "3daf6240cda1516b8aa68e0d9b03cd911b92a2d8", "size": 862, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Iron_Head.gd", "blob": "903ab839d63ed1085cf425990722639eb0a6d25b", "size": 881, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Leaf_Blade.gd", "blob": "a445705e559ff0269b75da6199c913d5b1dfcbbb", "size": 892, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Leech_Seed.gd", "blob": "ce6420c10f35524a41cbd758faa05f481329d1c5", "size": 719, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Leer.gd", "blob": "1a18e4d7c9d839f62a500251a8863525666df477", "size": 758, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Lick.gd", "blob": "847b136daa4ab3567bed357dcac11f2b01b0e5d1", "size": 885, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Low_Kick.gd", "blob": "4077c52ccf3afd5f305b797fded15be8585284ef", "size": 849, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Metal_Sound.gd", "blob": "49d526a848722396e4e6329d600a7c48f39d433a", "size": 867, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Mud-Slap.gd", "blob": "543c8be26cf35327225c6f169d85f68f0f9dc8e9", "size": 877, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Peck.gd", "blob": "0f48c6f2481b6d943fb22af48d13314bcb43dbdd", "size": 782, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Poison_Fang.gd", "blob": "002879479e17b34f184c04f29bb47821014f54c9", "size": 879, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Poison_Gas.gd", "blob": "e931907708288403fecfb635563bc7b8f313b5a4", "size": 844, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Poison_Sting.gd", "blob": "b5cbabcba67e56641caa2e44e3a82163d2fed4f7", "size": 818, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Pound.gd", "blob": "fad923b2a2a27c7abae9e8e053f7aad8b611b3ee", "size": 848, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Quick_Attack.gd", "blob": "fea3e5eca3180c5a3d026cb251f5222c8c66ea2e", "size": 732, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Rage.gd", "blob": "366f241dc93376ac0f235ff18e49d821c5b8118b", "size": 718, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Rapid_Spin.gd", "blob": "c6db738e20d4ec5cf9c50ad69929a4cefd1bd0bb", "size": 852, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Rock_Polish.gd", "blob": "8548b2fd076c4fe032e73c48e6aae4d1e5b8c947", "size": 860, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Rollout.gd", "blob": "c2084d166872c12e766c7ff6229d71104c2de05a", "size": 720, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Sand_Attack.gd", "blob": "23100f430953d25b7970e47e3b3c7686367fa7c9", "size": 869, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Scald.gd", "blob": "28387d98168cf235f410f86d3203c3ab319700d3", "size": 870, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Scary_Face.gd", "blob": "12085a17b3e336b7044d0081b9d976885a0c6e1d", "size": 868, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Scratch.gd", "blob": "39606fa0af94b3f60c21e9841d0a2b5b7d1107fc", "size": 719, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Screech.gd", "blob": "ecfe913c0029b3a71236259a861671a9d34adb30", "size": 828, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Sing.gd", "blob": "37aeb99e16ccf9b308bd0909408bc89c6f82da97", "size": 821, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Sky_Fall.gd", "blob": "6039933acf0e188a91acac38ae4637491eb14366", "size": 879, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Slash.gd", "blob": "78cea0c18d76860b0bc980dbd6c8dc8bd49cdd04", "size": 885, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Sludge.gd", "blob": "85285a3956080180dab5ca34d1e4d28a380d8782", "size": 874, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Smog.gd", "blob": "998b9a0644702e524fc07a0aa388602518d70022", "size": 871, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Spark.gd", "blob": "f3d80a7749c6f0549ee678c84a26312e2585464f", "size": 847, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/String_Shot.gd", "blob": "270ac90cbc33ddbd6ae887e3439b784608a6f533", "size": 827, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Struggle_Bug.gd", "blob": "55c794bdd4cf236130705e844c8ae87b36cea284", "size": 891, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Supersonic.gd", "blob": "a71f297adf28b3541f594852f841509fbd2c5c37", "size": 844, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Swift.gd", "blob": "dd2b34568bc699b9a26ab85d0e10ec7ef9ff8f3f", "size": 840, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Tackle.gd", "blob": "788ee5cbc4255c96daed165d43701b3b91218ba4", "size": 724, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Tail_Whip.gd", "blob": "d1c2669f4c9df379412521c3af0610b78f5fce14", "size": 761, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Take_Down.gd", "blob": "b1db248bcff178cba8203da3eb4e6587021b23d0", "size": 850, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Thunder.gd", "blob": "a61e05e64a67cb422565bcd8ba0b1c666a3ec0fc", "size": 879, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Thunder_Shock.gd", "blob": "a024e881f4b5177f2a4342cf3977004d62380f37", "size": 859, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Thunderbolt.gd", "blob": "b33625a624b9e9a058b8f2df74a7abb93bd46bab", "size": 883, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Toxic.gd", "blob": "43972a87e68eb17d1247b09b51b6456d72e84c01", "size": 843, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Vine_Whip.gd", "blob": "77e17cc39bff7a30c9b04d668cf7c3ef9ddef721", "size": 888, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Water_Gun.gd", "blob": "eb94f0b74748a4df9c46bdc948dad96d4ec0c8c6", "size": 725, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Water_Pulse.gd", "blob": "9a993b1aaa616471301e133a948e9e3495a72085", "size": 880, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Will-O-Wisp.gd", "blob": "1be5b0fc960ee838e730159dc96964e0eb16fc3e", "size": 843, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Moves/Yawn.gd", "blob": "f366e963f0ff2822ac109a0a170ff826ae9185c7", "size": 820, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Ampharos.gd", "blob": "306cf0b4f68ef8df2b4dd14a4c8b7ca232d50299", "size": 1711, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Arbok.gd", "blob": "92d5d568d14391e2537e1e9fb862a4a1c7c8e113", "size": 1782, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Archilles.gd", "blob": "67110b06eefbe4fc3ff1cedfdb5c45093f18e600", "size": 1539, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Astronite.gd", "blob": "cdf4e3a6f0ae4544a310d073ac278f3ea2c7ba04", "size": 1679, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Aveden.gd", "blob": "a91ad2ade7c73a7b0da036dfa1bb9e8c4b320419", "size": 1743, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Baashaun.gd", "blob": "b941e4095a04badba637cc20c13b7faec57739d9", "size": 1486, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Barewl.gd", "blob": "4be551f291620014e2d6798d63147dce75ef07cf", "size": 1508, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Birbie.gd", "blob": "f9d990002593bc3f706cb58b7a5e06b3096f9ede", "size": 1740, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Blubelrog.gd", "blob": "f7252022c8be60557187691637d33b40718c0f4a", "size": 1613, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Brailip.gd", "blob": "844108f5514531a6c32550c5870864ffd26c539c", "size": 1599, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Brainoar.gd", "blob": "9c7beacb3c568e73a8d72f31280747c597034876", "size": 1719, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Chyinmunk.gd", "blob": "7904aa5f0b8b2683fb7a53f9b3f45af68a411bd6", "size": 1508, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Cometeor.gd", "blob": "440e1639d284caeaa72b81967b10e4172b95cb7d", "size": 1674, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Comite.gd", "blob": "d1c0a72edbd76db51001eeac08880eb6d29924e7", "size": 1669, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Cubblfly.gd", "blob": "6de93c4d400284e3252ac29ebe8b3bb7141ac0e1", "size": 1709, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Cubbug.gd", "blob": "189d9f4b340d9d5ddf87fac8b7f6be81ad0c4cda", "size": 1439, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Dearewl.gd", "blob": "5aa3ed824026cdfa3b92db188fcd44ff8a86a881", "size": 1581, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Dunseraph.gd", "blob": "cacfe0964c428995d24527c3ed631059c05f68e5", "size": 1848, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Dunsparce.gd", "blob": "6d8a81396214799d3713ef91ce66f73864aaabbc", "size": 1734, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Ekans.gd", "blob": "550bd9402f33998869615da09524cbd0eb3ffd4f", "size": 1636, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Electruxo.gd", "blob": "5f776bf782fd389d59c976a092bed050e7baba7d", "size": 1623, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Eletux.gd", "blob": "58bdf9e83076049c4d4c6fe0dde6b87108c53af0", "size": 1577, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Empirilla.gd", "blob": "c44067eb52c53a370e1818e338debdebab97e8fd", "size": 1612, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Eshouten.gd", "blob": "2b25a7a2b9d5de7b8bf0f9613d9804582c1c6400", "size": 1645, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Feleng.gd", "blob": "a10943a981d29fae599a1d0432d9c413db2db9e6", "size": 1518, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Feliger.gd", "blob": "f4a0dbc7da1965a0ee189e5c880fac4c9bf1b835", "size": 1579, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Felunge.gd", "blob": "4995ce76e8d83de57100555d2f5294582f21421e", "size": 1548, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Firoke.gd", "blob": "e63163f0a894038b4d2455fbb365bcd3cbd8aa7c", "size": 1587, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Flaaffy.gd", "blob": "5c05c0494ed9e40be3299f9ad796c03d7efba4b4", "size": 1651, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Folerog.gd", "blob": "d2c48c546fa4abaf537002a725599d967be259c7", "size": 1521, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Fortog.gd", "blob": "e0c323a8e9d1ccb324cb9ee47f498bd5a51b1edb", "size": 1520, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Gararewl.gd", "blob": "50d2f2e228d9c7428debe2a7251b0481b6602340", "size": 1627, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Grozard.gd", "blob": "4f4924d405f533e6dc4d9652433118849ed9bcec", "size": 1485, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Gyarados.gd", "blob": "dff2d757ff9962c6bc42619717e44dc351edddf9", "size": 1509, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Jerbolta.gd", "blob": "d94e6f8389a705ded7685e7c76bcc062f8e600cf", "size": 1613, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Kinetmunk.gd", "blob": "ac87c4ac69bc690e4f8656fc7277e157484de379", "size": 1545, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Lombre.gd", "blob": "873fb2828c662617547d1181eb70e5ed9a959979", "size": 1583, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Lotad.gd", "blob": "359335f717e1ffdee5cb3796c16dbcf66c6103af", "size": 1587, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Ludicolo.gd", "blob": "24ce237a7f10de493c98d9402a612108b1bf49d6", "size": 1293, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Magikarp.gd", "blob": "acd83a196f2ed2d3a2c0ecc1e9f417aa91378909", "size": 1244, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Mankey.gd", "blob": "1ad83a7a238fd54aa653b4929b2a50f0ad6faa8c", "size": 1673, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Mareep.gd", "blob": "2748a2fce380230f9aa077f3935168061ca8e01d", "size": 1581, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Metalynx.gd", "blob": "049d274a656e8c24f770f0bb0e879f5f0d7d5aaf", "size": 1640, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Nimflora.gd", "blob": "6e9c44c9add5468a12a910d852b762edb573dc1c", "size": 1743, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Orchynx.gd", "blob": "43a5312a4a0739f168ff966c71306c421c3711b4", "size": 1525, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Owten.gd", "blob": "7f14093a2d90dd1fb8851e660cfdae326e6f8ffe", "size": 1588, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Pahar.gd", "blob": "9fa6f7c3abc390f6f427bc16c81e707e417bf206", "size": 1650, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Pajay.gd", "blob": "5afa6c93c453568da7516b31af260d8883197dc0", "size": 1770, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Palij.gd", "blob": "69b207f96cf391a07527430f521abde093737d9e", "size": 1745, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Primeape.gd", "blob": "0c41e15bec89d00f206d9065e62e9e50b72fad85", "size": 1628, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Raptorch.gd", "blob": "3bd5442852be77e76c380e9030a21641fae014c0", "size": 1490, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Smore.gd", "blob": "283896a1d7c1d4e6fd589bacb5b13a93b4012746", "size": 1545, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Splendifowl.gd", "blob": "2e493053f6468c193478660ae61e0c74e01c7965", "size": 1805, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Sponaree.gd", "blob": "ab6f8aecf2f8e09373d735c60f504129994eabe5", "size": 1588, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Sponee.gd", "blob": "d754c5cd2cf3ff0729db5872b0df46a0b45ed4ce", "size": 1523, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Tancoon.gd", "blob": "f55a19e25c315c77f967f574dbc32ef73025b2c5", "size": 1540, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Tanscure.gd", "blob": "646c3bf0f708cee8c5787939f84f83a3c0d0a8f2", "size": 1618, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Terlard.gd", "blob": "c27ed694aa8b8c2dbd4065fb78c883c15bead031", "size": 1613, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Tofurang.gd", "blob": "b2776fe0241d75350513614694ade3dcf6173c8e", "size": 1484, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/Tonemy.gd", "blob": "f34b879b308942570755cf5def17b6a0184b8dea", "size": 1490, "mode": "100755"}
+{"path": "Utilities/Battle/Database/Pokemon/registry.gd", "blob": "f2a36867b5506d70e02b2d9d8bcec32776136de4", "size": 4929, "mode": "100755"}
+{"path": "Utilities/Battle/Database/abilities/ability_logic.gd", "blob": "4de17144dafb86521defa6df6a2228a2575e8ceb", "size": 764, "mode": "100755"}
+{"path": "Utilities/Battle/Database/abilities/base_ability.gd", "blob": "77fea9c6688b13468d6a63621c28f861e4fcbc19", "size": 320, "mode": "100755"}
+{"path": "Utilities/Battle/FoeBase.gd", "blob": "3654234b6af1e4d503d2348ca3c166bd2592da14", "size": 1699, "mode": "100755"}
+{"path": "Utilities/Battle/GreyFlashing.tres", "blob": "6c06a59da089e78081d3868a97f3b94c7ef8cdab", "size": 743, "mode": "100755"}
+{"path": "Utilities/Battle/MoveTextFont.tres", "blob": "541b955c55bba7e328d925372eac32ededc1213a", "size": 202, "mode": "100755"}
+{"path": "Utilities/Battle/OutlinedTextFont.tres", "blob": "468465e1acde035a0325c0fb8c64146edf7f31f2", "size": 280, "mode": "100755"}
+{"path": "Utilities/Battle/PlayerBase.gd", "blob": "357bbfcff6aa67c0d2f4e1fca0cb84fa10173ee5", "size": 1014, "mode": "100755"}
+{"path": "Utilities/Battle/StatChange.shader", "blob": "2bdeed4203a1d58346d64f764d1a7084d11442a6", "size": 545, "mode": "100755"}
+{"path": "Utilities/Battle/StatChange.tres", "blob": "b9667a7d4dfa0f2f4662e76e628ca376f23f4080", "size": 407, "mode": "100755"}
+{"path": "Utilities/Battle/TransitionEffects.gd", "blob": "635d0f5e574713fc5cb632ab38424ca32af33d20", "size": 594, "mode": "100755"}
+{"path": "Utilities/Battle/WhiteFade.shader", "blob": "e413a66b49758f5c6c40205ee6f1ed587a9944b5", "size": 319, "mode": "100755"}
+{"path": "Utilities/Card.gd", "blob": "1753d09f96bd8dc8c2670d2a529c55c87734711a", "size": 864, "mode": "100755"}
+{"path": "Utilities/Card.tscn", "blob": "98e1d448789c3c7bbc70a6642c473917c4a42b39", "size": 5392, "mode": "100755"}
+{"path": "Utilities/CliffEdge.gd", "blob": "3df620751874e3d488668976a406a8021311de15", "size": 857, "mode": "100755"}
+{"path": "Utilities/CliffEdge.tscn", "blob": "eb41edab6e083db34aef98acd7f28be77120e7a1", "size": 425, "mode": "100755"}
+{"path": "Utilities/DesktopKeyboard.gd", "blob": "0858e1196957421d4e08b93267a6df5a1772b221", "size": 758, "mode": "100755"}
+{"path": "Utilities/DesktopKeyboard.tscn", "blob": "032c1669e47c86987ab0a79790ca46c71b1d29f6", "size": 1449, "mode": "100755"}
+{"path": "Utilities/Dialogue Box Arrow.tres", "blob": "8003a7500157eca6523eac9c6d543687bbbbdc27", "size": 404, "mode": "100755"}
+{"path": "Utilities/Dialogue Box Text Slide.tres", "blob": "10f0e53ba3de7a03eda08274f38a619913c321d9", "size": 1707, "mode": "100755"}
+{"path": "Utilities/Dialogue/Event.gd", "blob": "33f929a01ec11483a838c2df3bc92526c8d08f8a", "size": 188, "mode": "100755"}
+{"path": "Utilities/Dialogue/Events/SkipTextEvent.gd", "blob": "b14141982e0df6ff8cebf93af45e114f745b81e6", "size": 383, "mode": "100755"}
+{"path": "Utilities/Dialogue/Events/WaitEvent.gd", "blob": "d2c1af1fc2faaf926b232637502322857aa59d45", "size": 294, "mode": "100755"}
+{"path": "Utilities/DialogueSystem.gd", "blob": "9e5bd43cae4ac80f3d2d3c7cb9a18811f9dcafb2", "size": 8681, "mode": "100755"}
+{"path": "Utilities/DialogueSystem.tscn", "blob": "f85dceddf2e2b1b90435436c0f01620702200272", "size": 3059, "mode": "100755"}
+{"path": "Utilities/Door.gd", "blob": "cfaa77da37cac9f07ba3910a86e3f8ccf2ba62e7", "size": 5444, "mode": "100755"}
+{"path": "Utilities/Door.tscn", "blob": "344e94c81e8fa64e439baa706a2d84023081de98", "size": 780, "mode": "100755"}
+{"path": "Utilities/Event.gd", "blob": "249412ea7259848e53a4a04ec5435a64b65e9bc0", "size": 917, "mode": "100755"}
+{"path": "Utilities/Event.tscn", "blob": "a8e7643c202013ead02b40cb31aaee08651d7413", "size": 379, "mode": "100755"}
+{"path": "Utilities/Evolution.gd", "blob": "985a81ae521a20b6d2543df23b7a7ae338bea412", "size": 2690, "mode": "100755"}
+{"path": "Utilities/Evolution.tscn", "blob": "a06664fa53debc48b7bcf65965dfba18547b3745", "size": 6427, "mode": "100755"}
+{"path": "Utilities/GameViewport.gd", "blob": "797ca8679d0a1a71b8e8bfed8816419c8bdc1b52", "size": 85, "mode": "100755"}
+{"path": "Utilities/Grass.shader", "blob": "bd58374ed419f6eff18ff6826cb4898b972f3ffb", "size": 184, "mode": "100755"}
+{"path": "Utilities/Grass_Animation.tscn", "blob": "72bbaea531fe53f57467ca0116e88948b446654c", "size": 1118, "mode": "100755"}
+{"path": "Utilities/HERO_mask.png", "blob": "7ed85addb8476c5d887148c1138867151cf27471", "size": 5374, "mode": "100755"}
+{"path": "Utilities/HERO_mask.png.import", "blob": "de38502807303a83197da1c534fc923143997e95", "size": 701, "mode": "100644"}
+{"path": "Utilities/Items/Inventory.gd", "blob": "500665125e99b9bff45c6fcc46d483de5d500122", "size": 7535, "mode": "100755"}
+{"path": "Utilities/Items/Item.gd", "blob": "3fad09e3521a2dbd3d6210a11a6554e4019f8c01", "size": 352, "mode": "100755"}
+{"path": "Utilities/Items/ItemStack.gd", "blob": "21e13ce3bf2d124f17f6bb2da11bc466f94d93b6", "size": 1074, "mode": "100755"}
+{"path": "Utilities/Items/OverworldItem.gd", "blob": "e88a3aae04ebabcc9255e4f5188669f8c0960f38", "size": 899, "mode": "100755"}
+{"path": "Utilities/Items/OverworldItem.tscn", "blob": "b9e2594d434689b41453bb69757ee9df0ff1fc1a", "size": 573, "mode": "100755"}
+{"path": "Utilities/Items/database.gd", "blob": "74c03986ef521d8a3c5a515c3fae8c90fb9e240c", "size": 2237, "mode": "100755"}
+{"path": "Utilities/Menu.gd", "blob": "7607436e1da2990d61072efd0219d2bbef422207", "size": 9812, "mode": "100755"}
+{"path": "Utilities/Menu.tscn", "blob": "15becb4ecbcb004cb3ae2be2d9d2a25f5eb60372", "size": 13658, "mode": "100755"}
+{"path": "Utilities/MobileControls.gd", "blob": "c1a9ceab31da1c43118d527a725ae2803bf8c66c", "size": 4774, "mode": "100755"}
+{"path": "Utilities/MobileControls.tscn", "blob": "5995d6848dfeeccc7bb1918f64695040c24da7a4", "size": 5549, "mode": "100644"}
+{"path": "Utilities/MobileKeyboard.gd", "blob": "0eef2b88b2d1ea215e53db018bc49b91c6eaf733", "size": 2793, "mode": "100755"}
+{"path": "Utilities/MobileKeyboard.tscn", "blob": "92d06e553c00564972ef130b7834893cbb9cd1c7", "size": 9995, "mode": "100755"}
+{"path": "Utilities/NPC.gd", "blob": "212d160749c669d1de6a1be17d277386197fe76a", "size": 5519, "mode": "100755"}
+{"path": "Utilities/NPC.tscn", "blob": "9409d82f9fe4aa1c94d197568741d13ac5ea6d77", "size": 6363, "mode": "100755"}
+{"path": "Utilities/NewMove.gd", "blob": "176298f7b6400acd17d16934daae22e89080c309", "size": 3284, "mode": "100755"}
+{"path": "Utilities/NewMove.tscn", "blob": "0ccb79a18858d4396a8baabe81f5dca50ccdede3", "size": 9343, "mode": "100755"}
+{"path": "Utilities/OptionsMenu.tscn", "blob": "4ca106daffc5b363cf5bd6696b1b0f5afa94b298", "size": 8677, "mode": "100755"}
+{"path": "Utilities/Player.gd", "blob": "0985cb42d3bd0dcc56cf8efe66d9a850e53e2de2", "size": 23197, "mode": "100755"}
+{"path": "Utilities/Player.tscn", "blob": "4b75ea28f6948d67b93c47950a0cb4dded737faf", "size": 9892, "mode": "100755"}
+{"path": "Utilities/PokeSummary.gd", "blob": "3eb6c96f2faac098d8863c09420192480a779ce6", "size": 16, "mode": "100755"}
+{"path": "Utilities/PokeSummary.tscn", "blob": "d32f70dd8358e09b21eac90e09d553a1386ac715", "size": 10805, "mode": "100755"}
+{"path": "Utilities/Pokedex.gd", "blob": "a4d48042e32fcfa6efa9297bcd14f0f924699c01", "size": 4360, "mode": "100755"}
+{"path": "Utilities/Pokedex.tscn", "blob": "7a5329bbf743cad615f412bab92b26a00eb340d3", "size": 7146, "mode": "100755"}
+{"path": "Utilities/PokemonPartyMenu.gd", "blob": "e47e9406e165074d3c86b8fa35600c12f4dd641c", "size": 16302, "mode": "100755"}
+{"path": "Utilities/PokemonPartyMenu.tscn", "blob": "c28bbcbed858c3820ed4b16e601afa749b170b13", "size": 27152, "mode": "100755"}
+{"path": "Utilities/Route1Idle_Poke.tres", "blob": "b27b2b39988bb89c8024f2cf295fde9b9d825164", "size": 407, "mode": "100755"}
+{"path": "Utilities/Save/SaveSystem.gd", "blob": "dc34dd90e5f50e0ef1cd406c8e31acda9c1d57d0", "size": 3079, "mode": "100755"}
+{"path": "Utilities/Save/SaveSystem.tscn", "blob": "3c8a43b8245d329ddf3aa4244ff2a99d95ec601c", "size": 174, "mode": "100755"}
+{"path": "Utilities/Save/State.gd", "blob": "51b425b7682351bbf70344d25ea006e1506a2b51", "size": 287, "mode": "100755"}
+{"path": "Utilities/Stairs.gd", "blob": "eee1aaff71d55756009934d9f567342c40baca46", "size": 374, "mode": "100755"}
+{"path": "Utilities/Stairs.tscn", "blob": "4e989ebbf99f901f69e0ef1ee4906ab133e2eecd", "size": 534, "mode": "100755"}
+{"path": "Utilities/Start.gd", "blob": "b75813d2cb21fbb7214bf1fed507263c95b43d9d", "size": 1626, "mode": "100755"}
+{"path": "Utilities/Start.tscn", "blob": "a993e4ceae3569986d4477867c69be6771cb450c", "size": 161, "mode": "100644"}
+{"path": "Utilities/TerrainTags.gd", "blob": "2e11832f18555d4dd9b067999e807f3ec0b85ff3", "size": 561, "mode": "100755"}
+{"path": "Utilities/TerrainTags.tscn", "blob": "7d065e7cd39b480b11c5affbcac76ed9782a0761", "size": 248, "mode": "100755"}
+{"path": "Utilities/TextParser.gd", "blob": "f1fbd44df1ce4c9f05def265870d8870c85f1e35", "size": 3778, "mode": "100755"}
+{"path": "Utilities/Transition.gd", "blob": "fe766e3d9fbee63c359f2be7426ded17a9cd062f", "size": 315, "mode": "100755"}
+{"path": "Utilities/Transition.tscn", "blob": "0987acea34e80985d6bcc91e33924b7a7b5b937f", "size": 1877, "mode": "100755"}
+{"path": "Utilities/UI/Bounce.tres", "blob": "752df13d38ecdb8761b876979d9d81ca41adce08", "size": 518, "mode": "100755"}
+{"path": "Utilities/UI/MultilinePrompt.gd", "blob": "fcb369f00693c44c17d2fea24c83016abd786318", "size": 3465, "mode": "100755"}
+{"path": "Utilities/UI/MultilinePrompt.tscn", "blob": "fa17d6e56ecafeb64bc65aef95f73b51406139d7", "size": 1190, "mode": "100755"}
+{"path": "Utilities/UI/YesNoPrompt.gd", "blob": "6de00f2701e7cf9e9531371916e3b6a62e5055a7", "size": 547, "mode": "100755"}
+{"path": "Utilities/UI/YesNoPrompt.tscn", "blob": "f8415d12d775c285f63ceb4b35d1c8f54eaa40e9", "size": 330, "mode": "100755"}
+{"path": "Utilities/bush.png", "blob": "8642f01175e15c3000e54bccd91a1fa17f942f31", "size": 2010, "mode": "100755"}
+{"path": "Utilities/bush.png.import", "blob": "0dfb10786eb8898be814cabde2fe137a770dff7b", "size": 686, "mode": "100755"}
+{"path": "Utilities/bush_old.png", "blob": "37649a2c5b95c34aa6ec8b79fc8df4b3a6fb4a8a", "size": 802, "mode": "100755"}
+{"path": "Utilities/bush_old.png.import", "blob": "e137785f8dd79691ca3dea82221cd5c420a69d13", "size": 698, "mode": "100755"}
+{"path": "Utilities/debug_overlay.gd", "blob": "903082cb38c1d1590618266b1dd0fd4568d019d6", "size": 791, "mode": "100755"}
+{"path": "Utilities/debug_overlay.tscn", "blob": "5f94a36d539a5ebf80042a6bd9bdb4c6e98ad594", "size": 354, "mode": "100755"}
+{"path": "Utilities/dexbg1_1.png", "blob": "4827decb3cd582ecf0a1af6e5dbafbb1ebaa4d11", "size": 4768, "mode": "100755"}
+{"path": "Utilities/dexbg1_1.png.import", "blob": "bcd6dfb82a25d6f18a23c25f6db300966f1fecdb", "size": 698, "mode": "100755"}
+{"path": "addons/autotile/README.md", "blob": "cc1b942f14e49a8a072623c014a7f0a115cecd6c", "size": 2248, "mode": "100755"}
+{"path": "addons/autotile/icon.png", "blob": "f7b0bdbf8f923fe57f2d304104463a78c7105cea", "size": 162, "mode": "100755"}
+{"path": "addons/autotile/icon.png.import", "blob": "132b84b872a459d3c910ba1027155070c12a404c", "size": 692, "mode": "100755"}
+{"path": "addons/autotile/layer.gd", "blob": "8338b521767873000849f7bb443981f77dd6130c", "size": 6934, "mode": "100755"}
+{"path": "addons/autotile/plugin.cfg", "blob": "062c57e1073c98d1a47c3b98bb11e4cf924cc011", "size": 144, "mode": "100755"}
+{"path": "addons/autotile/plugin.gd", "blob": "8190c7a99b348cb87f7cce8ce3a657a1902c5b70", "size": 7389, "mode": "100755"}
+{"path": "addons/create_pokemon/create_pokemon.gd", "blob": "adb70552e6a80f474aa3f8a4dcb4146e86e70a33", "size": 2659, "mode": "100755"}
+{"path": "addons/create_pokemon/interface.tscn", "blob": "a79bc6416bfdcb76e30e08015431d95f53529667", "size": 9420, "mode": "100755"}
+{"path": "addons/create_pokemon/plugin.cfg", "blob": "6d012033d52d71e4ed22ac8b65db674834897b94", "size": 147, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/plugin.cfg", "blob": "40a544f38686be3f2da3e925b2ba0e5fa0f50e41", "size": 197, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/polygon_sorter.gd", "blob": "7a6f9b16b20c30dd335b906ee5759201207cc192", "size": 2170, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/tiled.png", "blob": "17d7d492e35e82189b96f3097f01ada700d879f6", "size": 757, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/tiled.png.import", "blob": "6d8287053b7823e3bd6a257478a9d048ffc96a11", "size": 706, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/tiled_import_plugin.gd", "blob": "4c5ee10ff62664709fb55c725819e8e51048234d", "size": 3906, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/tiled_map_reader.gd", "blob": "55b5a8257d7eee53899234e64b4d056fe5368770", "size": 43511, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/tiled_tileset_import_plugin.gd", "blob": "73dcec79ca9aad2d848c84a427e1ad430d73bf78", "size": 3586, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/tiled_xml_to_dict.gd", "blob": "3882de6890ab307d0d2ceac42bde7a3a9dec82c9", "size": 17634, "mode": "100755"}
+{"path": "addons/vnen.tiled_importer/vnen.tiled_importer.gd", "blob": "6f703152aec3f9baed55e230847ddab4895fc0af", "size": 1781, "mode": "100755"}
+{"path": "default_env.tres", "blob": "8c5cc583060d3196db0d94aefde5a97f248b31c4", "size": 464, "mode": "100644"}
+{"path": "icon.jpg", "blob": "947e77a0da51492985a6122c4ed821303bde1473", "size": 17166, "mode": "100755"}
+{"path": "icon.jpg.import", "blob": "91c6bb50bb9e003a19d3c2646e7c003928c128c4", "size": 676, "mode": "100755"}
+{"path": "icon.png", "blob": "bd14aa46739e8d8d479b63745f6d4de1bc5900e9", "size": 265229, "mode": "100755"}
+{"path": "icon.png.import", "blob": "eb3cdb604509d0523c23e413630df86007c1cd11", "size": 676, "mode": "100755"}
+{"path": "project.godot", "blob": "6b2123b998c27f096f75dd71a08e806fd5615ad6", "size": 14747, "mode": "100644"}

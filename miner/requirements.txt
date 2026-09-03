@@ -1,0 +1,10 @@
+# The miner uses the Python standard library only. This file exists
+# because the MSR D&TS call asks for an explicit environment spec, and
+# an empty-by-design one is a stronger claim than a missing one.
+#
+# Requires:
+#   python >= 3.11        (tested on 3.14.4)
+#
+# External binaries, not pip-installable:
+#   git >= 2.36           blob-filtered clones (--filter=blob:limit=256k)
+#   gh  >= 2.0            authenticated GitHub API access; run `gh auth login`

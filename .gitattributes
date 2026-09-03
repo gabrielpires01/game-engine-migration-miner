@@ -1,0 +1,4 @@
+# Large tables in Git LFS. Tracked by exact path, not by extension: the
+# other fourteen JSONL tables are small and worth keeping diffable in git.
+dataset/v0.1/repos.jsonl   filter=lfs diff=lfs merge=lfs -text
+dataset/v0.1/csv/repos.csv filter=lfs diff=lfs merge=lfs -text

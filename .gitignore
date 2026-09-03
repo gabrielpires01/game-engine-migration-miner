@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Stored evidence bodies. The LEDGER is published -- evidence/ledger.jsonl
+# and claims.jsonl carry every URL, sha256, byte count and collection date,
+# so any artifact can be re-fetched and verified. The BODIES are not, because
+# 33 of them are copies of published papers we cannot redistribute.
+evidence/raw/
+
+# Intermediate mining output, regenerable from the stages in miner/Makefile.
+work/

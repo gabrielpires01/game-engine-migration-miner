@@ -1,0 +1,565 @@
+{"path": ".github/ISSUE_TEMPLATE/bug_report.md", "blob": "dd84ea7824f11be1eeda22377549cbc1aec7f980", "size": 834, "mode": "100755"}
+{"path": ".github/ISSUE_TEMPLATE/feature_request.md", "blob": "bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30", "size": 595, "mode": "100755"}
+{"path": ".gitignore", "blob": "b862a7906a316ced2ffb675554a54d2cb556846d", "size": 343, "mode": "100755"}
+{"path": "README.md", "blob": "8f6c4b63b25aed07618ec5bdf52a1ac2c33a8d64", "size": 1435, "mode": "100755"}
+{"path": "assets/assets/documentation_assets/world builder UI flow chart.drawio", "blob": "15f233320c6f1cf575641029f9c4741c997148ae", "size": 7963, "mode": "100755"}
+{"path": "build/scripts/build.py", "blob": "282de89a2a92e7f589247cc4e6c565b0b7f27808", "size": 2215, "mode": "100755"}
+{"path": "documentation/documentation/export/.obsidian/app.json", "blob": "9e26dfeeb6e641a33dae4961196235bdb965b21b", "size": 2, "mode": "100755"}
+{"path": "documentation/documentation/export/.obsidian/appearance.json", "blob": "9e26dfeeb6e641a33dae4961196235bdb965b21b", "size": 2, "mode": "100755"}
+{"path": "documentation/documentation/export/.obsidian/core-plugins.json", "blob": "96869dfde41175b3c5302834ee8d410e227dcfe7", "size": 282, "mode": "100755"}
+{"path": "documentation/documentation/export/.obsidian/hotkeys.json", "blob": "9e26dfeeb6e641a33dae4961196235bdb965b21b", "size": 2, "mode": "100755"}
+{"path": "documentation/documentation/export/.obsidian/workspace", "blob": "7a2c1a4a88c622a51682726d6816ef3e19428a97", "size": 3258, "mode": "100755"}
+{"path": "documentation/documentation/export/Animaion.md", "blob": "cd984cfaf8c1c44b3579ae00e3680e2c3507c2d2", "size": 1612, "mode": "100755"}
+{"path": "documentation/documentation/export/Article.md", "blob": "67f97bf9f942d12cb8a630910169a77637d22eab", "size": 1435, "mode": "100755"}
+{"path": "documentation/documentation/export/ArticleManager.md", "blob": "8e9a4380bef290a6e9ec852a809d5cdec1ad6d58", "size": 294, "mode": "100755"}
+{"path": "documentation/documentation/export/Background.gd.md", "blob": "22d0f00702c0e695c8040c1f183f6d324c9c598b", "size": 641, "mode": "100755"}
+{"path": "documentation/documentation/export/BackgroundBlur.gd.md", "blob": "6249d4e453ed5e37bdd3f8636c6130bb98af91e2", "size": 482, "mode": "100755"}
+{"path": "documentation/documentation/export/BottomPanelShortcuts.gd.md", "blob": "f9dae9d4591f21ac5b1efebbc7128c5bfa52ec55", "size": 1092, "mode": "100755"}
+{"path": "documentation/documentation/export/CameraMovement.md", "blob": "d17cf40603bd91286c85a4ecba97048a6fdc7f0c", "size": 1529, "mode": "100755"}
+{"path": "documentation/documentation/export/Cards.gd.md", "blob": "2e10530420ea769df36d25acc996ccd62997b099", "size": 613, "mode": "100755"}
+{"path": "documentation/documentation/export/Collector.gd.md", "blob": "38d9d2e27f57c43e16c19781189ffeeda0af11d6", "size": 1373, "mode": "100755"}
+{"path": "documentation/documentation/export/CommandLine.gd.md", "blob": "20b9d392f6943aba11d794131e5137457d90bb0f", "size": 359, "mode": "100755"}
+{"path": "documentation/documentation/export/DeletePin.gd.md", "blob": "05ec347589564c038236b8e2b7a5b2c410887343", "size": 110, "mode": "100755"}
+{"path": "documentation/documentation/export/EditorSettingsTemplate.md", "blob": "0373a4fa0c7aba4d0ad9074b5fd98d86ece87c40", "size": 402, "mode": "100755"}
+{"path": "documentation/documentation/export/Example Logging.gd.md", "blob": "2d5d913dbc10081f409dd4a42701e6d2071750c4", "size": 253, "mode": "100755"}
+{"path": "documentation/documentation/export/Fullscreen.gd.md", "blob": "97f4ab56874b08e236d032a3dae62b5ca52a2a0c", "size": 356, "mode": "100755"}
+{"path": "documentation/documentation/export/GutBottomPanel.gd.md", "blob": "c45d6d58e966b0c01c115e5627a450dbc457daf1", "size": 2018, "mode": "100755"}
+{"path": "documentation/documentation/export/GutRunner.gd.md", "blob": "509edc35c56b18768f0e01de53b8019f8429e5db", "size": 590, "mode": "100755"}
+{"path": "documentation/documentation/export/GutScene.gd.md", "blob": "4abb5112cf4f8d2280a8ef9eeabbede7017527f4", "size": 2406, "mode": "100755"}
+{"path": "documentation/documentation/export/ImageHandler.md", "blob": "aadd655e0a36beb464f1f9cda52364912e9c13a3", "size": 1299, "mode": "100755"}
+{"path": "documentation/documentation/export/InputCheckBox.gd.md", "blob": "4d90fc336fb5004b4e9bb87b7f723198505a8d84", "size": 752, "mode": "100755"}
+{"path": "documentation/documentation/export/InputDatabase.gd.md", "blob": "1ccde02d4891c7d59f21d1c854709617661e7b89", "size": 558, "mode": "100755"}
+{"path": "documentation/documentation/export/InputDropDown.gd.md", "blob": "29f511677988dd3df708cae2e6bba21b532f19d5", "size": 528, "mode": "100755"}
+{"path": "documentation/documentation/export/InputImage.gd.md", "blob": "b22fa01f4b9fa718bdaead6619c868acb500c2b6", "size": 357, "mode": "100755"}
+{"path": "documentation/documentation/export/InputLargeText.gd.md", "blob": "2afa52dca265245fd1983dd0211e31b71aa00a22", "size": 285, "mode": "100755"}
+{"path": "documentation/documentation/export/InputOpenFile.gd.md", "blob": "4291a1d1f7e51bc055d2732b7552667374e96f6c", "size": 205, "mode": "100755"}
+{"path": "documentation/documentation/export/InputRelatableDatabase.gd.md", "blob": "660488938a111178b99873916e558e7a1895dd13", "size": 176, "mode": "100755"}
+{"path": "documentation/documentation/export/InputSpinBox.gd.md", "blob": "bc483c6e6f3457409ee7c1a5d0202dcb633fd2fb", "size": 601, "mode": "100755"}
+{"path": "documentation/documentation/export/InputText.gd.md", "blob": "7d6528044a3f8a33678189a75a8d5645bda5c46d", "size": 280, "mode": "100755"}
+{"path": "documentation/documentation/export/InputToggleButton.gd.md", "blob": "00957b93cd63f8adfc3351d0f4838c868f93247b", "size": 574, "mode": "100755"}
+{"path": "documentation/documentation/export/LayerCreator.gd.md", "blob": "377d5cd2414e59f56c48b03808d752df1ecf9f11", "size": 1080, "mode": "100755"}
+{"path": "documentation/documentation/export/LayerOptions.gd.md", "blob": "001fcc120b0918fc14b3b166cdf4b1e4ab48d1a1", "size": 857, "mode": "100755"}
+{"path": "documentation/documentation/export/LinkMap.gd.md", "blob": "0e44a6a67d9d0a1e1299f35d4517527bb5abcbe5", "size": 108, "mode": "100755"}
+{"path": "documentation/documentation/export/LoadingScene.gd.md", "blob": "7b5d6eba1fde9ba8860c9d94ccf9e7ce15057764", "size": 655, "mode": "100755"}
+{"path": "documentation/documentation/export/MapComment.md", "blob": "f59a50a8f98a748ca2bf5edafcab6530b38378df", "size": 963, "mode": "100755"}
+{"path": "documentation/documentation/export/MapCreator.gd.md", "blob": "9fe5bf17ab071da3237ec3832dc3a9180ae1fd84", "size": 791, "mode": "100755"}
+{"path": "documentation/documentation/export/MapData.md", "blob": "8725d3293fc07ea64a0f9f901a2a87a5e3a28f59", "size": 829, "mode": "100755"}
+{"path": "documentation/documentation/export/MapFragment.md", "blob": "a5fb502262a4d45b95f231d98de198f31149f0d0", "size": 334, "mode": "100755"}
+{"path": "documentation/documentation/export/MapLayer.md", "blob": "bedef84f70c0caa89dbbdb328e52df392f64f800", "size": 2200, "mode": "100755"}
+{"path": "documentation/documentation/export/MapMenu.gd.md", "blob": "9723693dd981d306887405f1627e7e86fb3c032b", "size": 108, "mode": "100755"}
+{"path": "documentation/documentation/export/MapPin.md", "blob": "6d10039423d201886b5ccbfe83cd37a6c01fdb97", "size": 1017, "mode": "100755"}
+{"path": "documentation/documentation/export/MapPinButton.gd.md", "blob": "eb701e122ad4aee8298dc1b1380220f82b36409b", "size": 324, "mode": "100755"}
+{"path": "documentation/documentation/export/MapPinNode.md", "blob": "3ca4aff7badd96a21d078322feff13e6d0ae12ca", "size": 1059, "mode": "100755"}
+{"path": "documentation/documentation/export/MapPinStateMachine.gd.md", "blob": "ec8bc28e60cf9d35bbedd90b990cc133a8ad4d65", "size": 988, "mode": "100755"}
+{"path": "documentation/documentation/export/MapPropertyManager.md", "blob": "2bef0285ee6af38d37919d7a3fc8bb9bc4dff1b1", "size": 969, "mode": "100755"}
+{"path": "documentation/documentation/export/MapSymbolTemplate.md", "blob": "4b797f36b04b061d3688f8a0edf29115e2442f3f", "size": 1217, "mode": "100755"}
+{"path": "documentation/documentation/export/Notes.gd.md", "blob": "a5b5c984aae7c65fb21a3727e594c3df4c4aeb11", "size": 239, "mode": "100755"}
+{"path": "documentation/documentation/export/PinArticle.gd.md", "blob": "fdcb59ef4a87a38bd83be5d540d4d3f5c86baf60", "size": 111, "mode": "100755"}
+{"path": "documentation/documentation/export/PinManager.md", "blob": "a906eed2e1d4a327e18e1f094f6932f2f5bb92bc", "size": 554, "mode": "100755"}
+{"path": "documentation/documentation/export/PinName.gd.md", "blob": "9f9dbbbf35f158987381e316493a9346088038d1", "size": 108, "mode": "100755"}
+{"path": "documentation/documentation/export/PinPosition.gd.md", "blob": "8d4faf91a1fe4d0f410c45f61d17491e9b272f3a", "size": 317, "mode": "100755"}
+{"path": "documentation/documentation/export/PinTags.gd.md", "blob": "0cee0ae23aa62e33930ba45b34113605917f44a8", "size": 108, "mode": "100755"}
+{"path": "documentation/documentation/export/PinTemplate.gd.md", "blob": "1f52dc9a5701235ab7c6f982a378146d7a0115c1", "size": 210, "mode": "100755"}
+{"path": "documentation/documentation/export/PresetInputManager.md", "blob": "5099ebd22f0fe48582f21732c9715fd6ffdfa67b", "size": 828, "mode": "100755"}
+{"path": "documentation/documentation/export/Preview.gd.md", "blob": "aa648c788782b12145827052be50ce59bcea312c", "size": 601, "mode": "100755"}
+{"path": "documentation/documentation/export/ProjectButton.md", "blob": "6bbff9f88a2902ce44e80b793670428d0105269d", "size": 445, "mode": "100755"}
+{"path": "documentation/documentation/export/ReferenceCollectorCLI.gd.md", "blob": "d01fd89740599385e51a59757ec267d7395e2684", "size": 689, "mode": "100755"}
+{"path": "documentation/documentation/export/ResourceManager.md", "blob": "a77a02a319c3d4767f8c5d5e16eb99d4516ef168", "size": 1666, "mode": "100755"}
+{"path": "documentation/documentation/export/RibbonMenu.gd.md", "blob": "936e2c707c4f66a8f5d8c24e17b69d01ea9e1318", "size": 164, "mode": "100755"}
+{"path": "documentation/documentation/export/RootFieldInput.md", "blob": "99a542680435532d67f80b5a9e00585a700003ea", "size": 884, "mode": "100755"}
+{"path": "documentation/documentation/export/SearchBar.gd.md", "blob": "6c90946c4fac7e958a09c8e7f66b1b41bd90cd7e", "size": 322, "mode": "100755"}
+{"path": "documentation/documentation/export/ShortcutButton.gd.md", "blob": "a02fdeaede4a925b40d41205e25ba5259dca1372", "size": 633, "mode": "100755"}
+{"path": "documentation/documentation/export/ShortcutMenu.gd.md", "blob": "a4a77344d8d3921bd73461f6ee543a4a7e7c470e", "size": 166, "mode": "100755"}
+{"path": "documentation/documentation/export/ShortcutSettings.gd.md", "blob": "1c257c6b32c5b8a9e088a2919685e4f2347f66bc", "size": 603, "mode": "100755"}
+{"path": "documentation/documentation/export/StateMachine.md", "blob": "cefcdf7edba16c9ee2f410fceb93762e9a8c9666", "size": 361, "mode": "100755"}
+{"path": "documentation/documentation/export/TemplateSettings.gd.md", "blob": "fb14492c99c057dfe9540c9a8d395c179a0238ff", "size": 432, "mode": "100755"}
+{"path": "documentation/documentation/export/ThreadPool.md", "blob": "0834e615e82802627b14de08932c73d40d8f1525", "size": 991, "mode": "100755"}
+{"path": "documentation/documentation/export/UIManager.md", "blob": "550d1ec6ea8b334ed09f8fe4cdc0dc473cc108c9", "size": 962, "mode": "100755"}
+{"path": "documentation/documentation/export/UserFileViewer.gd.md", "blob": "8a714ae51bf58cf196f05caf035d12939d03683e", "size": 438, "mode": "100755"}
+{"path": "documentation/documentation/export/VBoxContainer.gd.md", "blob": "4517b9b2db7bceb01fc2f719328a21146335ef95", "size": 179, "mode": "100755"}
+{"path": "documentation/documentation/export/ViewTools.gd.md", "blob": "aa1501cd47e0bd2d61b00de3ba2a0e5cdf15394d", "size": 163, "mode": "100755"}
+{"path": "documentation/documentation/export/accept_dialog.gd.md", "blob": "fa3afea3968e455b4fe5fa79b1a426568c488374", "size": 392, "mode": "100755"}
+{"path": "documentation/documentation/export/article_reader.gd.md", "blob": "3741b4995ee8c656e84342eff30299e75488e8cd", "size": 760, "mode": "100755"}
+{"path": "documentation/documentation/export/autofree.gd.md", "blob": "aa3e0f6cb13341e796d47e255bb9075ebf15c300", "size": 436, "mode": "100755"}
+{"path": "documentation/documentation/export/background_loading.gd.md", "blob": "4d495b83a7b2449bf82848df8853a41a13ba71bd", "size": 390, "mode": "100755"}
+{"path": "documentation/documentation/export/base_location_template.gd.md", "blob": "c5d697513bd89c70d1692b9705c4b7ab7a170425", "size": 4389, "mode": "100755"}
+{"path": "documentation/documentation/export/card_manager.gd.md", "blob": "5c726bd76dcd93f90086c0bcba9cf361619ffcd3", "size": 710, "mode": "100755"}
+{"path": "documentation/documentation/export/command.gd.md", "blob": "27a3ed5351168035ab5129c2d1ce238ccb2bbab6", "size": 610, "mode": "100755"}
+{"path": "documentation/documentation/export/command_api.gd.md", "blob": "2900121b3397abec7076f4afb02e9d63f2d2dbe0", "size": 1104, "mode": "100755"}
+{"path": "documentation/documentation/export/command_system.gd.md", "blob": "4010e73e91a8e456ceabe6514b6558768ab32589", "size": 573, "mode": "100755"}
+{"path": "documentation/documentation/export/comparator.gd.md", "blob": "4e0f259ff0f4c25e546b27b2da077485e03d4526", "size": 997, "mode": "100755"}
+{"path": "documentation/documentation/export/compare_result.gd.md", "blob": "083e45d342f00da9167199738cdb79a0e58f41c8", "size": 1401, "mode": "100755"}
+{"path": "documentation/documentation/export/diff_formatter.gd.md", "blob": "f8d2e5e49b2228095e5ab7f79505b9def5cdd2c7", "size": 665, "mode": "100755"}
+{"path": "documentation/documentation/export/diff_tool.gd.md", "blob": "6d4d58a57be41e172919b6e3212d35e11d030ff5", "size": 1321, "mode": "100755"}
+{"path": "documentation/documentation/export/doubler.gd.md", "blob": "be771d459363ad10944d09ac80678ca142370735", "size": 4587, "mode": "100755"}
+{"path": "documentation/documentation/export/editor_setting.gd.md", "blob": "87cc6692be8c92bff1583fb5650e4eef47986e5a", "size": 1917, "mode": "100755"}
+{"path": "documentation/documentation/export/event_bus.gd.md", "blob": "9dfdd5b6457a1840c0e701b5c88432660fcbb7f0", "size": 3576, "mode": "100755"}
+{"path": "documentation/documentation/export/fetchy_pins.gd.md", "blob": "60c25da96301ca34098fe3c24ae8e576c7b81382", "size": 535, "mode": "100755"}
+{"path": "documentation/documentation/export/get_native_script.gd.md", "blob": "c0271bc1e06afb0eb9ef2847348d30e51ce2a0d1", "size": 450, "mode": "100755"}
+{"path": "documentation/documentation/export/global_actions.gd.md", "blob": "674f86fbaf94477f42028ae677ef9dd6091a7fd6", "size": 163, "mode": "100755"}
+{"path": "documentation/documentation/export/grid_container_manager.gd.md", "blob": "469d99d4577616b6444c7fed1ac3a04d8533f3ad", "size": 620, "mode": "100755"}
+{"path": "documentation/documentation/export/gut.gd.md", "blob": "3cc580a951b17c7b6bfbffcb7b8f0f04c15cd859", "size": 24516, "mode": "100755"}
+{"path": "documentation/documentation/export/gut_cmdln.gd.md", "blob": "fb8ded6e439758b882c78a9427491bc5440726f2", "size": 3654, "mode": "100755"}
+{"path": "documentation/documentation/export/gut_config.gd.md", "blob": "95cd8a189d0b28146b630ba1df1ed356e4af341d", "size": 976, "mode": "100755"}
+{"path": "documentation/documentation/export/gut_config_gui.gd.md", "blob": "36af6486ff574d323f57f70c4b7a7416fcb68138", "size": 559, "mode": "100755"}
+{"path": "documentation/documentation/export/hook_script.gd.md", "blob": "2d6a3c1dc2726a5aa8e88d5181704e83dc359fb5", "size": 1336, "mode": "100755"}
+{"path": "documentation/documentation/export/inspector.gd.md", "blob": "bec6221c33e6f60eb8e506ce56f3d72004534906", "size": 2325, "mode": "100755"}
+{"path": "documentation/documentation/export/inspector_input.gd.md", "blob": "e7d9497cae3b5576e81c5e2e0eb4722e92b885cb", "size": 512, "mode": "100755"}
+{"path": "documentation/documentation/export/junit_xml_export.gd.md", "blob": "c0be4e5951ca568cb41212e5b5cb9c1b75642674", "size": 379, "mode": "100755"}
+{"path": "documentation/documentation/export/layers.gd.md", "blob": "64573bfe270484da5b2003bebae81c684f64df4b", "size": 2964, "mode": "100755"}
+{"path": "documentation/documentation/export/loading_system.gd.md", "blob": "a65422a8e6a97982e902c75c24fa1c0b2765af21", "size": 429, "mode": "100755"}
+{"path": "documentation/documentation/export/log_base.gd.md", "blob": "1f9f60996fd7a5735cb17142573d53cd678cb34d", "size": 1790, "mode": "100755"}
+{"path": "documentation/documentation/export/logger.gd.md", "blob": "324e8fc8ee5b563973e4ea5522204be9c6eab7bc", "size": 4387, "mode": "100755"}
+{"path": "documentation/documentation/export/main_menu.gd.md", "blob": "c2107750ceb1dccb061edafced912b180e39629a", "size": 381, "mode": "100755"}
+{"path": "documentation/documentation/export/map_camera.gd.md", "blob": "34cd8a3927632c075f48bd32f03394e4a4080b15", "size": 448, "mode": "100755"}
+{"path": "documentation/documentation/export/map_chunk.gd.md", "blob": "768b3a0bd7b04c51b281e889ead02ece14761654", "size": 111, "mode": "100755"}
+{"path": "documentation/documentation/export/map_pin_manager.gd.md", "blob": "93f47057b5380d03957b1ee2a4959c5bbdbd8930", "size": 948, "mode": "100755"}
+{"path": "documentation/documentation/export/maps.gd.md", "blob": "29c9f11696bb88b4abf8659bbe4ac9f9e4e02546", "size": 941, "mode": "100755"}
+{"path": "documentation/documentation/export/method_maker.gd.md", "blob": "17a4903ad61a9195299f7e34c607c3d891599704", "size": 982, "mode": "100755"}
+{"path": "documentation/documentation/export/new_project.gd.md", "blob": "629f9797ee5c7f71b94a2ea6f55f42700aba698d", "size": 326, "mode": "100755"}
+{"path": "documentation/documentation/export/one_to_many.gd.md", "blob": "b64ed47d0a9335e27b0394713649cf640898e143", "size": 512, "mode": "100755"}
+{"path": "documentation/documentation/export/open_editors.gd.md", "blob": "e58bde55c8a820cf3d8ee3ac565f732db90e7fb4", "size": 410, "mode": "100755"}
+{"path": "documentation/documentation/export/open_project.gd.md", "blob": "b4c1a56f8c2874e877abdc2e9e053c73a849aa8a", "size": 825, "mode": "100755"}
+{"path": "documentation/documentation/export/optparse.gd.md", "blob": "1925a0421437e408e876e7b950ee2daddfe35abc", "size": 2487, "mode": "100755"}
+{"path": "documentation/documentation/export/orphan_counter.gd.md", "blob": "f1c0f53589ee1f1fae21aaf7f01497f6a9234d20", "size": 583, "mode": "100755"}
+{"path": "documentation/documentation/export/parameter_factory.gd.md", "blob": "1c6709f0e5db6d78fac77f0b2bb0700532233000", "size": 2722, "mode": "100755"}
+{"path": "documentation/documentation/export/parameter_handler.gd.md", "blob": "bcfd9225e3c7c5eac6e522e5021254dce001ccd7", "size": 626, "mode": "100755"}
+{"path": "documentation/documentation/export/plugin_control.gd.md", "blob": "fa89b995d579b30d173853721ed70afffcbe0234", "size": 2614, "mode": "100755"}
+{"path": "documentation/documentation/export/printers.gd.md", "blob": "52d106f31bd3bc5510c851533967ecbb2683b818", "size": 1256, "mode": "100755"}
+{"path": "documentation/documentation/export/project_setting.gd.md", "blob": "8f318cab67fc1b3e6402f888b8008c2d7d9f91d3", "size": 1611, "mode": "100755"}
+{"path": "documentation/documentation/export/project_settings_template.gd.md", "blob": "83499e0c34762e517506a6ff51fa6e9345fa4df8", "size": 679, "mode": "100755"}
+{"path": "documentation/documentation/export/result_exporter.gd.md", "blob": "986bb8859a9d8b2102a5ddf39b8ed154848459f3", "size": 416, "mode": "100755"}
+{"path": "documentation/documentation/export/setting_menu.gd.md", "blob": "6357f1e72a0ecbbcb3cbb7571c2cb5aa87fd646e", "size": 167, "mode": "100755"}
+{"path": "documentation/documentation/export/shortcut_settings.gd.md", "blob": "0e3c5615b699e03ed3eb38240d673b91706746e1", "size": 512, "mode": "100755"}
+{"path": "documentation/documentation/export/signal_watcher.gd.md", "blob": "16dc5bd97d4227f78a442a493544e5595aa2f698", "size": 2596, "mode": "100755"}
+{"path": "documentation/documentation/export/spy.gd.md", "blob": "a1d5a97770f9c849338d4d842a0873f95dab791f", "size": 742, "mode": "100755"}
+{"path": "documentation/documentation/export/strutils.gd.md", "blob": "b41743d732c54e2875f52002ff3b9339e0d9ad77", "size": 1410, "mode": "100755"}
+{"path": "documentation/documentation/export/stub_params.gd.md", "blob": "586743bfad5dd7a3439df547a8d24d37c487e51e", "size": 1381, "mode": "100755"}
+{"path": "documentation/documentation/export/stubber.gd.md", "blob": "8c04667492b6a1fddc3c9ee9343f603886cff1ca", "size": 2463, "mode": "100755"}
+{"path": "documentation/documentation/export/summary.gd.md", "blob": "9fc670de2b602bb154d01dc1285ea009a718c3db", "size": 2774, "mode": "100755"}
+{"path": "documentation/documentation/export/system_data_manager.gd.md", "blob": "2119f3e453e4bce99452cab6febb3d930a03ef5d", "size": 949, "mode": "100755"}
+{"path": "documentation/documentation/export/test.gd.md", "blob": "0db7c120b53fcbefd297c0951504159666115e05", "size": 32741, "mode": "100755"}
+{"path": "documentation/documentation/export/test_collector.gd.md", "blob": "cc4e1273affadd1d3d5c612a2305dba5828b0d3f", "size": 5784, "mode": "100755"}
+{"path": "documentation/documentation/export/thing_counter.gd.md", "blob": "29afbc1625759705f4e8e9aacc588031c1e8c404", "size": 613, "mode": "100755"}
+{"path": "documentation/documentation/export/utils.gd.md", "blob": "fb49ac19b064e4accc630c21da5389324c6fe873", "size": 10780, "mode": "100755"}
+{"path": "documentation/documentation/export/visual_settings.gd.md", "blob": "188ee8c472e65f2f551f6086e64444f613a100fe", "size": 164, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/.github/workflows/release.yml", "blob": "41571389b45454710305ed54fbfe4bfa120462a4", "size": 1886, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/.gitignore", "blob": "9afd30526048340d59a443e63bd00ef2c5a66a7b", "size": 118, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/CHANGELOG.md", "blob": "76dff4f5e21cc4483539f95fdd3dbff161660043", "size": 7026, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/Dockerfile", "blob": "3cc6fbcf848be003e5c5bc8da356dad2e296a16d", "size": 198, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/LICENSE", "blob": "c78dc3337d0441c01a0e51d1b52d2492f03d5516", "size": 1046, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/Makefile", "blob": "2fb19e5b1f4baf1b4583284c378266e898a5c83c", "size": 209, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/Pipfile", "blob": "b5846df18ca871c2a15edf768a71a16cbb99958b", "size": 138, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/README.md", "blob": "aafec56b985552995456c19929a383d654e0766e", "size": 7815, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/assets/gdscript-docs-maker-banner.svg", "blob": "ccd6b565ba77a29ff8265e16d22fe45245b88a81", "size": 150788, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/generate_reference", "blob": "3d6f0ed9ccbb43db948ec56c12a1429e6de6440e", "size": 4634, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/generate_reference.bat", "blob": "6ffc5104fa30ac0d99a96fa690a3b9d68b0aebdb", "size": 6355, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/godot-scripts/Collector.gd", "blob": "65367d2ea59209e20cd30262c4442ab04be25da8", "size": 3289, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/godot-scripts/README.md", "blob": "307cb8e8ebc0ef3aa873eeb3ca60b39270a27bed", "size": 1069, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/godot-scripts/ReferenceCollector.gd", "blob": "13ee3edb19cecc9d706d6e8cca4a91c1360a1473", "size": 1001, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/godot-scripts/ReferenceCollectorCLI.gd", "blob": "9b9f0603e3074ee09f4c7a5ea0d7fa3cb4a05b58", "size": 662, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/setup.cfg", "blob": "6a92bd0c5d918575c0ccdb6eff532f9c006c4b75", "size": 1055, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/setup.py", "blob": "606849326a4002007fd42060b51e69a19c18675c", "size": 38, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/__init__.py", "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391", "size": 0, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/__main__.py", "blob": "a967add43b576e531ac347d8643ac2dc0a043d99", "size": 2507, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/command_line.py", "blob": "603a83086c5dd617f0d364e939b85308b5ad15c8", "size": 2886, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/config.py", "blob": "13ae82359464a4c89b637766fc049bd76eedbeb6", "size": 531, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/convert_to_markdown.py", "blob": "e19edcc4aa9f5af8fca74730b955b964a8aeee21", "size": 7979, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/data/hugo_front_matter.toml", "blob": "c8f193cdae43d878ca9312d8b64ebfcaa37f67ec", "size": 57, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/gdscript_objects.py", "blob": "827b110c36b35b63951a2be211dae00786d0f767", "size": 12393, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/hugo.py", "blob": "0524c9e7ec0cf49a22715ee8d3e6e41d0c421848", "size": 2125, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/make_markdown.py", "blob": "571be95c36287c055831817e81f3bb56e27f9076", "size": 3235, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/merge_json.py", "blob": "fd84657756ae495b6294757d2564cd8ef43cceed", "size": 446, "mode": "100755"}
+{"path": "documentation/gdscript-docs-maker-1.7.0/src/gdscript_docs_maker/utils.py", "blob": "fa03784e10a9950fd36f8b98d3c5b274f45c49d4", "size": 319, "mode": "100755"}
+{"path": "project_folder/.gut_editor_config.json", "blob": "6a9d0de8b7a0afe583ad26400cdcffe52677bc3c", "size": 859, "mode": "100755"}
+{"path": "project_folder/Header.tres", "blob": "9796fede40848fee38debf07ee56e2db8b066e42", "size": 342, "mode": "100755"}
+{"path": "project_folder/LICENSE", "blob": "b19f3dafe0264f064f2e72bf2481dcd3a85eefab", "size": 1071, "mode": "100755"}
+{"path": "project_folder/Quote.tres", "blob": "daece0f4e2d9b880c94580833aeaa70b4a0edea0", "size": 240, "mode": "100755"}
+{"path": "project_folder/addons/godot-logging/LICENSE", "blob": "a2d224057dc4877d558efc8741eac83ee3802766", "size": 1066, "mode": "100755"}
+{"path": "project_folder/addons/godot-logging/Logger.gd", "blob": "058c275c8c29290647062ce795bd7125836ac8a7", "size": 180, "mode": "100755"}
+{"path": "project_folder/addons/godot-logging/Logging.png", "blob": "7228148346fd8558061a8eac13a4b25457369fe8", "size": 503, "mode": "100755"}
+{"path": "project_folder/addons/godot-logging/example/Example Logging.gd", "blob": "c0c4faf6ed415ce469d20d1d60bfca68f355c028", "size": 1098, "mode": "100755"}
+{"path": "project_folder/addons/godot-logging/example/Example Logging.tscn", "blob": "3e17bf2ec532f017e41b4eae4c5fee0f93dff41c", "size": 507, "mode": "100755"}
+{"path": "project_folder/addons/godot-logging/log_base.gd", "blob": "9e1b71462458fe9776b0e9309dac443f2fba693a", "size": 3462, "mode": "100755"}
+{"path": "project_folder/addons/godot-logging/plugin.cfg", "blob": "a566a53956b32fa197b37928520dbd7659f1988a", "size": 116, "mode": "100755"}
+{"path": "project_folder/addons/gut/GutScene.gd", "blob": "251ab8f8caf0e9813a1396a8f594229032880096", "size": 13280, "mode": "100755"}
+{"path": "project_folder/addons/gut/GutScene.tscn", "blob": "a2ea3b0813c97fa4deb6c7a6a9b86acce9d00785", "size": 18062, "mode": "100755"}
+{"path": "project_folder/addons/gut/LICENSE.md", "blob": "a38ac231fed3febe257c9e5fc31efb8ec7a39f90", "size": 1107, "mode": "100755"}
+{"path": "project_folder/addons/gut/UserFileViewer.gd", "blob": "3984decd143c83900c24dfb5a65027381a8c4463", "size": 1081, "mode": "100755"}
+{"path": "project_folder/addons/gut/UserFileViewer.tscn", "blob": "528d1cdd7d10aeeb99d9e7d1335e2e146fd7987b", "size": 4114, "mode": "100755"}
+{"path": "project_folder/addons/gut/autofree.gd", "blob": "80b4e895c0b7f8343862edc42dab579bbfe94e1c", "size": 2177, "mode": "100755"}
+{"path": "project_folder/addons/gut/comparator.gd", "blob": "ff03af84a5123dcb57caef62ba7e3fdd18f92f59", "size": 3440, "mode": "100755"}
+{"path": "project_folder/addons/gut/compare_result.gd", "blob": "be6aebd8f29f3fff016a310fc922dc999e9d8265", "size": 957, "mode": "100755"}
+{"path": "project_folder/addons/gut/diff_formatter.gd", "blob": "fd954affb7aa1eb78fcc6aabd1ada438fe506ef6", "size": 1594, "mode": "100755"}
+{"path": "project_folder/addons/gut/diff_tool.gd", "blob": "daef7ed521448783fa4bd054fa4a9693c93a8299", "size": 3720, "mode": "100755"}
+{"path": "project_folder/addons/gut/double_templates/function_template.txt", "blob": "666952e883145524dd063e03cb3bc16820614059", "size": 219, "mode": "100755"}
+{"path": "project_folder/addons/gut/double_templates/script_template.txt", "blob": "b1e1d77106ca7c5e47217af3dae7864e90aeb348", "size": 1866, "mode": "100755"}
+{"path": "project_folder/addons/gut/doubler.gd", "blob": "78becddeea7408e89530c88eba1650b7a6396294", "size": 21325, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/AnonymousPro-Bold.ttf", "blob": "1d4bf2b5265bfc9dcb92eeabd5d3691035361a9a", "size": 107624, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/AnonymousPro-BoldItalic.ttf", "blob": "12863cadbec64a3f918932540eacf8d9c4d86c3a", "size": 95872, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/AnonymousPro-Italic.ttf", "blob": "f6870b7c4e5af796982cc026e159e844c5ad8233", "size": 98424, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/AnonymousPro-Regular.ttf", "blob": "57aa893826db03a74c98480093e5c9942798391b", "size": 112072, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/CourierPrime-Bold.ttf", "blob": "91d6de4f34673fd3030df55c98016ba84e5c8283", "size": 69768, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/CourierPrime-BoldItalic.ttf", "blob": "0afaa98dffc35a90e900dfb15e142a7f71224c1b", "size": 77384, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/CourierPrime-Italic.ttf", "blob": "f8a20bd097284f65ea89f88f742f6d2278df9215", "size": 76496, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/CourierPrime-Regular.ttf", "blob": "4f638f6992274404f825f3f943bb1d21b02888c2", "size": 68128, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/LobsterTwo-Bold.ttf", "blob": "2e979fbff2caae0ac51c9eb23d63d3f10cfc3b3b", "size": 222040, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/LobsterTwo-BoldItalic.ttf", "blob": "8bbf8d827893ecca3fcba0ba65f20a945f1bf543", "size": 216036, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/LobsterTwo-Italic.ttf", "blob": "b88ec1723c6cc760834716848772f4ca035cd5ea", "size": 229404, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/LobsterTwo-Regular.ttf", "blob": "556c45e7d1d6e89bcb94c012d14707cd97d4718b", "size": 234956, "mode": "100755"}
+{"path": "project_folder/addons/gut/fonts/OFL.txt", "blob": "68d1d00550fb9d708e266171e4f67e73c8ae0199", "size": 4521, "mode": "100755"}
+{"path": "project_folder/addons/gut/get_native_script.gd", "blob": "7055fc3949ce6735c2cd2008515693406b1790d6", "size": 289, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/BottomPanelShortcuts.gd", "blob": "86fbf8dc3e2705865a8330a8f959b2d64b549816", "size": 2425, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/BottomPanelShortcuts.tscn", "blob": "5e2e5d97f770a25c59f528d71f94a363059f28bf", "size": 5920, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/GutBottomPanel.gd", "blob": "50a32d874ea7f8d4dfa940bbde9b49d481d17f65", "size": 9565, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/GutBottomPanel.tscn", "blob": "0bb7fc37933002c2efcb185fd2488b57d12a4f9d", "size": 11356, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/GutRunner.gd", "blob": "b2b16f2705c867f91fb92a02076341903864d06e", "size": 2538, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/GutRunner.tscn", "blob": "077e41139ab16b26263551b91819832a03c271b9", "size": 240, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/GutSceneTheme.tres", "blob": "565a6af96c5d5e766b713130907c2a8103ad6942", "size": 280, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/RunAtCursor.gd", "blob": "960414ebfa6f888baeeee3104af2b64315bf9285", "size": 3474, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/RunAtCursor.tscn", "blob": "b4662dfc462419f212169e9d9322469bfd7e15bc", "size": 2110, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/Settings.tscn", "blob": "819a56e179bcfce9b0a76892d1e42ac51af4d70a", "size": 158, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/ShortcutButton.gd", "blob": "116659d402fe34f1cf027d78bbf21b0ae9d48b8e", "size": 3777, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/ShortcutButton.tscn", "blob": "3c9431796cb95647c065e449a43858ea1fa7eccc", "size": 2033, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/arrow.png", "blob": "00a5a123d43c63ecf6a26c0e1aed37d9d6b9f174", "size": 645, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/gut_config_gui.gd", "blob": "dc58be44f42f584f83b64d77fa2f32b7374517b9", "size": 12887, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/open_editors.gd", "blob": "dc7d393482040c64b83ca3b0835ade5935a4d559", "size": 2403, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/play.png", "blob": "6335e4505458a26f0b62ca63c27a764b8710efd2", "size": 676, "mode": "100755"}
+{"path": "project_folder/addons/gut/gui/script_text_editor_controls.gd", "blob": "98741e99b9b8db916e21c6e4654e1ed073cfcd5f", "size": 6283, "mode": "100755"}
+{"path": "project_folder/addons/gut/gut.gd", "blob": "bc00f76479d5984f40edee384d01980ff9cc908a", "size": 63238, "mode": "100755"}
+{"path": "project_folder/addons/gut/gut_cmdln.gd", "blob": "e1a0c0a38b3faacac5479d90100e298bf19e5c6c", "size": 13419, "mode": "100755"}
+{"path": "project_folder/addons/gut/gut_config.gd", "blob": "7a582d36b7ae0c5388b95b3bf5574406e83236d2", "size": 4742, "mode": "100755"}
+{"path": "project_folder/addons/gut/gut_plugin.gd", "blob": "fec9742e5d555f0363105e9e6b888e0a3b624d48", "size": 873, "mode": "100755"}
+{"path": "project_folder/addons/gut/hook_script.gd", "blob": "2efc3b1e57dcb3f795299baa662df2cee4491eda", "size": 1370, "mode": "100755"}
+{"path": "project_folder/addons/gut/icon.png", "blob": "7c589874e72ccdeae8dc1a45907fba0d63e603cf", "size": 320, "mode": "100755"}
+{"path": "project_folder/addons/gut/input_factory.gd", "blob": "54b78dbaaf95b046857fbc8eb1fa8f63e15fa8f8", "size": 4378, "mode": "100755"}
+{"path": "project_folder/addons/gut/input_sender.gd", "blob": "02abb982050644ed98517bcd96e45a0b88f5cfa4", "size": 10232, "mode": "100755"}
+{"path": "project_folder/addons/gut/junit_xml_export.gd", "blob": "116cfdf9c1eb09ede00527d63db707d78f9b3a26", "size": 2797, "mode": "100755"}
+{"path": "project_folder/addons/gut/logger.gd", "blob": "900b92804890a25b6546361c019af35ab7b9a6e5", "size": 8909, "mode": "100755"}
+{"path": "project_folder/addons/gut/method_maker.gd", "blob": "a807e26b29a48155cd7f995e884594da2ebacfd5", "size": 9909, "mode": "100755"}
+{"path": "project_folder/addons/gut/one_to_many.gd", "blob": "6a0f8182a580054145074e253863e837d7b82c02", "size": 1092, "mode": "100755"}
+{"path": "project_folder/addons/gut/optparse.gd", "blob": "290ed9d202b633b8e7932d4de45b62c27ed6b25f", "size": 8484, "mode": "100755"}
+{"path": "project_folder/addons/gut/orphan_counter.gd", "blob": "cbfbea4ccdc2a887d30871108d40b3a9ddfc9454", "size": 2439, "mode": "100755"}
+{"path": "project_folder/addons/gut/parameter_factory.gd", "blob": "fe99e89ad132ea66bcca6cd3262ecaab5c088f4e", "size": 3100, "mode": "100755"}
+{"path": "project_folder/addons/gut/parameter_handler.gd", "blob": "507ef7118cffa4f631c5ca2fe6cb80aa1f2d5b3d", "size": 744, "mode": "100755"}
+{"path": "project_folder/addons/gut/plugin.cfg", "blob": "d052cb0a0fc84986e7e495107e0773f37fe02361", "size": 125, "mode": "100755"}
+{"path": "project_folder/addons/gut/plugin_control.gd", "blob": "c363b2a756086aaa0eb2af0b000524af17577920", "size": 10480, "mode": "100755"}
+{"path": "project_folder/addons/gut/printers.gd", "blob": "c543603e6633eec79c8b5610aa482426302f75d1", "size": 3841, "mode": "100755"}
+{"path": "project_folder/addons/gut/result_exporter.gd", "blob": "3a529ed4d3d5eef017a03d34e1b9555847a28456", "size": 2803, "mode": "100755"}
+{"path": "project_folder/addons/gut/signal_watcher.gd", "blob": "e1274219f059a7e85b4c621a539f58b6e3539b6d", "size": 6049, "mode": "100755"}
+{"path": "project_folder/addons/gut/source_code_pro.fnt", "blob": "3367650f77041f8020c39f0b1bb90d21e2ddf425", "size": 26499, "mode": "100755"}
+{"path": "project_folder/addons/gut/spy.gd", "blob": "2aef4add5e4f9399a7e4118d74b778b2b738e0a0", "size": 2831, "mode": "100755"}
+{"path": "project_folder/addons/gut/strutils.gd", "blob": "8dbc12bf8906ac7e4d5429d16a2e2eb41579c9b5", "size": 6120, "mode": "100755"}
+{"path": "project_folder/addons/gut/stub_params.gd", "blob": "d52d9b2403f8e9fba532415e58459db1af27c62b", "size": 2635, "mode": "100755"}
+{"path": "project_folder/addons/gut/stubber.gd", "blob": "a8fc2acbb89105f5f50e202a6383935939244890", "size": 6321, "mode": "100755"}
+{"path": "project_folder/addons/gut/summary.gd", "blob": "a5ada0e50861e015439f23e5bd6af7b2a0cdcea5", "size": 5962, "mode": "100755"}
+{"path": "project_folder/addons/gut/test.gd", "blob": "2a80a8d16fd1d6df6083f03a8cb35535a8622955", "size": 67324, "mode": "100755"}
+{"path": "project_folder/addons/gut/test_collector.gd", "blob": "c8f5d8bba34f4585f62f08216658be2116d047d8", "size": 8497, "mode": "100755"}
+{"path": "project_folder/addons/gut/thing_counter.gd", "blob": "a9b0b4890281902759e7c9cc408abe8b94e48a56", "size": 775, "mode": "100755"}
+{"path": "project_folder/addons/gut/utils.gd", "blob": "50e895058cff524e2be5353769e33acc24ed4d2d", "size": 14280, "mode": "100755"}
+{"path": "project_folder/assets/default_shortcut/default_command_line_interface.tres", "blob": "4c2992ba89fb3efb5348d8fc8b55c72a40f87b02", "size": 91, "mode": "100755"}
+{"path": "project_folder/assets/default_shortcut/default_fullscreen.tres", "blob": "e77538e5c65ea6d2e19acf4b679d910db211873b", "size": 91, "mode": "100755"}
+{"path": "project_folder/assets/file templates/editor_setting_system_template/editor_settings_template.gd", "blob": "99d0300827a0af6aa4c271cfb438dfb864a17229", "size": 187, "mode": "100755"}
+{"path": "project_folder/assets/file templates/editor_setting_system_template/project_settings_template.gd", "blob": "fcbb9a5d5345216fa0c289ff6bfa6d4612164407", "size": 263, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/fetchy_pins.gd", "blob": "30df419f7044058d07a5533457afeb28d37698bd", "size": 401, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/graph_map_node_resource_template.gd", "blob": "e36309a6755e925eeffd9108e3dac9ce065d3fba", "size": 205, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/graph_map_resource_template.gd", "blob": "8fc65491056f653415128d80cc37d0749cd2a7e2", "size": 87, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/map_comment_resources_template.gd", "blob": "0d841554bd14b53ff29c730b70ae8e1d9fc380cf", "size": 783, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/map_fragment_resources_template.gd", "blob": "8513ddc9a09e8fab671edf5704ac5a3903e573d7", "size": 111, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/map_layer_resource_template.gd", "blob": "c97d0db970e1439e06e312e16884a16cb8f6f126", "size": 2507, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/map_pin_resources_template.gd", "blob": "dc682dbd005cb4ead8251d789e239f1e19f8e98f", "size": 930, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/map_resources_template.gd", "blob": "8bcc76999806ed20f1cc507d84e6c8c8eebc6702", "size": 1192, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/map_symbol_template_resources_template.gd", "blob": "f8b35d9199149757a41124af4eab361dc7d4ad1c", "size": 1068, "mode": "100755"}
+{"path": "project_folder/assets/file templates/save_system_template/root_article_resources_template.gd", "blob": "935aa95bd5785172d75abb1e9a951ae8bc26398c", "size": 976, "mode": "100755"}
+{"path": "project_folder/assets/fonts/NanumPenScript-Regular.ttf", "blob": "a75efed3e989f73c4e79ca1ae8ed24acd81e5a24", "size": 3367752, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Patrick_Hand/OFL.txt", "blob": "4952b9871db3e28b67bbbee5e32d4d9f0788b522", "size": 4469, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Patrick_Hand/PatrickHand-Regular.ttf", "blob": "a1b90baea72502a3cdaba26c2c27a8a667aad45c", "size": 212112, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/LICENSE.txt", "blob": "75b52484ea471f882c29e02693b4f02dba175b5e", "size": 11560, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/NovaMono-Regular.ttf", "blob": "3632df237e4c426b1f7da1b5a35baa0f82e78c11", "size": 299208, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-Black.ttf", "blob": "43a00e0df0d6183c8e88476c411d2060229ed967", "size": 168060, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-BlackItalic.ttf", "blob": "5082cdc4e84fe18eb2e4983af0f6365878494421", "size": 174108, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-Bold.ttf", "blob": "3742457900d51ae5c34ed53657ed8a72f17f19c6", "size": 167336, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-BoldItalic.ttf", "blob": "e85e7fb9e31759763af6294c925f9c06a0f9e84a", "size": 171508, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-Italic.ttf", "blob": "c9df607a4d373e3468599aaf6d96823459a4f6ec", "size": 170504, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-Light.ttf", "blob": "0e977514ff6de041957632eabca77c2f59f6ea99", "size": 167000, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-LightItalic.ttf", "blob": "3ad14fa7c4c70ed7774d63b4d133a10c193c1cbe", "size": 173172, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-Medium.ttf", "blob": "e89b0b79a2910f0ac309a1845a9f733bcb568792", "size": 168644, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-MediumItalic.ttf", "blob": "a5a41d3d00295049c15eea2a84a10f9b22b38ca9", "size": 173416, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-Regular.ttf", "blob": "3d6861b42396c609e26f38f129383c558e332281", "size": 168260, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-Thin.ttf", "blob": "7d084aed88451b9ace90558113db803815c14d3f", "size": 168488, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Roboto/Roboto-ThinItalic.ttf", "blob": "c17338960cfa6a6b5a056ab5bcab32d8db2d19a8", "size": 172860, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Square_Peg/OFL.txt", "blob": "932b20667ff22930a6c83ea21fcf4cc26503f6a0", "size": 4491, "mode": "100755"}
+{"path": "project_folder/assets/fonts/Square_Peg/SquarePeg-Regular.ttf", "blob": "dfc6f841ad60671e65fac9e6f7128638a202741a", "size": 126688, "mode": "100755"}
+{"path": "project_folder/assets/graphics/dashboard/icons/book.svg", "blob": "eb38bc2253618713b018d58740dc440635fe323b", "size": 340, "mode": "100755"}
+{"path": "project_folder/assets/graphics/dashboard/icons/filter.svg", "blob": "2f2b8b17ab7d2a1b8b15b970d4fd6fa1d5e877f4", "size": 285, "mode": "100755"}
+{"path": "project_folder/assets/graphics/dashboard/icons/folder.svg", "blob": "fff00264116b0aec4820e01e4e6270c615e3a7e0", "size": 306, "mode": "100755"}
+{"path": "project_folder/assets/graphics/dashboard/icons/home.svg", "blob": "3acacd9d645ee67a4f36e77876eb1b062102d867", "size": 327, "mode": "100755"}
+{"path": "project_folder/assets/graphics/dashboard/icons/map.svg", "blob": "a6251084c25ae8a50aa312760be65f5a3c6b47c2", "size": 368, "mode": "100755"}
+{"path": "project_folder/assets/graphics/dashboard/icons/plus.svg", "blob": "98c92ce2f2254c34bdb1b5bb9e9db4a0b9031a17", "size": 299, "mode": "100755"}
+{"path": "project_folder/assets/graphics/dashboard/icons/settings.svg", "blob": "4a5d3a9feb152dfdeaf02e10fcde8346acb35a17", "size": 1006, "mode": "100755"}
+{"path": "project_folder/assets/graphics/dashboard/side bar.png", "blob": "56f571492b2ed892a13e647cfe09c9c70ff6524e", "size": 99188, "mode": "100755"}
+{"path": "project_folder/assets/graphics/effects/Animation.gd", "blob": "0a6f5b1ab2d49146111ac6e774e344ca355ada85", "size": 4352, "mode": "100755"}
+{"path": "project_folder/assets/graphics/effects/BackgroundBlur.gd", "blob": "d3483904354d1ddcf4de40459c26ed712c9725f6", "size": 448, "mode": "100755"}
+{"path": "project_folder/assets/graphics/effects/BackgroundBlur.tscn", "blob": "f479580caad621ec9129655cc9e94e5802e3caa6", "size": 2861, "mode": "100755"}
+{"path": "project_folder/assets/graphics/effects/command.gd", "blob": "6fcec13685718ae8144340b817e248ee5dd53882", "size": 426, "mode": "100755"}
+{"path": "project_folder/assets/graphics/graph node/connector/Ellipse 1.png", "blob": "a55a64965954f4eb6cc6f3165238656c43df72d6", "size": 250, "mode": "100755"}
+{"path": "project_folder/assets/graphics/graph node/connector/Polygon 3.png", "blob": "063e04d1cc9150968a8c6dee7d3632414dd3cedc", "size": 290, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/MainMenu.png", "blob": "f169770b98003753c4e45bb1de00b4102ed90596", "size": 191864, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/Pexels Videos 2544523.webm", "blob": "58dd2799f95653dd0fc871d68e727cba81e8a9bf", "size": 831636, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/World Designer.png", "blob": "8948a92c6a292291ec1d0e92f742bc09a4f5593f", "size": 10006, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/World Maker.png", "blob": "fb63c11b3de20079bf2aff6bb877463e3f2945d0", "size": 7934, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/cornflower-6556404.jpg", "blob": "f5f31766c8a1ff8ddd2a08216b009d08a5eb00c5", "size": 1093647, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/dominik-lange-Lej_oqHljbk-unsplash.jpg", "blob": "0b861c812171bd1c71857e8317f03f769a378c57", "size": 1284557, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/flower-6328348.jpg", "blob": "0df80e294689f46db81b6c84b5cb6a32b8470696", "size": 1223102, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/hellebore-6471156.jpg", "blob": "32b66fb98ef38ec09916658bfd12219ade02ea2f", "size": 522770, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/icon/Vector.png", "blob": "156c1791f2d0411cac39ed6b544c81d3881045fc", "size": 239, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/icon/akar-icons_github-fill.png", "blob": "9beee5261c20ce0d20d70d3546ed869daf166e03", "size": 564, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/icon/akar-icons_twitter-fill.png", "blob": "3d98d27b5081410cde06bc7f65119dedabef1baa", "size": 494, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/john-rodenn-castillo-eluzJSfkNCk-unsplash.jpg", "blob": "ad6e60b45c6cc38eb200c46f14d3fe24a7dfd98e", "size": 1753606, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/nature-3543090.jpg", "blob": "26e38e26fcda049e30543c4c8a34cc6fd6800a67", "size": 558443, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/pawel-czerwinski-prMn9KINLtI-unsplash.jpg", "blob": "6540d0c67ebc7ba5f3c8af5f37549de46cac5e07", "size": 491467, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/pexels-kelly-lacy-5593044.webm", "blob": "81a472663cfcaa40f859c2ca7b1a512827f81009", "size": 2385130, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/water-lily-1585178.jpg", "blob": "87833609111297c4059def59940c03ced0ccea56", "size": 452610, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/water-lily-1592793.png", "blob": "f55ac4d15ca4025f3c6fd19c3513d2c26b154c26", "size": 1259742, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/water-lily-2334209.jpg", "blob": "d144fe61b36d3f48ee1681dcc830db0a8b8dc8a8", "size": 2146434, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/white-water-lily-5087465.jpg", "blob": "43d6c0c7bd3b7fbcc33933fc2072da7649be13b9", "size": 2200671, "mode": "100755"}
+{"path": "project_folder/assets/graphics/main_menu/zhengtao-tang-V7SKRhXskv8-unsplash.jpg", "blob": "3c663e8d30938ef6ffd41a396204a106a9251d76", "size": 554900, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/Group 3.png", "blob": "68f5add5b1b25bf7b9e756293a86866f6eb2823d", "size": 472, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/Polygon 7.png", "blob": "4aec8768b59ed1037287a5c5c8f4f3eaabb7ea58", "size": 278, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/article reader/ci_close-big.png", "blob": "4e1608e7c85f0fa54e5d7e78117b5159d81128fe", "size": 274, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/article reader/eva_expand-fill.png", "blob": "573f0c0166484fc347818839b96a5f46154040a6", "size": 258, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/bx_duplicate.png", "blob": "721144e9e4bbb0a901bda3dc90c45a84970d7914", "size": 465, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/chevron-down.png", "blob": "a4c614e500a68ba594851b52398f96232a89481a", "size": 257, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/chevron-right.svg", "blob": "7d7b1aa6383f6dc786078e5e031e74da45abdffe", "size": 265, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/cil_trash.png", "blob": "f1838ff4d5120a89000059b9ea46f0c09429b426", "size": 451, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/clarity_layers-solid.png", "blob": "ce074245933b0788f89a92ece1d50e299012f42e", "size": 502, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/edit.svg", "blob": "aedebc6f295eaedcea6e610d5a16f901c017eaf6", "size": 360, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/external-content.duckduckgo.com.png", "blob": "fd8ce03ce27941d6d78bcd2227e3c0dee6f95616", "size": 3806, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/heroicons-solid_pencil-alt.png", "blob": "262eb89fb8a1e571f05e24be6f8ae92af1c29a9e", "size": 302, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/map layer/eye-off.svg", "blob": "08c03eff4925b979ec75559c0626cc5d5da3a9f0", "size": 455, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/map layer/eye.svg", "blob": "c13711d22bc0498d31b56fce6c4952b680b8f2b4", "size": 311, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/map_pin_creator/Rectangle 39-1.png", "blob": "233834512e12f16f5c1a2a01a057a31fd73d6b1c", "size": 13104, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/map_pin_creator/Rectangle 39-2.png", "blob": "bb76f5cd2d32faed490969c46739e176ccd8a025", "size": 11727, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/map_pin_creator/Rectangle 39.png", "blob": "a6f731951ce1fb390686f20836a235bda7ea221e", "size": 12399, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/map_pin_creator/button_round.png", "blob": "18be582b9c01edb1891f6f7b62429704b222b6d1", "size": 5985, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/map_pin_creator/chevron-right.png", "blob": "2984cfabfb59d5bda98ef40e760503b6d92946cb", "size": 241, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new Symbol/icon/Polygon 6.png", "blob": "8e2f2f5f5c75cb921b6e0a0e86e974c76194209f", "size": 371, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new Symbol/icon/menu.svg", "blob": "1d021fc4169b626978eb62e160a37b9e82759e7b", "size": 341, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/button.png", "blob": "93676fc2a795d29ef860bd1f4c5e2aecd3d6ce73", "size": 8123, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/button_small.png", "blob": "7f2a1673f7b540056b23ebb0fccd8dc858430f15", "size": 7526, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/carbon_add.png", "blob": "27db318b0d3832e233efe43643a0902426a83d86", "size": 175, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/check_button.svg", "blob": "6a767ba2bc70a0488a469f8f4f2871e61ce6e3dd", "size": 221, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/image.png", "blob": "77d3be647118e58385fc5582bcb2f3a513b5f1ca", "size": 2672, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/spin_box.png", "blob": "a018a5d5c738ae4827e4e94958774259d478d874", "size": 10779, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/test_browse.png", "blob": "518e589bdd760fe91191b838ed058fcca8c3c273", "size": 11287, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/text.png", "blob": "819fe5ed99a223d12431747647a05970d69645f9", "size": 12662, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/new map/uncheck_button.svg", "blob": "af736d6084842a543a1daa21406a8e0f68c9d3a6", "size": 156, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/pin manager/Group.png", "blob": "2f534ac161748817b45ec16eef54a4cd985f1177", "size": 287, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/progress/Exclude.svg", "blob": "5479313bba633b9ac4ea41f74af440156fa75865", "size": 439, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/progress/Rectangle 75.svg", "blob": "ed8d1ba7806e7670a63d5e56ac3d2a6303fd498a", "size": 161, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/progress/progress bar.png", "blob": "77e98464d3a482c9b9dceb3c6b72e9291d3d6551", "size": 11019, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/view tool/ant-design_expand-outlined.png", "blob": "54544e49cba13c65f8677f2390eb49d21d6bd15f", "size": 309, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/view tool/carbon_add.png", "blob": "f22efdcea9b24672cb03da24042f484589212b8f", "size": 224, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map/view tool/carbon_subtract.png", "blob": "4de6b8a5eb524d22dff39ff8c74d4702c0c26f5d", "size": 171, "mode": "100755"}
+{"path": "project_folder/assets/graphics/map_pin.svg", "blob": "cb78bd52ac8368d929416b921b823c91a1d2bb92", "size": 5189, "mode": "100755"}
+{"path": "project_folder/assets/graphics/resource manager/Rectangle 19.png", "blob": "a237e812d4d94e4a75cd5f6da716cf97620a247f", "size": 78071, "mode": "100755"}
+{"path": "project_folder/assets/graphics/resource manager/copy.svg", "blob": "4e0b09f19c3ea93153d7413255860d96eb048542", "size": 351, "mode": "100755"}
+{"path": "project_folder/assets/graphics/resource manager/folder/minus-square.svg", "blob": "142afc4eae3349d84c3c1be192d4a5509eff05d0", "size": 325, "mode": "100755"}
+{"path": "project_folder/assets/graphics/resource manager/folder/plus-square.svg", "blob": "ed3b3419b289be794121a24e071cb72a40511364", "size": 368, "mode": "100755"}
+{"path": "project_folder/assets/graphics/resource manager/trash-2.svg", "blob": "f24d55bf64d9bb3f34768b45296dbfec417d31c2", "size": 448, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/Ellipse 1.png", "blob": "59f14a0c3e564ac7e1f8bc21a7bf0be9b0627f20", "size": 22314, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/Rectangle 8.png", "blob": "47ca8bcfcdf82642d76f6ac85c1994e0ed766d4f", "size": 5800, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/Vector.png", "blob": "1195661fc6f88d7ea0d6c0efa4a35917db9a2e8b", "size": 455, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/bx_bx-filter-alt.png", "blob": "2c3784ab2b4e8c4b66bdaa9997242e182b41cf35", "size": 338, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/card/Rectangle 13.png", "blob": "b5bb8141ed17c898f7cfb7cd7ca5a1b26b055382", "size": 217728, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/card/card texture.png", "blob": "96405969a8a27bf021694f8ff827ffe867ba281a", "size": 121238, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/card/card_profile_texture.png", "blob": "3762eb12150ba71fc5e00d3f97c1d6c77f8bf485", "size": 10512, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/edit-3.svg", "blob": "e20b430103354403b72d769fe8d826a6350b0f8c", "size": 312, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/filter_pressed.png", "blob": "fe894b0cbf1c7b0241108ace8e4f95ed49f8e837", "size": 5859, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/search bar texture.png", "blob": "6aa40b08511324000f8a6a48657aecabc72ca188", "size": 14284, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/wiki_reader/Rectangle 1.png", "blob": "482e16bc4917d2c351a0fb68cd1f88dd6768bf45", "size": 121218, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/wiki_reader/align-center.svg", "blob": "e4b9420eb432dac9f4dc6338d21f8c71b3030be5", "size": 393, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/wiki_reader/align-justify.svg", "blob": "07c7e92f7c380d498cd12c548042c449221c4c17", "size": 394, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/wiki_reader/align-right.svg", "blob": "29aedbfd0482f4422e507a705d25449952cd2e36", "size": 392, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/wiki_reader/fa-solid_pen-nib.svg", "blob": "08768f438e666c0295a5237c7ef39d3e39dee7f4", "size": 999, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/wiki_reader/fa6-solid_person-circle-question.svg", "blob": "c024e9f9613d5bd50d7790f5ed8a5ba39975aa5d", "size": 1832, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/wiki_reader/fa6-solid_user-pen.svg", "blob": "554c91abd789438f357587acc9a8e9d878953de1", "size": 978, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/x.svg", "blob": "5dbd9198cb94f86004ed3f1544791a9fcbaf8386", "size": 294, "mode": "100755"}
+{"path": "project_folder/assets/graphics/wiki_dashboard/x_small.svg", "blob": "5dbd9198cb94f86004ed3f1544791a9fcbaf8386", "size": 294, "mode": "100755"}
+{"path": "project_folder/assets/shaders/add.tres", "blob": "c8ebc665fcd696b37dfca110278d56b620057065", "size": 2171, "mode": "100755"}
+{"path": "project_folder/assets/shaders/burn.tres", "blob": "0b9e5f707b80b73ad629fc875e0638970b016e48", "size": 2211, "mode": "100755"}
+{"path": "project_folder/assets/shaders/darken.tres", "blob": "8d2755dc0376373d80ac400fa7ea1178dddc7aa1", "size": 2187, "mode": "100755"}
+{"path": "project_folder/assets/shaders/difference.tres", "blob": "0a670759935751d13d12e15c95f4c2914585ac28", "size": 2188, "mode": "100755"}
+{"path": "project_folder/assets/shaders/divide.tres", "blob": "a0601d14d69c384521b8885796827d9d3c74f767", "size": 2183, "mode": "100755"}
+{"path": "project_folder/assets/shaders/dodge.tres", "blob": "e19d55a6e10587dc0e5eaec2eacbbfd9d9ba4988", "size": 2200, "mode": "100755"}
+{"path": "project_folder/assets/shaders/hard_light.tres", "blob": "e8b9b3c3d6ed59e17fdfc8c052575838fa5ae40c", "size": 2772, "mode": "100755"}
+{"path": "project_folder/assets/shaders/lighten.tres", "blob": "170b3bd6e45ffbe0e128f8bd4b2c9a2a038eb790", "size": 2186, "mode": "100755"}
+{"path": "project_folder/assets/shaders/multiply.tres", "blob": "1c596cdc729b2a34c1e12444d198f9eaa37b352b", "size": 2224, "mode": "100755"}
+{"path": "project_folder/assets/shaders/overlay.tres", "blob": "e39beb38fabefdeb72ad04caeb46c9ec2696186a", "size": 2730, "mode": "100755"}
+{"path": "project_folder/assets/shaders/screen.tres", "blob": "6ac89b61c758a6b6e115f3e3f78048e6165c5178", "size": 2294, "mode": "100755"}
+{"path": "project_folder/assets/shaders/soft_light.tres", "blob": "aa5c79f81b2734d52479f5f79042a7591e25b245", "size": 2755, "mode": "100755"}
+{"path": "project_folder/assets/themes/DashboardTheme.tres", "blob": "f72b2e5b2b80414d573d75ae578f7d2a4821e49a", "size": 519, "mode": "100755"}
+{"path": "project_folder/assets/themes/MainMenu.tres", "blob": "314a26ceb33b5359a5b8290bc88c373fee442513", "size": 1157, "mode": "100755"}
+{"path": "project_folder/assets/themes/WikiDashboard.tres", "blob": "1907dbedefc5c20d5f4cb5abeebbbc168e4ca810", "size": 1351, "mode": "100755"}
+{"path": "project_folder/default_bus_layout.tres", "blob": "eb4acccf83f99b7e909e450eea58cbb2d58e30af", "size": 57, "mode": "100755"}
+{"path": "project_folder/default_env.tres", "blob": "20207a4aa2cfbae0c95636531b00d91502940d12", "size": 163, "mode": "100644"}
+{"path": "project_folder/dependency/utilities/folder_handler/resourece_handler.gd", "blob": "230c2025f021cdaed4613ce69472d5d77d9336b7", "size": 1038, "mode": "100755"}
+{"path": "project_folder/dependency/utilities/godot-uuid-master/.gitattributes", "blob": "db2e4ffe11f8f357559fd5763ae14e77317e8e14", "size": 32, "mode": "100755"}
+{"path": "project_folder/dependency/utilities/godot-uuid-master/LICENSE", "blob": "7525f29790d3201fc05683c1a0683f3e87630fc9", "size": 1071, "mode": "100755"}
+{"path": "project_folder/dependency/utilities/godot-uuid-master/test.gd", "blob": "c670c80f140917ab356ff53a4c012fa7941d6334", "size": 941, "mode": "100755"}
+{"path": "project_folder/dependency/utilities/godot-uuid-master/uuid.gd", "blob": "ea8bd8bb6274ca7bb1167fc365996db6d3c8e4fb", "size": 1090, "mode": "100755"}
+{"path": "project_folder/dependency/utilities/image_uitilities/image_utilities.gd", "blob": "5c5924f2347f55f9b820c58a9a19539fec7aa5fe", "size": 3856, "mode": "100644"}
+{"path": "project_folder/dependency/utilities/resource_utilities/resource_load_system.gd", "blob": "375d8bb8b5dbcdbbb1e3fe0ab37136faf48fdb1d", "size": 2414, "mode": "100644"}
+{"path": "project_folder/dependency/utilities/resource_utilities/resource_save_system.gd", "blob": "385a1b0a96bff0976ee26b7b38356c877a645809", "size": 1871, "mode": "100755"}
+{"path": "project_folder/dependency/utilities/resource_utilities/resource_system.gd", "blob": "ccf25bc84c152a1a0b94f2a602dcb27c97f8eb76", "size": 1128, "mode": "100755"}
+{"path": "project_folder/dependency/utilities/resource_utilities/resource_utility.gd", "blob": "71874e65a48a7d73714c243704b081883f727b99", "size": 672, "mode": "100755"}
+{"path": "project_folder/drawing.svg", "blob": "44996c5ede02321c1d9158c64a80ed2b7f4297d8", "size": 3962, "mode": "100755"}
+{"path": "project_folder/export_presets.cfg", "blob": "d713c98331d027f05064bc1f35607c6945040a10", "size": 1560, "mode": "100755"}
+{"path": "project_folder/icon.ico", "blob": "28129d88b93cdf961fa0abcb024738da9bbd4b54", "size": 10435, "mode": "100755"}
+{"path": "project_folder/icon.png", "blob": "bfe8385ef5a96115fc860eb79e4171b56465262d", "size": 40345, "mode": "100755"}
+{"path": "project_folder/project.godot", "blob": "5f095a3b5b91e15bd18ffc796e143343af2a0e56", "size": 9585, "mode": "100644"}
+{"path": "project_folder/singletone/CommandSystem.tscn", "blob": "fde2a83b98d9cf56dfdc62daffde253a31078946", "size": 3684, "mode": "100755"}
+{"path": "project_folder/singletone/EditorSetting.tscn", "blob": "54c4ae32d791b3c19ac7f05f325e8e869bfc37f8", "size": 177, "mode": "100755"}
+{"path": "project_folder/singletone/Logger.tscn", "blob": "eac28d57e837b81a32dd9638ac53649c31a28b2c", "size": 255, "mode": "100755"}
+{"path": "project_folder/singletone/ProjectSetting.tscn", "blob": "9ab961b9718fc516ea34266469a0a87bf8cd64d5", "size": 860, "mode": "100755"}
+{"path": "project_folder/singletone/TemplateSettings.gd", "blob": "26b869c40debfe74fa3e32bcfc49806250cd80d8", "size": 837, "mode": "100755"}
+{"path": "project_folder/singletone/command_system.gd", "blob": "f74e4e65e000c247f10507cc4cfbffea0bf28c54", "size": 1853, "mode": "100755"}
+{"path": "project_folder/singletone/command_system_dependecy/RichTextLabel.tscn", "blob": "619f46b8d2cb566c8a34e34ac326f92660b7f765", "size": 207, "mode": "100755"}
+{"path": "project_folder/singletone/command_system_dependecy/command_api.gd", "blob": "26d810d92ce2c545788fafc70a21afeb905c1fa6", "size": 2493, "mode": "100755"}
+{"path": "project_folder/singletone/editor_setting.gd", "blob": "0a2d04c4613baf539b5f8c84678fd145d9f39b43", "size": 3476, "mode": "100755"}
+{"path": "project_folder/singletone/event_bus.gd", "blob": "0758208c1dd24106b6af125ee2e5eeef989b083c", "size": 3818, "mode": "100755"}
+{"path": "project_folder/singletone/global_actions.gd", "blob": "80c67dc9858c26d77157114853477d6970824fcd", "size": 130, "mode": "100755"}
+{"path": "project_folder/singletone/loading_system.gd", "blob": "3150f751ba5ad8e5e6f8ec2def76d0cf660506f1", "size": 553, "mode": "100755"}
+{"path": "project_folder/singletone/project_setting.gd", "blob": "b13b6d58207f3f1d0a16ce7a9349b3277eb60685", "size": 3227, "mode": "100755"}
+{"path": "project_folder/singletone/project_setting_dependecy/ShortcutSettings.gd", "blob": "9db346e106676eb5b4bc2aa04d5aee61de0e0d1d", "size": 2097, "mode": "100755"}
+{"path": "project_folder/singletone/project_setting_dependecy/shortcut_settings.gd", "blob": "d18855ba5063f860f896d979adc6be7291a0f77f", "size": 1490, "mode": "100755"}
+{"path": "project_folder/singletone/project_setting_dependecy/visual_settings.gd", "blob": "0362366a6553efe2df59f8c2e8382dbb521d80f8", "size": 36, "mode": "100755"}
+{"path": "project_folder/singletone/system_data_manager.gd", "blob": "b463b090cd6c30bea3c7878085cb8ef8b90d00ef", "size": 1605, "mode": "100755"}
+{"path": "project_folder/systems/Dashboard.tscn", "blob": "0f26377edf3a341e5c6499ddbbf6a1f27c81c4ce", "size": 8871, "mode": "100755"}
+{"path": "project_folder/systems/OpenLastProject.tscn", "blob": "e147030402ee92c3c84daefa0a86c2ef7091339c", "size": 2367, "mode": "100755"}
+{"path": "project_folder/systems/RibbonMenu.gd", "blob": "e1e109d610c3bcce2018e4fed5da593fd4b0810a", "size": 247, "mode": "100755"}
+{"path": "project_folder/systems/dashboard UI elements/TabButton.tscn", "blob": "0da753969626ecccb90821ac25b12aecc3a0bdf7", "size": 962, "mode": "100755"}
+{"path": "project_folder/systems/dependency/CameraMovement.gd", "blob": "a9f58aaad016d1a8631158301e36d36d92c85d7f", "size": 2384, "mode": "100755"}
+{"path": "project_folder/systems/dependency/StateMachine.gd", "blob": "2a86a7eb7e2cb6f00c72cc70c45727860e4c3b15", "size": 580, "mode": "100755"}
+{"path": "project_folder/systems/dependency/article_deb/article_manager.gd", "blob": "e4623eb015ca646f6fd440682ad80579cad63174", "size": 358, "mode": "100755"}
+{"path": "project_folder/systems/dependency/article_deb/article_system.gd", "blob": "78eb4ce798c71c6c74ce98bb064b55767e73ec54", "size": 3537, "mode": "100755"}
+{"path": "project_folder/systems/dependency/image_handler.gd", "blob": "cd2f964119b25f421e36ed4f8eead1f09cb41ea6", "size": 2414, "mode": "100644"}
+{"path": "project_folder/systems/dependency/map_dep/map_generator.gd", "blob": "0ce9cddf3d3544cb8d73894381fa07b10015d31b", "size": 2808, "mode": "100755"}
+{"path": "project_folder/systems/dependency/map_dep/map_manager.gd", "blob": "e70a57f12cb68066867b0c23cb933e68aae0d6cd", "size": 1521, "mode": "100755"}
+{"path": "project_folder/systems/dependency/map_dep/map_system.gd", "blob": "3147e6c9882255c38d8bdca638e669cca7c778a0", "size": 520, "mode": "100755"}
+{"path": "project_folder/systems/dependency/map_resource_manager.gd", "blob": "c643e7a56a6ab2f1b1bd1032fb7bc334a66ce3c9", "size": 2525, "mode": "100755"}
+{"path": "project_folder/systems/dependency/multi_thread_dep/threadpool.gd", "blob": "8153ec1d0edc1805520e31163709dc5813358624", "size": 1816, "mode": "100755"}
+{"path": "project_folder/systems/dependency/pin_dep/pin_manger.gd", "blob": "864da78f62dcf89cad5a51d30e580cf5142e66fa", "size": 1100, "mode": "100755"}
+{"path": "project_folder/systems/dependency/pin_dep/pin_system.gd", "blob": "4fd9261af45b20ef6f40aee7f6e719cb1fdc14a1", "size": 4212, "mode": "100755"}
+{"path": "project_folder/systems/dependency/resource_dep/resource_manager.gd", "blob": "0bb5be2d24d2efeb0a305122d9276a46f97168c3", "size": 3944, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_big_picture/InputBigPicture.tscn", "blob": "cab755b37f25e4b824e2f1c9dfb3d327b7d44bae", "size": 1357, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_check_box/InputCheckBox.gd", "blob": "a60e85d908afa7c9cf80fad07448fdbd2fe1489a", "size": 1568, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_check_box/InputCheckBox.tscn", "blob": "54b98bbe43cff2fb2f3aafd549c56740e40fdd42", "size": 749, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_database/InputDatabase.gd", "blob": "ef387f567ecbe5c176452a3b31a2d61dceb5be09", "size": 1377, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_database/InputDatabase.tscn", "blob": "3d5111f3b039ac747f80438eb47a51ebe726d1aa", "size": 2314, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_dropdown/InputDropDown.gd", "blob": "c7eb4a1c5d2d04879d812de69b2f738ee2b0ea5d", "size": 632, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_dropdown/InputDropDown.tscn", "blob": "a0d3439939c091f77b961996d71676f53b0d8170", "size": 1455, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_image/InputImage.gd", "blob": "456612321ecff76594f1f8f2d6b0808298b9474e", "size": 1428, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_image/InputImage.tscn", "blob": "ed78a1eff49fc5a1a98ac51032efb170c7ab4c8c", "size": 2223, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_large_text/InputLargeText.gd", "blob": "e7050445e4fcfef6a60d23aee73bcb2287733360", "size": 458, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_large_text/InputLargeText.tscn", "blob": "72525f1ab926669041c3cc49dfa2f789c79d2871", "size": 961, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_open_file/InputOpenFile.gd", "blob": "a7c7cdb85aba1b3dfb02fc3525a2c542c7ad23e8", "size": 659, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_open_file/InputOpenFile.tscn", "blob": "6be42275ccaf22bc68a37a1b580d1bb124b55fae", "size": 2011, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_relatabe_database/InputRelatableDatabase.gd", "blob": "9942f94eb268cfea34e4e9270ce5e0eeb066cd4e", "size": 39, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_relatabe_database/InputRelatableDatabase.tscn", "blob": "54dea06b30689863f36ed340460b5ba1b4e94551", "size": 6700, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_spin_box/InputSpinBox.gd", "blob": "597ae981ba2aae4070cb06379b47303688640f6d", "size": 907, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_spin_box/InputSpinBox.tscn", "blob": "d4f848c552646f214e3a938bda5467a9dcc3fbf2", "size": 1459, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_text/InputText.gd", "blob": "104c67ac3031463b78461a07b056704a44c81352", "size": 434, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_text/InputText.tscn", "blob": "b454da82c243cc3f94fc494e37a98f59493c3b7f", "size": 931, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_toggle_button/InputToggleButton.gd", "blob": "95697f8eea85696ebfca8647918849d1702be079", "size": 544, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/input_toggle_button/InputToggleButton.tscn", "blob": "b5d39a5e5bb68520a79c433f215ed95f77535e3d", "size": 1623, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/loading_screen/LoadingScene.gd", "blob": "b9cfacd694a10fb2e91380aab9e5e8d436c1bb81", "size": 1215, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/loading_screen/LoadingScene.tscn", "blob": "8446b6e1e7fc9296ee2fd014aed068c8d8d65c93", "size": 881, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/loading_screen/background_loading.gd", "blob": "74731702d467b2d38588d804590d147ac8cea4c9", "size": 121, "mode": "100755"}
+{"path": "project_folder/systems/dependency/ui_elements/root_input_class.gd", "blob": "0406d6a43d650e00546c7414fe4efb9850b4a0f6", "size": 691, "mode": "100755"}
+{"path": "project_folder/systems/graph_system/GraphDashboard.tscn", "blob": "75c359c49fa7e20db0155b54686a1f8180fb6a70", "size": 8177, "mode": "100644"}
+{"path": "project_folder/systems/graph_system/GraphSystem.tscn", "blob": "a96e02f31a5b52243b2a96ddfcca769b83ac2701", "size": 60843, "mode": "100644"}
+{"path": "project_folder/systems/graph_system/graph_node/graph_node.gd", "blob": "cacb6a189d9a54b8eda06286d73258616958c35f", "size": 2591, "mode": "100755"}
+{"path": "project_folder/systems/graph_system/graph_node/graph_node.tscn", "blob": "66e7981a8d740d1a7b4d617e3153b15ac7e794a3", "size": 2654, "mode": "100755"}
+{"path": "project_folder/systems/main_menu/MainMenu.tscn", "blob": "9b99915d4c126a444ac01ab26e9b9f2c7811bf7b", "size": 22476, "mode": "100755"}
+{"path": "project_folder/systems/main_menu/scripts/main_menu.gd", "blob": "99de9074fa94a4e18d02931d0bbc1804c4d946f8", "size": 1721, "mode": "100755"}
+{"path": "project_folder/systems/main_menu/scripts/new_project.gd", "blob": "b7fab6e440f85b22bbface6bdfe164058245083c", "size": 1880, "mode": "100755"}
+{"path": "project_folder/systems/main_menu/scripts/open_project.gd", "blob": "c78a06009944ddbfda368c77bc15b7f73fc85087", "size": 1439, "mode": "100755"}
+{"path": "project_folder/systems/main_menu/scripts/project_buttons.gd", "blob": "e174e4920d173821a58fa30e89ca4274703906e3", "size": 986, "mode": "100755"}
+{"path": "project_folder/systems/map_system/MapDashboard.tscn", "blob": "d35df3f7b3308318321be3dda8c647f73c492219", "size": 8416, "mode": "100755"}
+{"path": "project_folder/systems/map_system/MapSystem.tscn", "blob": "b64d68ec17ac9863135c797a793c971d11b4f39d", "size": 50950, "mode": "100755"}
+{"path": "project_folder/systems/map_system/dependency/map_comment_system.gd", "blob": "8391eb345acf13031e778c51fad68985b9ca406a", "size": 2178, "mode": "100755"}
+{"path": "project_folder/systems/map_system/dependency/map_layer_system.gd", "blob": "bf817c814f130bb9b0fe44fa0d03ea3b76c05600", "size": 2878, "mode": "100755"}
+{"path": "project_folder/systems/map_system/dependency/map_pin_system.gd", "blob": "bf02a21ae2527c24d5a30d38dfee28c199933ed3", "size": 2270, "mode": "100755"}
+{"path": "project_folder/systems/map_system/dependency/map_system.gd", "blob": "4b09e7bbe866c5fa66414b788fbb6bef665b35e3", "size": 4635, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/LayerOptions.gd", "blob": "0b66b7e257435e2268c4f02660cb42ea133fede7", "size": 964, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/Map Layers.gd", "blob": "76b85cf0876443042000024b7b532d52649df0a5", "size": 1054, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/MapManager.gd", "blob": "06dc60bbcb9c3bde914bf846ca4081ea5dd3cb64", "size": 1952, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/MapMenu.gd", "blob": "8b137891791fe96927ad78e64b0aad7bded08bdc", "size": 1, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/ViewTools.gd", "blob": "2e62d42de5bf8ee96ac4a782a787d8169e466fa4", "size": 205, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/article_reader.gd", "blob": "147b66bf12b70a5b674fd0231cd2d6de3ce78b15", "size": 1939, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/inspector.gd", "blob": "70e8d32df92ef52785a46dd5b5a4e239d1cefb0a", "size": 3931, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/map_camera.gd", "blob": "2ddefaf2a3e7e6ae29ffe6eb2ceecd907918bb9b", "size": 2083, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/map_chunk.gd", "blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391", "size": 0, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/map_pin_manager.gd", "blob": "488591ebe729e509e0a67a0570f7f17d933d27f6", "size": 4742, "mode": "100755"}
+{"path": "project_folder/systems/map_system/scripts/maps.gd", "blob": "c18d2d2f97ae7fd590b4858dfca7881977f8a9d9", "size": 2428, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/Inspector/Inspector.tscn", "blob": "0b846de5533656fa0232d8781624543cc28762ed", "size": 6065, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/article_reader/ArticleReader.tscn", "blob": "539d3dc17021bc3ed1492d2a83e063736ddeeade", "size": 6904, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/article_reader/SearchBar.gd", "blob": "42856382596a7ad6a669ee9a49a61eb7184e6fa2", "size": 830, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/article_reader/Sub-UI element/MapPinButton.gd", "blob": "3f485c8df4bc9c6bce26a48e3f5ef23c399b5c8e", "size": 700, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/article_reader/Sub-UI element/MapPinButton.tscn", "blob": "75f044fa92d13dfd2ac753e8285ea89a844f493c", "size": 2101, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/layer_creator/LayerCreator.gd", "blob": "3f41418b331a6e185fc01703ebd72d51e5c4346f", "size": 3922, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/layer_creator/LayerCreator.tscn", "blob": "8e8500b7c467664aa2b8da1be6ada15aee083351", "size": 21942, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_comments/MapComment.tscn", "blob": "1811bf2082fa5fb5d1b58b30d2c4054dd0f3de32", "size": 14711, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_creator/MapCreator.gd", "blob": "adf717fa7c1d2923aba3abe1d68c3ee373f0f02c", "size": 2758, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_creator/MapCreator.tscn", "blob": "b48286162da7a605661b8c92ee2eb153145d4942", "size": 18784, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/MapCommentInspector.tscn", "blob": "0b21c7076a8301f9b7d5dd54493c3f8075ce9f61", "size": 15073, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/MapPinInspector.tscn", "blob": "33ca0f7d16acd90058bbc43e0d6b3d4c2542f184", "size": 17026, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/inspector_input.gd", "blob": "091dda3f8e11ee8dc3098c0d40bbb09a9a07bdbc", "size": 297, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/scripts/DeletePin.gd", "blob": "dda6ea0db8eb323c7a4651f3075ce800ec3da04c", "size": 88, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/scripts/LinkMap.gd", "blob": "8d879fd414bc04117a04f85676b513d1daca7980", "size": 389, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/scripts/MapPinInspector.gd", "blob": "a45984200b244d5aeb1386910f69c9253d365cc8", "size": 6312, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/scripts/PinArticle.gd", "blob": "a22536be1332cedce137b8e59ce4538801074c73", "size": 341, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/scripts/PinName.gd", "blob": "aaa1d3a6f4e2a6f9d6e66be55bf514a2357f1f11", "size": 224, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/scripts/PinPosition.gd", "blob": "3462be05d4a8ce75e94224cd80da62afaf122c9d", "size": 415, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/scripts/PinTags.gd", "blob": "2857d87434e5830a1d82fcf0a81324fc6ca316f0", "size": 261, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_element_inspector/scripts/PinTemplate.gd", "blob": "3cce3e863d41ed8d771e93e0eabfafcbe9f7996f", "size": 882, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_layers/Layers.tscn", "blob": "cc637dec4a3d55dbeba6f2033a939e6ebccf45b6", "size": 2582, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_layers/layers.gd", "blob": "ecdd894b3be98569b378f01ecda2432c4d32eee3", "size": 8830, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_layers/theme/default_layer_style_box.tres", "blob": "dcf52e9ca581bfa5adc59d0b71d9117e0a27369f", "size": 163, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_layers/theme/selected_layer_style.tres", "blob": "a374ef12c129ea9e1882623ac4e80cef6d5b2084", "size": 107, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_pin/MapPin.tscn", "blob": "b025c0e82c115ee9d92d07e1faa36a287ccb6e2c", "size": 9279, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_pin/MapPinStateMachine.gd", "blob": "da40fb304f5d4f207163860536033b74fb38b00d", "size": 4260, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_pin/map_pin.gd", "blob": "84b0a1a48a8953466c9f3563f5b6b6b1d2143759", "size": 3627, "mode": "100755"}
+{"path": "project_folder/systems/map_system/ui_elements/map_pin_symbol_creator/MapPinTemplateCreator.tscn", "blob": "c2b697dacf055ec483deb75e26f2871f0ba3d392", "size": 42522, "mode": "100755"}
+{"path": "project_folder/systems/ribbon_menu.tres", "blob": "0e55d74023a2d8ca13b67aa20d288ad857ce1b47", "size": 54, "mode": "100755"}
+{"path": "project_folder/systems/setting_menu/Settings.tscn", "blob": "efd1e62c5c9bac17f594c06bfed7a8113ad88b02", "size": 6453, "mode": "100755"}
+{"path": "project_folder/systems/shortcut_menu/ShortcutMenu.gd", "blob": "8a8307e30e5f5853c032c7efe3f294d7ab7caa47", "size": 566, "mode": "100755"}
+{"path": "project_folder/systems/shortcut_menu/ShortcutMenu.tscn", "blob": "cee844e4a7a13f9db55924f77796e80e1662bdbd", "size": 3817, "mode": "100755"}
+{"path": "project_folder/systems/shortcut_menu/script/CommandLine.gd", "blob": "82e2a5e3bf57e15e5ef30d0812bc9a533fad3b4a", "size": 335, "mode": "100755"}
+{"path": "project_folder/systems/shortcut_menu/script/Fullscreen.gd", "blob": "9c0ee19df691c4e246c6cf6e6275a7d3e2406309", "size": 333, "mode": "100755"}
+{"path": "project_folder/systems/shortcut_menu/script/ShortcutMenu.gd", "blob": "87584296e5ccc96fd2473c6250e7615d54e9a973", "size": 660, "mode": "100755"}
+{"path": "project_folder/systems/shortcut_menu/script/accept_dialog.gd", "blob": "2535b5ae1f02e3346ee233172bbc1a915a23431b", "size": 715, "mode": "100755"}
+{"path": "project_folder/systems/shortcut_menu/setting_menu/SettingMenu.tscn", "blob": "e4eec7300d176dda690f33ace08c0475018b6648", "size": 2922, "mode": "100755"}
+{"path": "project_folder/systems/shortcut_menu/setting_menu/setting_menu.gd", "blob": "d8d03d425139fe01898ee02c1b3ffd15eac74317", "size": 728, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/SearchBar.gd", "blob": "d322b1eec2f442f708c458a302877035bf166a71", "size": 509, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/WikiDashboard.tscn", "blob": "50a1f833cf988df484104de75a1403bbc641941b", "size": 15531, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/scrpits/WikiDashboard.gd", "blob": "c7b692362e3badac90537b226d67663508d85a7d", "size": 547, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/scrpits/card_manager.gd", "blob": "55ee10c1b74c6d6c707e1247731b4512273946d2", "size": 1613, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/scrpits/grid_container_manager.gd", "blob": "3fba567df780ae6cc9b1a5189028e91b34757f6a", "size": 649, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/cards/Background.gd", "blob": "54c9b71ecdfcfeb739cc1245983dabac3eee60f3", "size": 1287, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/cards/Cards.gd", "blob": "2ce9e38b5dbd3f3a019b46fce156914d82e1adf5", "size": 2567, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/cards/Cards.tres", "blob": "95a78434e3e1e4667a8c67c65cf47136b58c80f0", "size": 581, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/cards/Cards.tscn", "blob": "8ad24f011657ebba332eea6207dfd85d8fca10fd", "size": 13804, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_editor/Notes.gd", "blob": "576325feb0fb9d101376de8cc5e26fabfead963d", "size": 1309, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_editor/VBoxContainer.gd", "blob": "a9015069776bbb2e93a607bbe5685123bba3e7fa", "size": 186, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_editor/WikiEditor.gd", "blob": "7eeb38b479def7dfb0dbfba2cb42aa182e3f8d82", "size": 5102, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_editor/WikiEditor.tscn", "blob": "441d9490d5940e1c4eb1e9f39365df1fb1a2ad21", "size": 33459, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_editor/scripts/Preview.gd", "blob": "e7170e6f0b3af1179130884ad195040c3cf9c6d3", "size": 995, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_editor/scripts/UIManager.gd", "blob": "98f85ac3e1b1f20bee9cd57e12ab5e569c14bb0d", "size": 2077, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_editor/scripts/preset_input_manager.gd", "blob": "5f06b8cefa3b43c60f7ca7ad1cacfb05c22a56a0", "size": 2206, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_editor/scripts/text_editor.gd", "blob": "17acc826016859ea8939e5c5d3ed88601c1e8a26", "size": 2892, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_reader/WikiReader.tscn", "blob": "fbc70cdc7975ccc9a73cafcc08d32de308e9c607", "size": 13245, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_reader/tags_theme.tres", "blob": "893dc7882eb01b746b816f925b3f3618d27e6609", "size": 724, "mode": "100755"}
+{"path": "project_folder/systems/wiki_dashboard/ui_elements/wiki_reader/wiki_reader_theme.tres", "blob": "5fe84440feb11ef2154c32daf481dfdd2cf009d8", "size": 992, "mode": "100755"}
+{"path": "project_folder/transparent image.png", "blob": "400a75111d6f346cf18ceaebd6687d74b0e56f9f", "size": 1624, "mode": "100755"}

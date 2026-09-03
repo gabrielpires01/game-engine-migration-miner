@@ -1,0 +1,109 @@
+{
+  "generated_on": "2026-08-26",
+  "releases": 350,
+  "releases_stable": 73,
+  "repos_frame": 39553,
+  "repos_included": 37426,
+  "repos_mined": 300,
+  "version_events": 1134,
+  "major_migrations": 131,
+  "minor_upgrades": 192,
+  "minor_downgrades": 12,
+  "major_rollbacks": 4,
+  "at_risk_3to4": 198,
+  "migrated": 41,
+  "right_censored": 157,
+  "declared_version_distribution": {
+    "3.x": 3513,
+    "2.x": 430,
+    "4.0": 239,
+    "4.2": 127,
+    "4.1": 106,
+    "4.7": 105,
+    "4.6": 100,
+    "4.3": 96,
+    "4.4": 80,
+    "4.5": 64,
+    "4.x": 4
+  },
+  "strata": {
+    "game": 2189,
+    "addon": 509,
+    "unknown": 465,
+    "demo": 244,
+    "learning-material": 199,
+    "tool": 139,
+    "library": 63,
+    "template": 57
+  },
+  "migration_year_by_stratum": {
+    "addon": {
+      "2022": 5,
+      "2023": 5,
+      "2024": 2,
+      "2025": 1
+    },
+    "demo": {
+      "2021": 1,
+      "2023": 8,
+      "2024": 3,
+      "2025": 1,
+      "2026": 4
+    },
+    "game": {
+      "2022": 2,
+      "2023": 12,
+      "2024": 1,
+      "2025": 1,
+      "2026": 2
+    },
+    "learning-material": {
+      "2023": 1,
+      "2024": 1,
+      "2025": 9,
+      "2026": 3
+    },
+    "library": {
+      "2023": 4
+    },
+    "template": {
+      "2022": 2,
+      "2023": 7,
+      "2024": 2
+    },
+    "tool": {
+      "2021": 1,
+      "2022": 2,
+      "2023": 4,
+      "2024": 1,
+      "2025": 1,
+      "2026": 1
+    },
+    "unknown": {
+      "2021": 1,
+      "2022": 2,
+      "2023": 3,
+      "2024": 2,
+      "2025": 2
+    }
+  },
+  "message_miss": {
+    "major_3to4": 97,
+    "subject_names_engine_or_version": 78,
+    "missed_by_message_search": 19,
+    "miss_rate": 0.1959
+  },
+  "landed_on_minor": {
+    "4.0": 47,
+    "4.5": 12,
+    "4.1": 9,
+    "4.3": 8,
+    "4.2": 7,
+    "4.7": 7,
+    "4.6": 2,
+    "4.4": 1
+  },
+  "migration_days_median": 200,
+  "migration_days_min": 3,
+  "migration_days_max": 1268
+}

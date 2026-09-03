@@ -1,0 +1,55 @@
+{"path": ".gitignore", "blob": "cb8a5a9a12d1dd394e950906f85b0befad9756f5", "size": 107, "mode": "100644"}
+{"path": "Global.gd", "blob": "ba2dc1e84355d056b88724fded66a781d3ee5940", "size": 403, "mode": "100644"}
+{"path": "IntroScenes/FirstStoryCutScene.gd", "blob": "587300ce34f75c98605bf75da23039b0cc78acdf", "size": 11559, "mode": "100644"}
+{"path": "IntroScenes/FirstStoryCutScene.tscn", "blob": "bfbf3b6eb56d9f408b39d01b293442e4bb4e1885", "size": 40868, "mode": "100644"}
+{"path": "IntroScenes/GenderSelect.gd", "blob": "4a1f3f9d73e4dd0551bb6a23c7ebc3b5a6e01b70", "size": 4598, "mode": "100644"}
+{"path": "IntroScenes/Intro.gd", "blob": "a07dbb3a46c394fd2cfec5fcf373b59451ce3e0c", "size": 518, "mode": "100644"}
+{"path": "IntroScenes/Intro.tscn", "blob": "800305995fc7b8ebc0a4d0c02f8bb2c123279107", "size": 18328, "mode": "100644"}
+{"path": "IntroScenes/Menu.gd", "blob": "7c753f446573be6a86816a78a39bbf65a7b02060", "size": 721, "mode": "100644"}
+{"path": "IntroScenes/Menu.tscn", "blob": "efddbaaf7942cf33c6b2ffcdcaba497ce2c33066", "size": 38250, "mode": "100644"}
+{"path": "IntroScenes/PlayerCreation.gd", "blob": "d4c2d3c6d303273530a106ccba7cc0327c564ab4", "size": 4862, "mode": "100644"}
+{"path": "IntroScenes/PlayerCreation.tscn", "blob": "9b605f0bef8d3964c830c7d09294cebc7893d185", "size": 24502, "mode": "100644"}
+{"path": "IntroScenes/SaveMenu.gd", "blob": "0791c34051d3f3941a2cc2655f59e06a83538db3", "size": 1063, "mode": "100644"}
+{"path": "IntroScenes/SaveMenu.tscn", "blob": "45f8d542b1410f4315ab269a153c6c8e4ba9d92f", "size": 3692, "mode": "100644"}
+{"path": "Maps/Moki Town/DialogeBoxLayer.gd", "blob": "f55097854cfc1186cc6a6dab6934cee0ce302c4f", "size": 91, "mode": "100644"}
+{"path": "Maps/Moki Town/HeroHome.gd", "blob": "f1ef7bd3da9d1896c7c568d80e09f089ca2f5162", "size": 1963, "mode": "100644"}
+{"path": "Maps/Moki Town/HeroHome.tscn", "blob": "17317b9c407a8dde5297bc1df55ff5bddd6e295d", "size": 9486, "mode": "100644"}
+{"path": "Maps/Testing Levels/TestingLevel.tscn", "blob": "d0e35d3731795de395d0f2cea9d4469415dedb16", "size": 3750, "mode": "100644"}
+{"path": "PermittedAssets/CircleC.png", "blob": "8da87acbec31713796173695331722d630a699e1", "size": 17351, "mode": "100644"}
+{"path": "PermittedAssets/CircleC.png.import", "blob": "0068604fc14e11b320f1369575d25f302c0d0ebc", "size": 667, "mode": "100644"}
+{"path": "PermittedAssets/CircleS.png", "blob": "f963d54d434992b0006d0cd7319e2d612071721c", "size": 18444, "mode": "100644"}
+{"path": "PermittedAssets/CircleS.png.import", "blob": "1de196fa8ef7d9311613a5567750d631fa504c57", "size": 667, "mode": "100644"}
+{"path": "PermittedAssets/CircleX.png", "blob": "06a86c74d67232fb25af7b7e509af561cb0eec00", "size": 17844, "mode": "100644"}
+{"path": "PermittedAssets/CircleX.png.import", "blob": "29068779b3efdc5b45f8b4d5ec25985bf67b99f8", "size": 667, "mode": "100644"}
+{"path": "PermittedAssets/CircleZ.png", "blob": "0a04bf5d3bf5c8ac53b2f065f4b27480cea2f9ac", "size": 16806, "mode": "100644"}
+{"path": "PermittedAssets/CircleZ.png.import", "blob": "a6bcad6eed004052402ba8aa2376bad2da69b20a", "size": 667, "mode": "100644"}
+{"path": "PermittedAssets/Credit3-acedogblast.png", "blob": "de7c487e614712191ede8b7ae4cef43f9fa6b2c4", "size": 22269, "mode": "100644"}
+{"path": "PermittedAssets/Credit3-acedogblast.png.import", "blob": "bd93059c5106aa204b589571084bce8398a35981", "size": 703, "mode": "100644"}
+{"path": "PermittedAssets/Dpad.svg", "blob": "ba2562012114f31c443efe7d6544daeecdf2fc38", "size": 1901, "mode": "100644"}
+{"path": "PermittedAssets/Dpad.svg.import", "blob": "ba965e059830cd6f16f97a6076517e2776663cb3", "size": 658, "mode": "100644"}
+{"path": "PermittedAssets/icon.png", "blob": "a0b64eee944cb4cfb2aa8dc0d8d78faf6ca44dc1", "size": 3498, "mode": "100644"}
+{"path": "PermittedAssets/icon.png.import", "blob": "95b548385ea6cd8bb223413f853c8ab900df4d44", "size": 658, "mode": "100644"}
+{"path": "README.md", "blob": "ff5874d8b08ee2def2a78f6c72b8183b1deb7c48", "size": 1178, "mode": "100644"}
+{"path": "TileMapsSource/Indoor(1).tres", "blob": "55f9464860930c4b079cf61b6d7029080b83f9ee", "size": 16177, "mode": "100644"}
+{"path": "TileMapsSource/Indoor(1).tscn", "blob": "7ca3ef9a92d32343a4fa24e83b59ce20a440168b", "size": 17704, "mode": "100644"}
+{"path": "TileMapsSource/NuclearPlantInside.tres", "blob": "3b5e502c5cc4eb4f58285fe9a43331557a0c5dcd", "size": 6857, "mode": "100644"}
+{"path": "TileMapsSource/NuclearPlantInside.tscn", "blob": "d3ec18307d8630f7339d65db27b7c08c8a105e5c", "size": 5539, "mode": "100644"}
+{"path": "Utilities/DesktopKeyboard.gd", "blob": "7d7a36a622d477e1c71327953212695d14c13c39", "size": 702, "mode": "100644"}
+{"path": "Utilities/DesktopKeyboard.tscn", "blob": "05a0c5d759ea25201dab2c1263e1de309ffab074", "size": 3391, "mode": "100644"}
+{"path": "Utilities/Dialogue Box Arrow.tres", "blob": "0843928559466cfe0970788f6d04bb976fff3db5", "size": 406, "mode": "100644"}
+{"path": "Utilities/Dialogue Box Text Slide.tres", "blob": "47ee9271b5575becb0b5e40bea32bc6bb7fd9f09", "size": 1735, "mode": "100644"}
+{"path": "Utilities/Dialogue Box.gd", "blob": "c54b6777c42f18e674b0dec33b42dabf8282c574", "size": 2714, "mode": "100644"}
+{"path": "Utilities/Dialogue Box.tscn", "blob": "423a391fc415d2b9a14d6e89a4593d8ee2eba73d", "size": 6544, "mode": "100644"}
+{"path": "Utilities/DialogueBoxNew.gd", "blob": "4f8554be96f0ecb900fdb29e3245053154d2b714", "size": 1641, "mode": "100644"}
+{"path": "Utilities/DialogueBoxNew.tscn", "blob": "257863dfc3cdcbb412a044e12130e9049d290cb1", "size": 4061, "mode": "100644"}
+{"path": "Utilities/GameViewport.gd", "blob": "49d530d39163a57c49ba55deaa222a696aa9b263", "size": 84, "mode": "100644"}
+{"path": "Utilities/MobileControls.gd", "blob": "b127f87955bbd3297118f2f4f55acd67aacc79fd", "size": 2970, "mode": "100644"}
+{"path": "Utilities/MobileControls.tscn", "blob": "4c58d0bf792ba9de9a2e366b3b890748fec46a11", "size": 9019, "mode": "100644"}
+{"path": "Utilities/MobileKeyboard.gd", "blob": "f0d84f18f93a0f619e2ed1c0651f847e8286d3e8", "size": 2631, "mode": "100644"}
+{"path": "Utilities/MobileKeyboard.tscn", "blob": "ff6d6536bd1f06b46c07464be0478305d87d0984", "size": 26376, "mode": "100644"}
+{"path": "Utilities/Player.gd", "blob": "1cdaf38f07de433a8d7aa2985a1a0981fa48df55", "size": 5054, "mode": "100644"}
+{"path": "Utilities/Player.tscn", "blob": "e5716afd1fe3def842aa587c6c3aef1ffd73476c", "size": 5870, "mode": "100644"}
+{"path": "debug.keystore", "blob": "458f7eff3ecfcadd11c8d78c8b0c501afb5bbfd8", "size": 2513, "mode": "100644"}
+{"path": "default_env.tres", "blob": "8c5cc583060d3196db0d94aefde5a97f248b31c4", "size": 464, "mode": "100644"}
+{"path": "export_presets.cfg", "blob": "c6d07967c5480df86375eccb490442fd02fac191", "size": 7907, "mode": "100644"}
+{"path": "project.godot", "blob": "1edd2a69ca0e6a772b35ec9413deeb746c4fd14b", "size": 3510, "mode": "100644"}

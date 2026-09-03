@@ -1,0 +1,16 @@
+{"path": ".gitignore", "blob": "a55ca6a18cd6229107c691f47614ca33215c384d", "size": 252, "mode": "100755"}
+{"path": "CHANGELOG.md", "blob": "be8f4409c894c5dd44fad6b9e3ad9d6dc00a97bf", "size": 378, "mode": "100644"}
+{"path": "LICENSE", "blob": "f3c1d00eba4cafc617002971116ac785be84a471", "size": 1063, "mode": "100644"}
+{"path": "README.md", "blob": "856579f0e8df6b664e900afb16ab997d9d918703", "size": 1397, "mode": "100755"}
+{"path": "autoloads/global.gd", "blob": "d49ad7eb8a052311689bc411c7434126e3bdbed3", "size": 80, "mode": "100755"}
+{"path": "classes/qr_code.gd", "blob": "2ae7973b90d3600ce9447065eee5400a3c88da12", "size": 17563, "mode": "100755"}
+{"path": "classes/reed_solomon_generator.gd", "blob": "9bbf62bb5381b37cb07e12cc70394936b3c8d96a", "size": 1132, "mode": "100755"}
+{"path": "classes/utils.gd", "blob": "ee1df4f98d745975a43c90720f59c88bfef545a2", "size": 906, "mode": "100755"}
+{"path": "default_env.tres", "blob": "20207a4aa2cfbae0c95636531b00d91502940d12", "size": 163, "mode": "100755"}
+{"path": "icon.png", "blob": "b7b8d458762d3fe1d8485049cbefa69c41699041", "size": 983, "mode": "100755"}
+{"path": "icon.png.import", "blob": "beadf06a322bdf2f925d186838cca46b3b27b497", "size": 746, "mode": "100755"}
+{"path": "main.gd", "blob": "b1bcb2e1f6d4fbf93d68b5a31da82cd5d98b9715", "size": 767, "mode": "100755"}
+{"path": "main.tscn", "blob": "b9e75b0a9de1d7de204cdd71154d21545d6a3112", "size": 1940, "mode": "100755"}
+{"path": "project.godot", "blob": "6a1e4a6bb0fb6843153a8113b5fa95e06dd836db", "size": 944, "mode": "100755"}
+{"path": "qr_view.gd", "blob": "05153e029b49d57a82379a172146bb7cfd01f390", "size": 415, "mode": "100755"}
+{"path": "qr_view.tscn", "blob": "7b42679ecd6177c490d999fc93755f4c84957874", "size": 1111, "mode": "100755"}
